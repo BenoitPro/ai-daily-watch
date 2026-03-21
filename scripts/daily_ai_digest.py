@@ -330,6 +330,9 @@ def commit_and_push(log_path: pathlib.Path, date_text: str) -> bool:
 
     diff_result = run_git(["diff", "--cached", "--quiet"])
     if diff_result.returncode == 0:
+        push_result = run_git(["push", "origin", "main"])
+        if push_result.returncode != 0:
+            raise RuntimeError(push_result.stderr.strip() or "git push failed")
         return False
     if diff_result.returncode not in {0, 1}:
         raise RuntimeError(diff_result.stderr.strip() or "git diff --cached failed")
@@ -414,7 +417,6 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     update_log_file(LOG_FILE, date_text, digest_items)
-    write_launch_agent_file()
     ensure_origin_remote()
     changed = commit_and_push(LOG_FILE, date_text)
     if changed:

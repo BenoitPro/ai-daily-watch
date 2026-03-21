@@ -110,6 +110,33 @@ class CliTests(unittest.TestCase):
         mocked_run.assert_called_once()
 
 
+class GitFlowTests(unittest.TestCase):
+    def test_commit_and_push_pushes_even_without_new_staged_changes(self):
+        digest = load_module()
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            repo_root = pathlib.Path(tmpdir)
+            log_path = repo_root / "AI_NEWS_LOG.md"
+            launchd_path = repo_root / "launchd" / "com.benoitpro.ai-daily-watch.plist"
+            launchd_path.parent.mkdir(parents=True)
+            log_path.write_text("log")
+            launchd_path.write_text("plist")
+
+            calls = []
+
+            def fake_run_git(args, cwd=None):
+                calls.append(args)
+                if args[:3] == ["diff", "--cached", "--quiet"]:
+                    return mock.Mock(returncode=0, stderr="")
+                return mock.Mock(returncode=0, stderr="")
+
+            with mock.patch.object(digest, "REPO_ROOT", repo_root), mock.patch.object(digest, "LAUNCHD_FILE", launchd_path), mock.patch.object(digest, "run_git", side_effect=fake_run_git):
+                changed = digest.commit_and_push(log_path, "2026-03-21")
+
+        self.assertFalse(changed)
+        self.assertIn(["push", "origin", "main"], calls)
+
+
 class IntegrationHelpersTests(unittest.TestCase):
     def test_parse_google_news_feed_extracts_story_fields(self):
         digest = load_module()
@@ -181,6 +208,17 @@ class FileUpdateTests(unittest.TestCase):
         self.assertIn("# AI News Log", text)
         self.assertIn("## 2026-03-21", text)
         self.assertIn("Anthropic launches a new coding model", text)
+
+
+class MainFlowTests(unittest.TestCase):
+    def test_main_live_run_does_not_regenerate_launch_agent(self):
+        digest = load_module()
+
+        with mock.patch.object(digest, "fetch_candidate_items", return_value=[]), mock.patch.object(digest, "build_digest_items", return_value=[{"title": "Low signal day for AI news", "source": "Internal fallback", "link": "https://github.com", "implication": "Fallback."}]), mock.patch.object(digest, "update_log_file"), mock.patch.object(digest, "ensure_origin_remote"), mock.patch.object(digest, "commit_and_push", return_value=True), mock.patch.object(digest, "write_launch_agent_file") as mocked_write_launch_agent:
+            exit_code = digest.main(["--date", "2026-03-21"])
+
+        self.assertEqual(exit_code, 0)
+        mocked_write_launch_agent.assert_not_called()
 
 
 if __name__ == "__main__":
