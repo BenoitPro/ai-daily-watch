@@ -18,7 +18,6 @@ REPO_ROOT = pathlib.Path(__file__).resolve().parent.parent
 LOG_FILE = REPO_ROOT / "AI_NEWS_LOG.md"
 LAUNCHD_FILE = REPO_ROOT / "launchd" / "com.benoitpro.ai-daily-watch.plist"
 SUMMARY_EMAIL_TO = "benoit.baillon@edhec.com"
-MAIL_ACCOUNT_NAME = "Exchange"
 DEFAULT_LIMIT = 7
 DEFAULT_HOUR = 9
 DEFAULT_MINUTE = 0
@@ -242,11 +241,8 @@ def applescript_string(value: str) -> str:
 def build_mail_applescript(recipient: str, subject: str, body: str) -> str:
     return f'''
 tell application "Mail"
-    set sendingAccount to first account whose name is "{applescript_string(MAIL_ACCOUNT_NAME)}"
-    set outgoingMessage to make new outgoing message with properties {{subject:"{applescript_string(subject)}", content:"{applescript_string(body)}", visible:false}}
+    set outgoingMessage to make new outgoing message with properties {{subject:"{applescript_string(subject)}", content:"{applescript_string(body)}", visible:false, sender:"{applescript_string(SUMMARY_EMAIL_TO)}"}}
     tell outgoingMessage
-        set sender to "{applescript_string(SUMMARY_EMAIL_TO)}"
-        set account to sendingAccount
         make new to recipient at end of to recipients with properties {{address:"{applescript_string(recipient)}"}}
         send
     end tell

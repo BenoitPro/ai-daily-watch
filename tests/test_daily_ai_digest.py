@@ -207,9 +207,9 @@ class IntegrationHelpersTests(unittest.TestCase):
             body="Test body",
         )
 
-        self.assertIn('first account whose name is "Exchange"', script)
         self.assertIn('address:"benoit.baillon@edhec.com"', script)
         self.assertIn('subject:"Veille IA - 2026-03-21"', script)
+        self.assertIn('sender:"benoit.baillon@edhec.com"', script)
 
 
 class FileUpdateTests(unittest.TestCase):
