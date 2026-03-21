@@ -166,14 +166,50 @@ class IntegrationHelpersTests(unittest.TestCase):
             script_path="/tmp/repo/scripts/daily_ai_digest.py",
             repo_root="/tmp/repo",
             hour=9,
-            minute=15,
+            minute=0,
         )
 
         self.assertIn("com.benoitpro.ai-daily-watch", plist)
         self.assertIn("/tmp/repo/scripts/daily_ai_digest.py", plist)
         self.assertIn("/tmp/repo/logs/ai-daily-watch.out.log", plist)
         self.assertIn("<integer>9</integer>", plist)
-        self.assertIn("<integer>15</integer>", plist)
+        self.assertIn("<integer>0</integer>", plist)
+
+    def test_build_email_body_includes_top_items(self):
+        digest = load_module()
+
+        body = digest.build_email_body(
+            "2026-03-21",
+            [
+                {
+                    "title": "OpenAI ships a new coding agent",
+                    "source": "Example Source",
+                    "link": "https://example.com/story",
+                    "implication": "Developer workflows will keep getting more automated.",
+                }
+            ],
+        )
+
+        self.assertIn("Veille IA du 2026-03-21", body)
+        self.assertIn("OpenAI ships a new coding agent", body)
+        self.assertIn("Developer workflows will keep getting more automated.", body)
+
+    def test_build_email_subject_uses_date(self):
+        digest = load_module()
+        self.assertEqual(digest.build_email_subject("2026-03-21"), "Veille IA - 2026-03-21")
+
+    def test_build_mail_applescript_pins_mail_account_and_recipient(self):
+        digest = load_module()
+
+        script = digest.build_mail_applescript(
+            recipient="benoit.baillon@edhec.com",
+            subject="Veille IA - 2026-03-21",
+            body="Test body",
+        )
+
+        self.assertIn('first account whose name is "Exchange"', script)
+        self.assertIn('address:"benoit.baillon@edhec.com"', script)
+        self.assertIn('subject:"Veille IA - 2026-03-21"', script)
 
 
 class FileUpdateTests(unittest.TestCase):
@@ -214,11 +250,12 @@ class MainFlowTests(unittest.TestCase):
     def test_main_live_run_does_not_regenerate_launch_agent(self):
         digest = load_module()
 
-        with mock.patch.object(digest, "fetch_candidate_items", return_value=[]), mock.patch.object(digest, "build_digest_items", return_value=[{"title": "Low signal day for AI news", "source": "Internal fallback", "link": "https://github.com", "implication": "Fallback."}]), mock.patch.object(digest, "update_log_file"), mock.patch.object(digest, "ensure_origin_remote"), mock.patch.object(digest, "commit_and_push", return_value=True), mock.patch.object(digest, "write_launch_agent_file") as mocked_write_launch_agent:
+        with mock.patch.object(digest, "fetch_candidate_items", return_value=[]), mock.patch.object(digest, "build_digest_items", return_value=[{"title": "Low signal day for AI news", "source": "Internal fallback", "link": "https://github.com", "implication": "Fallback."}]), mock.patch.object(digest, "update_log_file"), mock.patch.object(digest, "ensure_origin_remote"), mock.patch.object(digest, "commit_and_push", return_value=True), mock.patch.object(digest, "write_launch_agent_file") as mocked_write_launch_agent, mock.patch.object(digest, "send_summary_email") as mocked_send_summary_email:
             exit_code = digest.main(["--date", "2026-03-21"])
 
         self.assertEqual(exit_code, 0)
         mocked_write_launch_agent.assert_not_called()
+        mocked_send_summary_email.assert_called_once()
 
 
 if __name__ == "__main__":

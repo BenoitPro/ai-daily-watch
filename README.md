@@ -9,6 +9,7 @@ Local macOS agent that writes one AI news digest per day into a single Markdown 
 - Writes everything into one file: `AI_NEWS_LOG.md`
 - Commits to `main` with the GitHub identity already configured on this Mac
 - Pushes to GitHub once per day via macOS `launchd`
+- Sends a plain-text email recap to `benoit.baillon@edhec.com`
 
 ## Sources
 
@@ -30,9 +31,11 @@ Live run:
 python3 scripts/daily_ai_digest.py
 ```
 
+The live run updates GitHub and sends the email summary.
+
 ## Schedule
 
-The LaunchAgent is set to run every day at `09:15` local time.
+The LaunchAgent is set to run every day at `09:00` local time.
 
 Template file:
 
@@ -47,3 +50,4 @@ Installed location on macOS:
 - The digest keeps a single long-lived Markdown log instead of creating one file per day.
 - If the news signal is weak, the script still writes a short fallback entry so the file changes and the commit remains real.
 - The configured Git identity for this machine is used for attribution.
+- Email delivery uses the local Apple Mail setup on this Mac.

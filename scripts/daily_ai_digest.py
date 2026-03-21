@@ -17,9 +17,11 @@ import xml.etree.ElementTree as ET
 REPO_ROOT = pathlib.Path(__file__).resolve().parent.parent
 LOG_FILE = REPO_ROOT / "AI_NEWS_LOG.md"
 LAUNCHD_FILE = REPO_ROOT / "launchd" / "com.benoitpro.ai-daily-watch.plist"
+SUMMARY_EMAIL_TO = "benoit.baillon@edhec.com"
+MAIL_ACCOUNT_NAME = "Exchange"
 DEFAULT_LIMIT = 7
 DEFAULT_HOUR = 9
-DEFAULT_MINUTE = 15
+DEFAULT_MINUTE = 0
 USER_AGENT = "ai-daily-watch/1.0"
 
 GOOGLE_NEWS_QUERIES = [
@@ -209,6 +211,62 @@ def resolve_date(date_override: str | None) -> str:
 
 def build_commit_message(date_text: str) -> str:
     return f"chore: daily AI watch {date_text}"
+
+
+def build_email_subject(date_text: str) -> str:
+    return f"Veille IA - {date_text}"
+
+
+def build_email_body(date_text: str, items: list[dict[str, str]]) -> str:
+    lines = [
+        f"Veille IA du {date_text}",
+        "",
+        f"{len(items)} actus retenues aujourd'hui:",
+        "",
+    ]
+    for index, item in enumerate(items, start=1):
+        lines.append(f"{index}. {item['title']}")
+        lines.append(f"Source: {item['source']}")
+        lines.append(f"Implication: {item['implication']}")
+        lines.append(f"Lien: {item['link']}")
+        lines.append("")
+    lines.append("Archive GitHub:")
+    lines.append("https://github.com/BenoitPro/ai-daily-watch")
+    return "\n".join(lines).strip() + "\n"
+
+
+def applescript_string(value: str) -> str:
+    return value.replace("\\", "\\\\").replace('"', '\\"')
+
+
+def build_mail_applescript(recipient: str, subject: str, body: str) -> str:
+    return f'''
+tell application "Mail"
+    set sendingAccount to first account whose name is "{applescript_string(MAIL_ACCOUNT_NAME)}"
+    set outgoingMessage to make new outgoing message with properties {{subject:"{applescript_string(subject)}", content:"{applescript_string(body)}", visible:false}}
+    tell outgoingMessage
+        set sender to "{applescript_string(SUMMARY_EMAIL_TO)}"
+        set account to sendingAccount
+        make new to recipient at end of to recipients with properties {{address:"{applescript_string(recipient)}"}}
+        send
+    end tell
+end tell
+'''
+
+
+def send_summary_email(date_text: str, items: list[dict[str, str]], recipient: str = SUMMARY_EMAIL_TO) -> None:
+    subject = build_email_subject(date_text)
+    body = build_email_body(date_text, items)
+    script = build_mail_applescript(recipient=recipient, subject=subject, body=body)
+    result = subprocess.run(
+        ["/usr/bin/osascript"],
+        input=script,
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+    if result.returncode != 0:
+        raise RuntimeError(result.stderr.strip() or "Mail send failed")
 
 
 def git_binary() -> str:
@@ -419,10 +477,11 @@ def main(argv: list[str] | None = None) -> int:
     update_log_file(LOG_FILE, date_text, digest_items)
     ensure_origin_remote()
     changed = commit_and_push(LOG_FILE, date_text)
+    send_summary_email(date_text, digest_items)
     if changed:
-        print(f"Committed and pushed {date_text}.")
+        print(f"Committed, pushed, and emailed {date_text}.")
     else:
-        print(f"No changes to commit for {date_text}.")
+        print(f"No changes to commit for {date_text}, but push and email succeeded.")
     return 0
 
 
