@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.benoitpro.ai-daily-watch</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/opt/homebrew/opt/python@3.13/bin/python3.13</string>
+    <string>/Users/benoit/Documents/Antigravity_Dev/Commit_github/scripts/daily_ai_digest.py</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>/Users/benoit/Documents/Antigravity_Dev/Commit_github</string>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+  </dict>
+  <key>StandardOutPath</key>
+  <string>/Users/benoit/Documents/Antigravity_Dev/Commit_github/logs/ai-daily-watch.out.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/benoit/Documents/Antigravity_Dev/Commit_github/logs/ai-daily-watch.err.log</string>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>9</integer>
+    <key>Minute</key>
+    <integer>15</integer>
+  </dict>
+</dict>
+</plist>
