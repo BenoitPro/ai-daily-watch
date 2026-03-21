@@ -28,6 +28,6 @@ Daily AI watch entries will be appended here.
   Source: marketscreener.com
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
 
-- [How we monitor internal coding agents for misalignment](https://news.google.com/rss/articles/CBMiggFBVV95cUxPOHFLeldXYmZZOXBBQXhJZlVVYmU1T2NobkJxcG1xTlJFMF80S2VLcjYwNEpuSEtsOWR2V2MtS3laMndVQ2pCVXVVOXc3RDVZSDVmdmNISVNoc0dGQlFYUGlGd1ZZbldSSEItdU9hVkdpVzRUSHlnODdvZ0FTZk9oclZn?oc=5)
-  Source: OpenAI
-  Implication: AI agents are becoming more practical for day-to-day workflows.
+- [xAI Sends Engineers to Client Sites to Win Business from OpenAI](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjBKUU9iRzZPdnJmYlQydGYtdUJMN01GWERRZFlNTkQ4Xy1KOXFzdDhVZW9WU2NIOUVEQnFHUlRmZGUydmxoNWZSeUU3MklnLWtjb2NQMWZ5RGNsclN6YjU2TkNyS1pEV2EydVU3VW5kaVlGSl9iWkpIWUdyeWtnWjFmYnNsZnE1cjVTbncxY1hOS1l3LXJmU1hMdXdWVGJiZEtCMkVNMkl0S01kSWUzTlNnZ0s?oc=5)
+  Source: Bloomberg
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
