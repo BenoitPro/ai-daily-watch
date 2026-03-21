@@ -23,11 +23,3 @@ Daily AI watch entries will be appended here.
 - [OpenAI owns the AI conversation and Anthropic's 'good guy' play isn't changing that: study](https://news.google.com/rss/articles/CBMivwFBVV95cUxNYmJiQ3VpY0Z4THBfRnNhYlNvSU1RdzRhVURhMUxiMGFHbk5ZZFViTlBBVWJUN25KMzR3VXd2WmZkMzlCUk9fOV9QamFjX0FKYjBhLWF1MlhyTlgyZXlvSWhJYW1RZGlWOWhSTFp1bWlZb1ktYS1BU1dZTFo2WXc1ektFSnVETEdMY1J4eWNQcUlSMnE4amhoX2RLSkJVN1g1UlN0T1lseUlFb1ZtdThkX01LNzhjSFhzMWVhb25jdw?oc=5)
   Source: Campaign US
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
-
-- [OpenAI plans to increase staff to 8,000 by end of 2026 in bid to close gap with rival Anthropic- FT](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaGV0QWU2Z3M1WjUyWkNLTXU3enIycThfSFpIWmZrcHVNQzAyMjI4MG02THhvZTBsU2pPUVZ0T2RYN2RCVGYta284aVJmWjFyekRMdDlaWm1VWUgwS2tyb0NJb3ZhTmxFcVhqSFRDUGtXdFFaZ2RWYTFNN3cwMmZRNHgtZWMxMjlzWFd2S1dyYjFxVUlTWEJicVZJLWoyQUFjQnQxQ2M3VG9pVjVfSHFUeFRpRzZDcnpFdVJvbmZmOGZYaDFKYm13dzAxbnUtUFF4WGRsRDluMVVKcm9OYk5FWWE4TlhtQQ?oc=5)
-  Source: marketscreener.com
-  Implication: Worth tracking for tooling, product strategy, and workflow changes.
-
-- [xAI Sends Engineers to Client Sites to Win Business from OpenAI](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjBKUU9iRzZPdnJmYlQydGYtdUJMN01GWERRZFlNTkQ4Xy1KOXFzdDhVZW9WU2NIOUVEQnFHUlRmZGUydmxoNWZSeUU3MklnLWtjb2NQMWZ5RGNsclN6YjU2TkNyS1pEV2EydVU3VW5kaVlGSl9iWkpIWUdyeWtnWjFmYnNsZnE1cjVTbncxY1hOS1l3LXJmU1hMdXdWVGJiZEtCMkVNMkl0S01kSWUzTlNnZ0s?oc=5)
-  Source: Bloomberg
-  Implication: Worth tracking for tooling, product strategy, and workflow changes.
