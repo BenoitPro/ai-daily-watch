@@ -190,7 +190,11 @@ class IntegrationHelpersTests(unittest.TestCase):
             ],
         )
 
-        self.assertIn("Veille IA du 2026-03-21", body)
+        self.assertIn("ALAIN // VEILLE IA", body)
+        self.assertIn("21 mars 2026", body)
+        self.assertIn("Signal du jour", body)
+        self.assertIn("Radar du jour", body)
+        self.assertIn("1. OpenAI ships a new coding agent", body)
         self.assertIn("OpenAI ships a new coding agent", body)
         self.assertIn("Developer workflows will keep getting more automated.", body)
 

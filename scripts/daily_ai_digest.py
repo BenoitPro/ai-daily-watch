@@ -216,20 +216,84 @@ def build_email_subject(date_text: str) -> str:
     return f"Veille IA - {date_text}"
 
 
-def build_email_body(date_text: str, items: list[dict[str, str]]) -> str:
-    lines = [
-        f"Veille IA du {date_text}",
-        "",
-        f"{len(items)} actus retenues aujourd'hui:",
-        "",
+def format_french_date(date_text: str) -> str:
+    parsed = dt.date.fromisoformat(date_text)
+    months = [
+        "janvier",
+        "fevrier",
+        "mars",
+        "avril",
+        "mai",
+        "juin",
+        "juillet",
+        "aout",
+        "septembre",
+        "octobre",
+        "novembre",
+        "decembre",
     ]
+    return f"{parsed.day} {months[parsed.month - 1]} {parsed.year}"
+
+
+def build_signal_summary(items: list[dict[str, str]]) -> list[str]:
+    top_titles = [item["title"] for item in items[:3]]
+    if not top_titles:
+        return ["Journee calme, peu de signaux vraiment saillants."]
+    return top_titles
+
+
+def build_topic_radar(items: list[dict[str, str]]) -> str:
+    keyword_groups = {
+        "Agents": ("agent", "assistant", "automation"),
+        "Coding": ("coding", "developer", "code", "python"),
+        "Modeles": ("model", "llm", "reasoning"),
+        "OpenAI": ("openai",),
+        "Anthropic": ("anthropic",),
+        "Infrastructure": ("gpu", "chip", "compute", "nvidia"),
+    }
+    hits: list[str] = []
+    haystacks = [f"{item['title']} {item['implication']}".lower() for item in items]
+    for label, keywords in keyword_groups.items():
+        if any(any(keyword in haystack for keyword in keywords) for haystack in haystacks):
+            hits.append(label)
+    if not hits:
+        return "Signal generaliste"
+    return " | ".join(hits[:4])
+
+
+def build_email_body(date_text: str, items: list[dict[str, str]]) -> str:
+    friendly_date = format_french_date(date_text)
+    summary_lines = build_signal_summary(items)
+    lines = [
+        "ALAIN // VEILLE IA",
+        friendly_date,
+        "",
+        "Une note courte, utile, et orientee action.",
+        "",
+        "Signal du jour",
+        "-------------",
+    ]
+    for summary in summary_lines:
+        lines.append(f"- {summary}")
+    lines.extend(
+        [
+            "",
+            "Radar du jour",
+            "-------------",
+            build_topic_radar(items),
+            "",
+            "A retenir",
+            "---------",
+        ]
+    )
     for index, item in enumerate(items, start=1):
         lines.append(f"{index}. {item['title']}")
         lines.append(f"Source: {item['source']}")
-        lines.append(f"Implication: {item['implication']}")
+        lines.append(f"Pourquoi c'est important: {item['implication']}")
         lines.append(f"Lien: {item['link']}")
         lines.append("")
-    lines.append("Archive GitHub:")
+    lines.append("Archive GitHub")
+    lines.append("--------------")
     lines.append("https://github.com/BenoitPro/ai-daily-watch")
     return "\n".join(lines).strip() + "\n"
 
