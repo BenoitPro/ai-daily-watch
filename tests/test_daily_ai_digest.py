@@ -198,22 +198,58 @@ class IntegrationHelpersTests(unittest.TestCase):
         self.assertIn("OpenAI ships a new coding agent", body)
         self.assertIn("Developer workflows will keep getting more automated.", body)
 
+    def test_build_email_html_includes_newsletter_sections(self):
+        digest = load_module()
+
+        html = digest.build_email_html(
+            "2026-03-21",
+            [
+                {
+                    "title": "OpenAI ships a new coding agent",
+                    "source": "Example Source",
+                    "link": "https://example.com/story",
+                    "implication": "Developer workflows will keep getting more automated.",
+                }
+            ],
+        )
+
+        self.assertIn("ALAIN // VEILLE IA", html)
+        self.assertIn("21 mars 2026", html)
+        self.assertIn("Signal du jour", html)
+        self.assertIn("OpenAI ships a new coding agent", html)
+        self.assertIn("https://example.com/story", html)
+        self.assertIn("#212c4c", html)
+
     def test_build_email_subject_uses_date(self):
         digest = load_module()
         self.assertEqual(digest.build_email_subject("2026-03-21"), "Veille IA - 2026-03-21")
 
-    def test_build_mail_applescript_pins_mail_account_and_recipient(self):
+    def test_build_raw_email_source_includes_html_and_plain_parts(self):
         digest = load_module()
 
-        script = digest.build_mail_applescript(
+        source = digest.build_raw_email_source(
             recipient="benoit.baillon@edhec.com",
             subject="Veille IA - 2026-03-21",
-            body="Test body",
+            text_body="Test body",
+            html_body="<html><body><strong>Test</strong></body></html>",
         )
 
-        self.assertIn('address:"benoit.baillon@edhec.com"', script)
-        self.assertIn('subject:"Veille IA - 2026-03-21"', script)
-        self.assertIn('sender:"benoit.baillon@edhec.com"', script)
+        self.assertIn("To: benoit.baillon@edhec.com", source)
+        self.assertIn("Subject: Veille IA - 2026-03-21", source)
+        self.assertIn("Content-Type: multipart/alternative", source)
+        self.assertIn("Content-Type: text/plain", source)
+        self.assertIn("Content-Type: text/html", source)
+        self.assertIn("<strong>Test</strong>", source)
+
+    def test_build_outlook_applescript_uses_raw_source_on_creation(self):
+        digest = load_module()
+
+        script = digest.build_outlook_applescript(
+            raw_source='To: benoit.baillon@edhec.com\\rSubject: Test\\r\\rHello',
+        )
+
+        self.assertIn('make new outgoing message with properties {source:"', script)
+        self.assertIn('send msg', script)
 
 
 class FileUpdateTests(unittest.TestCase):

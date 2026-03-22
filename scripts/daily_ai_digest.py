@@ -2,6 +2,8 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import email.policy
+from email.message import EmailMessage
 import html
 import json
 import pathlib
@@ -302,22 +304,181 @@ def applescript_string(value: str) -> str:
     return value.replace("\\", "\\\\").replace('"', '\\"')
 
 
-def build_mail_applescript(recipient: str, subject: str, body: str) -> str:
+def build_email_html(date_text: str, items: list[dict[str, str]]) -> str:
+    friendly_date = html.escape(format_french_date(date_text))
+    summaries = "".join(
+        f"""
+        <tr>
+          <td style="padding:0 0 10px 0;font-size:16px;line-height:24px;color:#212c4c;">{html.escape(summary)}</td>
+        </tr>
+        """
+        for summary in build_signal_summary(items)
+    )
+    if not summaries:
+        summaries = """
+        <tr>
+          <td style="padding:0 0 10px 0;font-size:16px;line-height:24px;color:#212c4c;">Journee calme, peu de signaux vraiment saillants.</td>
+        </tr>
+        """
+
+    cards = []
+    for index, item in enumerate(items, start=1):
+        cards.append(
+            f"""
+            <tr>
+              <td style="padding:0 0 18px 0;">
+                <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="border:1px solid #dbe6fb;border-radius:18px;background:#ffffff;">
+                  <tr>
+                    <td style="padding:20px 22px 8px 22px;">
+                      <div style="font-size:12px;line-height:18px;letter-spacing:1.4px;text-transform:uppercase;color:#2d6cdf;font-weight:700;">Actu {index}</div>
+                      <div style="padding-top:8px;font-size:24px;line-height:31px;font-weight:700;color:#212c4c;">{html.escape(item['title'])}</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="padding:0 22px 10px 22px;font-size:14px;line-height:21px;color:#5e6b8a;">Source: {html.escape(item['source'])}</td>
+                  </tr>
+                  <tr>
+                    <td style="padding:0 22px 18px 22px;font-size:16px;line-height:25px;color:#33405f;">{html.escape(item['implication'])}</td>
+                  </tr>
+                  <tr>
+                    <td style="padding:0 22px 22px 22px;">
+                      <a href="{html.escape(item['link'], quote=True)}" style="display:inline-block;padding:12px 18px;border-radius:999px;background:#212c4c;color:#ffffff;font-size:14px;line-height:14px;font-weight:700;text-decoration:none;">Lire la source</a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            """
+        )
+
+    radar = html.escape(build_topic_radar(items))
+    cards_markup = "".join(cards)
+    return f"""<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veille IA - {friendly_date}</title>
+  </head>
+  <body style="margin:0;padding:0;background:#f4f8ff;color:#212c4c;">
+    <div style="display:none;max-height:0;overflow:hidden;opacity:0;">Veille IA quotidienne ALAIN: les signaux utiles du jour.</div>
+    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#f4f8ff;">
+      <tr>
+        <td align="center" style="padding:28px 16px 40px 16px;">
+          <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="max-width:680px;background:#ffffff;border-radius:28px;overflow:hidden;">
+            <tr>
+              <td style="padding:0;background:linear-gradient(135deg,#ffffff 0%,#eef4ff 58%,#dceaff 100%);border-bottom:4px solid #2d6cdf;">
+                <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                  <tr>
+                    <td style="padding:30px 30px 28px 30px;">
+                      <div style="font-size:12px;line-height:18px;letter-spacing:2px;text-transform:uppercase;color:#2d6cdf;font-weight:700;">ALAIN // VEILLE IA</div>
+                      <div style="padding-top:10px;font-size:34px;line-height:39px;font-weight:700;color:#212c4c;">Les actus IA utiles du jour</div>
+                      <div style="padding-top:10px;font-size:16px;line-height:24px;color:#4f5f86;">{friendly_date} · note courte, claire, orientee impact.</div>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding:28px 30px 8px 30px;">
+                <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="border:1px solid #dbe6fb;border-radius:20px;background:#f7faff;">
+                  <tr>
+                    <td style="padding:22px 24px;">
+                      <div style="font-size:13px;line-height:18px;letter-spacing:1.4px;text-transform:uppercase;color:#2d6cdf;font-weight:700;">Signal du jour</div>
+                      <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="padding-top:12px;">
+                        {summaries}
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding:14px 30px 8px 30px;">
+                <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                  <tr>
+                    <td width="50%" style="padding:0 8px 0 0;">
+                      <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="border:1px solid #e3ebfa;border-radius:18px;background:#ffffff;">
+                        <tr>
+                          <td style="padding:18px 20px;">
+                            <div style="font-size:12px;line-height:18px;letter-spacing:1.4px;text-transform:uppercase;color:#7a8cb4;font-weight:700;">Radar</div>
+                            <div style="padding-top:8px;font-size:17px;line-height:24px;color:#212c4c;font-weight:700;">{radar}</div>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td width="50%" style="padding:0 0 0 8px;">
+                      <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="border:1px solid #e3ebfa;border-radius:18px;background:#ffffff;">
+                        <tr>
+                          <td style="padding:18px 20px;">
+                            <div style="font-size:12px;line-height:18px;letter-spacing:1.4px;text-transform:uppercase;color:#7a8cb4;font-weight:700;">Archive</div>
+                            <div style="padding-top:8px;font-size:16px;line-height:24px;color:#33405f;">Le detail journalier reste trace dans GitHub.</div>
+                            <div style="padding-top:10px;"><a href="https://github.com/BenoitPro/ai-daily-watch" style="color:#2d6cdf;font-size:14px;line-height:20px;font-weight:700;text-decoration:none;">Ouvrir l'archive</a></div>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding:20px 30px 20px 30px;">
+                <div style="font-size:13px;line-height:18px;letter-spacing:1.4px;text-transform:uppercase;color:#2d6cdf;font-weight:700;padding-bottom:14px;">A retenir</div>
+                <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                  {cards_markup}
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding:0 30px 30px 30px;">
+                <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="border-top:1px solid #e8eefb;">
+                  <tr>
+                    <td style="padding-top:18px;font-size:13px;line-height:20px;color:#6c7b9b;">
+                      Envoi automatique quotidien depuis le poste local. Format editorial ALAIN, sobre, blanc, bleu, lisible sur mobile et desktop.
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+"""
+
+
+def build_raw_email_source(recipient: str, subject: str, text_body: str, html_body: str) -> str:
+    message = EmailMessage()
+    message["To"] = recipient
+    message["Subject"] = subject
+    message.set_content(text_body, subtype="plain", charset="utf-8")
+    message.add_alternative(html_body, subtype="html", charset="utf-8")
+    return message.as_string(policy=email.policy.SMTP)
+
+
+def build_outlook_applescript(raw_source: str) -> str:
     return f'''
-tell application "Mail"
-    set outgoingMessage to make new outgoing message with properties {{subject:"{applescript_string(subject)}", content:"{applescript_string(body)}", visible:false, sender:"{applescript_string(SUMMARY_EMAIL_TO)}"}}
-    tell outgoingMessage
-        make new to recipient at end of to recipients with properties {{address:"{applescript_string(recipient)}"}}
-        send
-    end tell
+tell application "Microsoft Outlook"
+    set msg to make new outgoing message with properties {{source:"{applescript_string(raw_source)}"}}
+    send msg
 end tell
 '''
 
 
 def send_summary_email(date_text: str, items: list[dict[str, str]], recipient: str = SUMMARY_EMAIL_TO) -> None:
     subject = build_email_subject(date_text)
-    body = build_email_body(date_text, items)
-    script = build_mail_applescript(recipient=recipient, subject=subject, body=body)
+    text_body = build_email_body(date_text, items)
+    html_body = build_email_html(date_text, items)
+    raw_source = build_raw_email_source(
+        recipient=recipient,
+        subject=subject,
+        text_body=text_body,
+        html_body=html_body,
+    )
+    script = build_outlook_applescript(raw_source=raw_source)
     result = subprocess.run(
         ["/usr/bin/osascript"],
         input=script,
