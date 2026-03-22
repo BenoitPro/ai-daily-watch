@@ -23,3 +23,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI owns the AI conversation and Anthropic's 'good guy' play isn't changing that: study](https://news.google.com/rss/articles/CBMivwFBVV95cUxNYmJiQ3VpY0Z4THBfRnNhYlNvSU1RdzRhVURhMUxiMGFHbk5ZZFViTlBBVWJUN25KMzR3VXd2WmZkMzlCUk9fOV9QamFjX0FKYjBhLWF1MlhyTlgyZXlvSWhJYW1RZGlWOWhSTFp1bWlZb1ktYS1BU1dZTFo2WXc1ektFSnVETEdMY1J4eWNQcUlSMnE4amhoX2RLSkJVN1g1UlN0T1lseUlFb1ZtdThkX01LNzhjSFhzMWVhb25jdw?oc=5)
   Source: Campaign US
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-03-22
+
+- [Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise](https://news.google.com/rss/articles/CBMikgFBVV95cUxNZjlTdWpzS1NnOUllazBqS0tqZURDdGtiLWM4ZXB1ZkZ1Nk5ZSFdwdDVuRDFuTjhnWlpXY2V3X1UzYmZGVm5udUNoS0lNcGpUUHNtU1I3VllUeVMtQ2ZJTTVQQmxmdjQ5QVJaajR1NE8tMFpLaG5DYzhkTGtROHVWVmlleEdPdG9PWTFucm16VVc4dw?oc=5)
+  Source: TechCrunch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [AI Coding Startup Cursor Plans New Model to Rival Anthropic, OpenAI](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUjkxS3BGMC1NSVRFaS1mdzhtMTI5cF9DQjhucDMtd3QwTC1UY3ZrRVpLLVZWaHRtRHlMUzNTNzFXWGtoWEdLbmRMb3BFN3RIczQ2MlowT0VhYXdKbWVkNDRVc3B5ZXpGNXpteV93OHRiWGlqODBDcDh0VEVNT1p4UUFvMUV5X0V4dzZhVHcxZzRPbGY3RWJ5a2xyZm9EUjYxNDZIRk0wRjhvamNtd3NPU2N5YTJnWHgt?oc=5)
+  Source: Bloomberg.com
+  Implication: Developer tooling keeps getting more automated and competitive.
+
+- [OpenAI to buy Python toolmaker Astral to take on Anthropic](https://news.google.com/rss/articles/CBMinAFBVV95cUxPSTNzQ1R6MDVNVnR0Y3V0eThTZDJRZXdsVm5VU1lyVmQ1RktIVUU5R3RDSl9OMGozSlVYa3REVDR0d2o2eDNCZ0ttZHVYUHIySHBlOFpBLTdWN2k4dm1MNzMwb09GN2dNenA3eXoza2FKVC1UbmFmMWZjRG4tX2Q1OXhaUW11QzVpRWVSWFM5U2VFMnlKZWNtMkM0UkE?oc=5)
+  Source: Reuters
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI Plans To Nearly Double Workforce Amid AI Race With Anthropic, Google](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVS1PLURodmxrenBTQ2paWElXNy0xNkdsTC1IWXNYZ1lPbEJBQWpLZWhrVEVvRFNxY09DaXBaR2tQcXRuVE1UTlJRT1FFaTBnQnBFU0x5ZlZRZHJ1OUdxd3dqMUhScWg0TVVucE94S2d5NktkRTBWdmNrS1pjelJxYloxa3VEcnk2S3ZpSzlxeEp5TUpp?oc=5)
+  Source: Benzinga
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI to hire in thousands as the company takes on Anthropic and fights rising competition from Google](https://news.google.com/rss/articles/CBMilAJBVV95cUxNU0w5b09aM0p3RVR0QXBvSDN2OVVJUEgwTTMxREpQYnJpYWRpOWxWWXVRV3R4cWpaSEZvREIyVG56NTYyc25zSVJhZkhEUE9xR1ZlQlJIeExKSllSVXBnOG5SOEtYV2Q2M3JQQ3ZmQTBEZ1JqdWpNMnNPODVqdHlydFlHXzhHczhiS0pDOFVaVmxLUmpCbmVOMUljaTlfbEFwWjhIUFZDQUZSMzZuSlFqeGhPaVpVOUw3R09wdFRUOEZWZkN0ZnRjT0VJU2ZrRkhtUElfcVFpWlVtUTZUR1QtRFpxWm5RVXlSeXV5Y1BwMklVaE9uWUJYaWt0UnhnSk1LLVNOVE9nWG1nV1hzcXZ6RUtjdVnSAZoCQVVfeXFMUGZrVzd3SHlPN3VBeVpoV09UQmhWcHVzbmk1dy1CejBGaWg2SENrMU5zRmJSbVJxNHlVbHRwbEdIOU54OHhydkpVMEd0VkZWWGxzWjI4Wko3Uld2NmNYTng4akdBcU5kcE5kQzlVZUFlSUtJbG4yWk1icXQ2X0pDdDhBSnVoT0Y4OUhJZllDMkxBbkRPeUIwUURQZzItMkJGUGZfUkZEM0ZrNHZRUURuOFJaNHVFZVM4SjduU2hUeGRvNHFIa29BR0t1TENITmdSS0lDNFkydzZYeTBVNEFFWnVGSG51UFZJbWNuVmtHTC1XS2ZnMXkwSmxsNlZsbUNJQkc0NVpLWEE3U3BrZld6SkJCODZjYUpTVzVR?oc=5)
+  Source: The Times of India
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI to double employee count in a bid to take on Anthropic: FT](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWm1OOTBCNmFBbkhCeFU1RHpJWnRRTlNwV1Zyc18tZlY2LWpQY0p0X0UxVGQ4WFBodnZodlBpN2ZoNDY0eHBkQUcwY01rTzZMSk1lTjhSRkdQSWJJU2FSTDVRZnZiTFZDTFhiMndBTkRiNVdDcjE4SzhqNjhxZXFDZFhvZ25mbW5Z?oc=5)
+  Source: Seeking Alpha
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [xAI Sends Engineers to Client Sites to Win Business from OpenAI](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjBKUU9iRzZPdnJmYlQydGYtdUJMN01GWERRZFlNTkQ4Xy1KOXFzdDhVZW9WU2NIOUVEQnFHUlRmZGUydmxoNWZSeUU3MklnLWtjb2NQMWZ5RGNsclN6YjU2TkNyS1pEV2EydVU3VW5kaVlGSl9iWkpIWUdyeWtnWjFmYnNsZnE1cjVTbncxY1hOS1l3LXJmU1hMdXdWVGJiZEtCMkVNMkl0S01kSWUzTlNnZ0s?oc=5)
+  Source: Bloomberg.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
