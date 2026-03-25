@@ -89,3 +89,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI lures private equity firms with guaranteed returns in race against Anthropic](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXlQaUdKVDFSeTQtb0RZS0VGY1J6U0x3cUw2aHY2bHJKNG5UWkZDRVB5SXVLOGUzNUdhV3JtNUJOWDB1aGc3SUEya2tlUWdmRVRtVm1zTlhKcTgyTC1rMkVIWGtOQUUxQXdGTnpuQlpVblozMlNGeWJXUWY2dHY4Ui1JR3BhTEl6QlFVeGMtYi04aU9UcTA0X3dIa3BqcnJ2V0hjaFpCa2hPbzRG?oc=5)
   Source: the-decoder.com
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-03-25
+
+- [Arm Debuts New Artificial Intelligence (AI) CPU, Nabs Meta, OpenAI, Cloudflare as First Customers](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZlRlM1VQZ3ZrdDBxLVJ6SW4ycUc2MU0zZnBkMlJCRk5zVE92c0pXOGd2bHdweUhWR2lVR0NNM0hrVnljV2ZrYkE5UjAzaXhQdUVnbEJXNlRVVU1kNzlFNnc1Z29DREk0ajlxZktnVVlINnhnbTlxWktsSjdkaUtiN3V6Ti0tMV9vZWdIbUlQbUpBb3JfWHpsbA?oc=5)
+  Source: The Motley Fool
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [HP stuffs OpenAI LLM into new laptops in bid for small biz](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wY2ZaaHVXQm9fZzhtRGNHRVppU2JUeC04bjUzX0MtZlhnU3Bpcl9WbHI4Z2VGeW1KZzdzQkp1UVEwUVI0WU9WYk4xS0p3eGRIZFF3eTVqVkhSX2VGX2tLS1FESHZaZw?oc=5)
+  Source: theregister.com
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [That's a wrap: OpenAI to shut down artificial intelligence video app Sora](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVF5LUZMNUlKMzhOTVYxM3JKM0NCX25sODFaQkJaOXA5dlVYN0M5dTQxMHNXMnFZaUs2X3VQNjJ1X1pYWk5DNEowUVJaWEtWMTJkNks2MnVBQUF4R05MR1BnN3huRnlEUHdVbUN0ZXYyRUMyUERmTXlGb0hnaWNLR3dUVjBoam0xdjdnUWRCdEVqeXBRQVNUOXBfSnJsdTQ?oc=5)
+  Source: thenationalnews.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic says Claude can now use your computer to finish tasks for you in AI agent push](https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjI0ZnpMRjJlSTc1ampPUW5kRlJ2dktsMGhVMmFtYmlpSEd5RjZzRkxxdG9fYnIxZVZSVlZXQlBzOF9VRXdkVmJrcHQ3ajFEV1pIMUxNQzRTQmRzR3NVQ3FFcDJxa29tUU8tS21BTTIwZnl6WC1CYzhLdFZoMzBsV1hOeDN2aEFKV3ppZ2ZPTTBhQdIBlwFBVV95cUxQSWNYT1JYME5aQ0JuejlBY3Jab01MS1V2Z0pIOFZIZlBDWjZnc183SmdpaXMyNk01STBmbzIxM0ZOZktRRkNTdHhKcHZJNTNoeFZjTWNVcVZRN1hTVGRKRmN3ZDY3R3ZyUEZ5UmpWQmY5WmhTazZOQVI4MHA3SGNqbTFaNmI3cDRkRUQ1a092RGZfaVFZcndV?oc=5)
+  Source: CNBC
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Anthropic outlines AI agent workflows for scientific computing](https://news.google.com/rss/articles/CBMidEFVX3lxTFBmbGY2b3NTY1pjRm9pQkp6MzM1SjFfQks5Yl9Fem9COFhDX2FhY0c3Zl9qODg0ajg4eXlkTkE5ejhmYnlzTFpKUEF4V2Y4alRhUm9ZWVVDYWh2T2NzdE5GWHhIc2ZkY2t6TXc0RDhuT29qbUMt?oc=5)
+  Source: Digital Watch Observatory
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [OpenClaw craze inspires Nvidia, Anthropic, Perplexity, Snowflake](https://news.google.com/rss/articles/CBMiggFBVV95cUxOdGQzM2VxczhKQ1l6ZTRZbFVFSmpFM1JXMDRXcWU0M3p3LUJ0MmNLVmlvTEw3TDZHSnBjc2dKRW55RHB3ZUx4clpORmEwVkN3c2RCd2g4MlR2YWpyMW9aeEJTaERpbmNwUlVvYXdXU2V0WDFreFM0MnE1RnRrdG9CRUtB?oc=5)
+  Source: Axios
+  Implication: Compute access remains a strategic constraint in the AI stack.
+
+- [OpenAI ends Disney partnership as it closes Sora video-making tool](https://news.google.com/rss/articles/CBMiWkFVX3lxTE13Y2g4d0sxSGwxaEF4UkY4ZjZwelRCWFB0anAtRXdmVUY3c0ZwQjhBWkVqWHVIdC1VelM2TWMzY0p1SWEySW5zSHYyWjlmWHhyNHJ6c0R4YlJjUQ?oc=5)
+  Source: BBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
