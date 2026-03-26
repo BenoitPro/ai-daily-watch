@@ -119,3 +119,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI ends Disney partnership as it closes Sora video-making tool](https://news.google.com/rss/articles/CBMiWkFVX3lxTE13Y2g4d0sxSGwxaEF4UkY4ZjZwelRCWFB0anAtRXdmVUY3c0ZwQjhBWkVqWHVIdC1VelM2TWMzY0p1SWEySW5zSHYyWjlmWHhyNHJ6c0R4YlJjUQ?oc=5)
   Source: BBC
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-03-26
+
+- [Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW56SUFMaVJjWHF5dExwaENQLXFNT0tYYVhOdEhvdzl4WDFMbUhJZmNmWmZSTkp1U2xaOUotM24zTEVDdmF6NjNqRUJMX09HWV9EdkFNcDdNQlZtLXV0bXN1eFlaaGp4dG93RWVnWlVJckwtOXdYS0lySTRZVzdkS0ViRlVUbWM1ZGZ4d2VYM3lYSFdzUENfUFZBTDdtdzRBVi1hWEhURWhsZUFhY2J4NWlTTU41REdZbm0zVWhB?oc=5)
+  Source: Reuters
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Elon Musk’s xAI ‘Doubling Down’ on AI Videos After OpenAI Nixes Sora](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHl3SkQ0MUM5UkxYSjI1bnhsdHZubTZYV3ZoMXNpOWhWbTM0VkNJdHJYcVJ6aVRzWVlXT3hyWkJIaXdvNGhNNDJSbUtHQXJ6X25Ia3F6M0xDU2htX0ktd2NFaGZsa1J0Y182WE5VN3lvaWhoaXphcXNRQm55aVJPVWNyQVdMcmhZdl81WnpBVHZuQzhVdy1vbnN4cnp3WjV3VFFkWHdDNmtFdl9mQmpFU2lB?oc=5)
+  Source: Bloomberg.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI shutters Sora: What’s next for artificial intelligence in entertainment?](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQTJpQXdoTjV3NnpzREZMVlJRdG93UFZuM1ZTRGJ1blNBLVBiNVBiRXdJVF91bGY5X2E1eE9tM2pTMXpvM01jcTFQSmV5S1I0RnVMLVppNmtSVHFhNjFTXzNvX1FsSUk4cDN6MTNyS3UwWjNhSHp3djlHal9YZ05MUmZmTC1CTkVlZlJqc0pKLTNONnF5WVBHM2U5MzhBNlhh?oc=5)
+  Source: LAist
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI releases teen AI safety tools for developers as scrutiny on youth protection grows](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTLTRsanEzTVc4SzJWSTBfcVYyTHNBbWoxMjZYX3prUHJIczBTeWtEUk5fMUZnZDNQREF0b3NDWmtPVk9VWERVRUxVY0xHaVFPX2txaHFHbTB0NGNVZ2l2dDhJWVIwQWFwM1NaVmhuV1J1SUJPSjZubWw5OA?oc=5)
+  Source: EdTech Innovation Hub
+  Implication: Developer tooling keeps getting more automated and competitive.
+
+- [Anthropic says Claude can now use your computer to finish tasks for you in AI agent push](https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjI0ZnpMRjJlSTc1ampPUW5kRlJ2dktsMGhVMmFtYmlpSEd5RjZzRkxxdG9fYnIxZVZSVlZXQlBzOF9VRXdkVmJrcHQ3ajFEV1pIMUxNQzRTQmRzR3NVQ3FFcDJxa29tUU8tS21BTTIwZnl6WC1CYzhLdFZoMzBsV1hOeDN2aEFKV3ppZ2ZPTTBhQdIBlwFBVV95cUxQSWNYT1JYME5aQ0JuejlBY3Jab01MS1V2Z0pIOFZIZlBDWjZnc183SmdpaXMyNk01STBmbzIxM0ZOZktRRkNTdHhKcHZJNTNoeFZjTWNVcVZRN1hTVGRKRmN3ZDY3R3ZyUEZ5UmpWQmY5WmhTazZOQVI4MHA3SGNqbTFaNmI3cDRkRUQ1a092RGZfaVFZcndV?oc=5)
+  Source: CNBC
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [OpenAI drops AI video tool Sora, startling Disney, sources say](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYlFMYXFmMll5LVluZE5adTFIRDY2eXF3TG5IbVRnS0hmQlZfOUNBQ3hZTDRpWW9Ya0N5MDdWRm1PenZpMFA4Z182YnppZnVYRzdRVWx3VUJBdjNNd0YxSXpnazFOdnBibHVUS1JBNWFUSk5LT1R0V3RlYzMtaTRkRmRGN3VySFF6VDVJSTBmN2hXT3FGdWU1anpiM2lUWkhXMGZMZDh5Y2c?oc=5)
+  Source: Reuters
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Exclusive | OpenAI Scraps Sora Video Platform Months After Launch](https://news.google.com/rss/articles/CBMilANBVV95cUxPQnFqUWhXdllXYVJHeHZ5V01NcnI2Z3BITEZQY2NGcWprN3dpWDBQSVFDRkFRZExPdWVJVUZBTUdLZnprdzZqcXFoSUdUNVBqanc1UmFURGRMdE1aa0ktZXdZelhYUjdCU2dCMl9MZjA1V2lrSW1fbk82c1Rvd1Rjc0k0LUdJYnVKS3dJU0RZZFN5RmcxU3pnMjVzeGZQRUx0QUNSbHBiMHFvTlJLYll6LVJGbVlqY04zb2MtVkZHOXhjVVdwenVwcHFzTFdldHdrcFo2YjJPUWVFNjZEUFQwcFlhNW9lbG94bktCWmlqN0VocUpYQ2JxSGloZjEyaVhhdFowNjB4dURLbU1sRmFhNHhSbjE3Mlk1aDRvbDh5emZjZ3E0alBSZUVHRGt5MlFrdDl1bnZlRWgzWmRFMXIyNnFVTHlkSmpCOTY3Z01hZ2xnZmRscUlpTmhDdk50REpzQzRZQVpzRThoUHJTTHBiaTlkWHZvTEEwQkN4bl9PczFtU0NzQ1h2d2hUa1V0SDBuREMtQw?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
