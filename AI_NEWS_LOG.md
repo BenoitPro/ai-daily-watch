@@ -149,3 +149,33 @@ Daily AI watch entries will be appended here.
 - [Exclusive | OpenAI Scraps Sora Video Platform Months After Launch](https://news.google.com/rss/articles/CBMilANBVV95cUxPQnFqUWhXdllXYVJHeHZ5V01NcnI2Z3BITEZQY2NGcWprN3dpWDBQSVFDRkFRZExPdWVJVUZBTUdLZnprdzZqcXFoSUdUNVBqanc1UmFURGRMdE1aa0ktZXdZelhYUjdCU2dCMl9MZjA1V2lrSW1fbk82c1Rvd1Rjc0k0LUdJYnVKS3dJU0RZZFN5RmcxU3pnMjVzeGZQRUx0QUNSbHBiMHFvTlJLYll6LVJGbVlqY04zb2MtVkZHOXhjVVdwenVwcHFzTFdldHdrcFo2YjJPUWVFNjZEUFQwcFlhNW9lbG94bktCWmlqN0VocUpYQ2JxSGloZjEyaVhhdFowNjB4dURLbU1sRmFhNHhSbjE3Mlk1aDRvbDh5emZjZ3E0alBSZUVHRGt5MlFrdDl1bnZlRWgzWmRFMXIyNnFVTHlkSmpCOTY3Z01hZ2xnZmRscUlpTmhDdk50REpzQzRZQVpzRThoUHJTTHBiaTlkWHZvTEEwQkN4bl9PczFtU0NzQ1h2d2hUa1V0SDBuREMtQw?oc=5)
   Source: WSJ
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-03-27
+
+- [A buzzy fund offering access to pre-IPO AI companies like Anthropic and OpenAI is plummeting](https://news.google.com/rss/articles/CBMi3ANBVV95cUxNUkpJcmFfT2xkSHNkemFCbU80RV9PbTlaSDhCRE1aa19kbHU2ZzQ3ZHl2WGpTMDV1eFZTcUw2VUtjVGFjbXBQTjIyR3ljWGhwV01LaVlSTTBYUUpJMmVtSjI1X3UxcTBDdzNkVFRFZXJtTldRZS15dHhDLUFpTEE1RWFPbXJBMnJSSTQ4YmdpT20yZEFrWXJ0cDIyVVlPclhwcmNoUjR6VTdLbzZ4RXdpbklVUHNXMG5faVVYY0JhVFd6VnZrUmFMR0FVcEFzSnhqSnNBS0tBRWpNdDl3RHVHelB4RkRZRHpQYVktQmpVSjBwUnR3RVJQOHhFZ1pBTThXanloMG5zN0dhcDVzaUdrbnFKNUIybFlJZnVGRUNLOG44d3ZYLW0wcG52dzJHWV81T1diWmJTQjdqejNzTE1BYmZ0akhRUVB3MHhReGItTDYtbVlyRktXX3BLaGltcmhaQ0dBVEpPeENHWnF3UXFoX0x1MVlGcDBpdGJFWGtKOF9JRlpCeGRBNDZYTHF4OXBUdWtKSjBmMGxyVGVGYUp6VUpveHEyTE9LbWVlR2NPdnozTUtjMkJwSDJ5Wmh0alNBczItTVdha1VBbEZkOHFlQXQ4cXdMOGsxdzU1Sw?oc=5)
+  Source: MarketWatch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [AI: Diving into OpenAI vs Anthropic financial growth metrics. RTZ #1038](https://news.google.com/rss/articles/CBMie0FVX3lxTFBjOTA5cHB0eC1qTkpvT1cxM3Q0b242ZFBFUDA1d2JkVExtWTNBcVRRRHBxUDU3YTRpRlhQWG5tMlBXS2RiLVZKTng2MU84eTRlRzFzRjRyT3FhMGM4VmJiUDhhMHJyRTRYU05GaXA1UFRNNzE4TjVMSVhObw?oc=5)
+  Source: AI: Reset to Zero
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Analysis: OpenAI shifts to enterprise, Anthropic advances; Google Gemini leads consumer AI](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVnRwZVNSWC1mZjdfa0tRMXFZcUJMUl85MjMxeU5JVHFwal9rM2h1cFJvUUZjQVQyaXJsd0oyV0YwRUFob255cFJCajEtR1d4b1VmNUpkZlNwcDRnZ1h3RC1HZDBzeTVzY3J2SEdadlFvSmR1dU92Z3F4eVpiamhHUC1Jb3I0UUEwQlFiQnpxMDJfLTNKSzAxUFVZQQ?oc=5)
+  Source: digitimes
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW56SUFMaVJjWHF5dExwaENQLXFNT0tYYVhOdEhvdzl4WDFMbUhJZmNmWmZSTkp1U2xaOUotM24zTEVDdmF6NjNqRUJMX09HWV9EdkFNcDdNQlZtLXV0bXN1eFlaaGp4dG93RWVnWlVJckwtOXdYS0lySTRZVzdkS0ViRlVUbWM1ZGZ4d2VYM3lYSFdzUENfUFZBTDdtdzRBVi1hWEhURWhsZUFhY2J4NWlTTU41REdZbm0zVWhB?oc=5)
+  Source: Reuters
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Exclusive: Anthropic left details of an unreleased model, an upcoming exclusive CEO event, in a public database](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZTJNcWJaTVJ5RTVKZVR1UTNMbnAxVmJYNWdVdkplV3FlZURMN1AzNVZfSHRDMS1EbnF2Q2p1eGh6MkctOFNWNElPRHhxU0J3aFp5MEJNZHVFRnNiOC00eVN5NEcwazRnaEQzcUJyTzVMTVRpYWFfMHo0LXBudm85dlp5ajBtaDk4eWxvMlFJMXNuZEVxMV94UTljWTlkdzF4cEZzVzBuV0lydzAyd1BJRWxjTWhWWjJCNTBUeWY0Sjl5eVRyOGJUUnhyNzA?oc=5)
+  Source: Fortune
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic left details of an unreleased model sitting in an unsecured data trove](https://fortune.com/2026/03/26/anthropic-leaked-unreleased-model-exclusive-event-security-issues-cybersecurity-unsecured-data-store/)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Mistral AI just released a text-to-speech model it says beats ElevenLabs — and it's giving away the weights for free](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUtQbHhIa2daZ01KZjVVYkw1UkhsQmlGNVBwdjA0TDBRR0Q1anY0TDdPMDBZekMxU0VTNTVfOHpTY3RtNWhROHpnLW9BamNCTGpsTktyQmhJNEVVQ1llVVh3TklMUTgtOXVaUHZKanhHYjR5TklScHA0dGxuWDI0akpyNkdyeXVGdGt1QnN5S0hGbnQ3R2hUZWRST2JjTXZZaXhKR1VUUW5mLVhRNXRnX2JjU1o?oc=5)
+  Source: VentureBeat
+  Implication: Model quality and capability shifts are worth watching for product planning.
