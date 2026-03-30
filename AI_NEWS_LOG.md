@@ -191,3 +191,33 @@ Daily AI watch entries will be appended here.
 - [Low signal day for AI news](https://github.com)
   Source: Internal fallback
   Implication: No strong signal surfaced today, but the daily log still captures continuity.
+
+## 2026-03-30
+
+- [OpenCode-LLM-proxy – use any OpenCode model via OpenAI/Anthropic/Gemini API](https://github.com/KochC/opencode-llm-proxy)
+  Source: Hacker News
+  Implication: Developer tooling keeps getting more automated and competitive.
+
+- [Anthropic and OpenAI Just Gave Us a Glimpse Into the Future of Model Pricing](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbXQ0dm90eC1JMFpydWhoRTk0d0NqeUEzM1JfcDVNMkhHRWcxeDBHLTZlZ25KZk5zcEhDUC1OY3NLdHNpVjRUeExRbVBBXzExZ0xaNVhBZy1OQkFqZFhQM2wtVlVNQW9FUm9jQUxBbUhGeEloS29DeFdqbHpjdzYtQzFNVEp0WU1taldQcnFtdlBpeGlQem1wcGhxMk5PYzVTN1dWanpaLUFUYU0?oc=5)
+  Source: Gizmodo
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Ask HN: What's the latest concensus on OpenAI vs. Anthropic $20/month tier?](https://news.ycombinator.com/item?id=47559143)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW56SUFMaVJjWHF5dExwaENQLXFNT0tYYVhOdEhvdzl4WDFMbUhJZmNmWmZSTkp1U2xaOUotM24zTEVDdmF6NjNqRUJMX09HWV9EdkFNcDdNQlZtLXV0bXN1eFlaaGp4dG93RWVnWlVJckwtOXdYS0lySTRZVzdkS0ViRlVUbWM1ZGZ4d2VYM3lYSFdzUENfUFZBTDdtdzRBVi1hWEhURWhsZUFhY2J4NWlTTU41REdZbm0zVWhB?oc=5)
+  Source: Reuters
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Exclusive: Anthropic left details of an unreleased model, an upcoming exclusive CEO event, in a public database](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZTJNcWJaTVJ5RTVKZVR1UTNMbnAxVmJYNWdVdkplV3FlZURMN1AzNVZfSHRDMS1EbnF2Q2p1eGh6MkctOFNWNElPRHhxU0J3aFp5MEJNZHVFRnNiOC00eVN5NEcwazRnaEQzcUJyTzVMTVRpYWFfMHo0LXBudm85dlp5ajBtaDk4eWxvMlFJMXNuZEVxMV94UTljWTlkdzF4cEZzVzBuV0lydzAyd1BJRWxjTWhWWjJCNTBUeWY0Sjl5eVRyOGJUUnhyNzA?oc=5)
+  Source: Fortune
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Here's what next as Anthropic's most powerful AI model leaked via unsecured data cache](https://news.google.com/rss/articles/CBMixgFBVV95cUxOWndYYkotTUtGamlGck43MlpmbGhhV0hSYzV0QmZYeXMyVlFnMEtBZDJvMEU5eXNjUWJvUmVFWUhEVnoxaFh3VDBkcTRkYk5qT0h2TnpGeFVSMTg0T2dyNTdObzdHV0d4ajcwaE04Y1gzb0hiMVY5enVQSUdtVGpfektkeFJaQ213OVNiZkJ4NGRha2hDX1RfNkI5WUFKOHR0VVFhVEI4WEdmb0ljZWlDTTVjZ21ZZk9jQjZhRFU5bTRidlBNOWc?oc=5)
+  Source: CoinDesk
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic left details of an unreleased model sitting in an unsecured data trove](https://fortune.com/2026/03/26/anthropic-leaked-unreleased-model-exclusive-event-security-issues-cybersecurity-unsecured-data-store/)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
