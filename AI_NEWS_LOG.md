@@ -221,3 +221,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic left details of an unreleased model sitting in an unsecured data trove](https://fortune.com/2026/03/26/anthropic-leaked-unreleased-model-exclusive-event-security-issues-cybersecurity-unsecured-data-store/)
   Source: Hacker News
   Implication: Model quality and capability shifts are worth watching for product planning.
+
+## 2026-03-31
+
+- [OpenCode-LLM-proxy – use any OpenCode model via OpenAI/Anthropic/Gemini API](https://github.com/KochC/opencode-llm-proxy)
+  Source: Hacker News
+  Implication: Developer tooling keeps getting more automated and competitive.
+
+- [Microsoft Debuts New Copilot Upgrades Combining Anthropic, OpenAI Models](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTkJORmoyTzNCZDJpMDFCQ0pGeGVZT21fWGpEekpCaXMxczJlRU92RWlNS0JyZlRjeWdJMWg3cGJNNzY4YVRUWXA2RWFTU1hJTExPZkZtQkZwQmplanREVGJ2aDk2VmMxYTEzaEN6YkdfNTVJX3ZYUEI4M1BxYm5VLVRXaEdIVS1hR2cxTDBTNEtTc0o2NEFJVVNwU0FOSmp2eHIzZERJemdmYnlGZGxveEt3?oc=5)
+  Source: The Information
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Microsoft’s Copilot makes Anthropic’s Claude and OpenAI’s GPT team up](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Pb2pIckZGMWhWNFF0VjluZkd3Y21TS3puTGJ5NmFGcjNfa0VvSXNxRW1DWFZmVERBeW9jbFREbEFRX1FCQklVOUt0VUZuZmUtUUxCMHdCOFVQdEFpMkF6bQ?oc=5)
+  Source: The New Stack
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Counsel for Anthropic, OpenAI flag privacy tradeoffs in AI safety](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ3hsOEhpMWdoUUNLeU54cnd2SmJiOEEtZWZHbzkwRC1QZkF5T2Zkb1FtQ1lJV3dOX3B4ZVRiTzBwZVJqRDdQS0FBZUttejZjTkd2ZVAyNHBtX0ZxVTNvdTZqV1o5RDQ4NW5FbF82OVRKelVqdGpyVS1rc3hBZ1NxUVhtTllZU2g3U0RFSVIyTUplLTVnTUVWQk9GNmZwQlBITEhMMDkwV1NHaDTSAVpBVV95cUxPclM2R0dYd2xGejhZNUQ3UVNhYU80N2xYMklfNVhQQXBWRjR1cGFScnNJQ2lyanozQnBBOG8wTXVlRFNsU214Q1hzSDJlQzFGU21xZWtaLW5DY1E?oc=5)
+  Source: MLex
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI Kills Sora, Guarantees PE Firms 17.5% Returns As Anthropic Eats Its Enterprise Lunch](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZC1nRElPZ3BiQUE4clM0T2N1UzBXN045NjMxVUxyQm1vUmJRS2J3UkRadUZYS1NXSGdTS2lXN1RrZFNZZnFGTlRHMTNia09fbFFlZnZzTWc4UXBVV2QySUJucUY2X01sSS10Si0taGdkbll0djNEMXpkdG5MejlwZWVINFFrOVdCN2JjNHZMcDFYUkROdmdWREl1T1ZJT0otR2VmSGxMSnBSNVJjMzQ3OGlDb2p2Zy1UMWFqLUtZUjNha3BzaVZkMktVNDl6S1FSZHh3NDhvU0xMUWNucjJXWHBQX29EVjdENDhmc3ZqU2dWTFBuWVdOQQ?oc=5)
+  Source: Benzinga
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [My AI coding agent wrote an open letter to Anthropic about its own failure modes](https://github.com/evo-hydra/evointel-whitepaper/blob/main/open-letter-to-anthropic.md)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Ask HN: What's the latest concensus on OpenAI vs. Anthropic $20/month tier?](https://news.ycombinator.com/item?id=47559143)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
