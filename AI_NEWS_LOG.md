@@ -269,3 +269,33 @@ Daily AI watch entries will be appended here.
 - [Low signal day for AI news](https://github.com)
   Source: Internal fallback
   Implication: No strong signal surfaced today, but the daily log still captures continuity.
+
+## 2026-04-04
+
+- [Microsoft Introduces 3 Foundational AI Models To Take on OpenAI, Anthropic](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTlvZFBFQ1B2LXBSQjc1LTJadW1rRTBmWEVERFFhWTFIS3RTQ0JLazFneWg4R3VGdFQxVXlDN09GSmExUHYwbFRXRy1LUzNmRE9JbDNPZmdFdlM0bnJEcGxKWTgyZ2VuTGd2d2szcmRLOFRZWVJjMUU2MEZQaXNTTVZPaXFROVg1MlMxdFBuaTl5eUZwZUc1bXZDeVMydDZFeklnYVlDT0FuLTItcW4yNw?oc=5)
+  Source: extremetech.com
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Why Anthropic and OpenAI want to go public](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9famFLa1ZVeUJkWHNRVGRRUE9TdUpVRGpkZXJaVWFEWXhQRmNYeFFqb1BCM0hGZ3JmVExRemJ4RGQxMUtfUjRiU3ZOWGxsaWc1ZGJjTWVWZmpreVZqMHd3SlRKTQ?oc=5)
+  Source: Axios
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic Surges Past OpenAI in Private Markets as SpaceX IPO Looms](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVJUU1dxWktVLWdqN3VxYzRzNlBzY2dnMXdibGtzR19GNHhwdng0YjI4VmE3QlQwUXh4bHRrYmxPMVo0NlNRQ3kxTjR0LWxWUVZmS1lFbkZwbGhIS1otZ0tIamVtaEVXRUZacVpQR2ctX3RVNTZGbW1ONFNDODR5QzFITTFsUGJvd1RmX2pSak1oZU55cmUtanNHNkZJSFVHNEE?oc=5)
+  Source: The Tech Buzz
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI’s shocking fall from grace as investors race to Anthropic](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmtWUnpBN2JLWlhJYndZSWFPYmJKaWt1YkdLRU1KV21xejNnS1FvTGhRMWZSdGlaMXFVN2ZIaFEzLXhoZUVFQTJpYkttSXNTaF9wZ3c3MWl4LWpiQ0hnZVduQnJlWEJabFhtbHVRbFBTbnFqMjZKYnJOVThqVmdsbkY2RU82elktblhKa1g1NklqRWRsX0lLSXotS3VndS10VXBGcUFxWDFkdjluelZBMkJJWQ?oc=5)
+  Source: Los Angeles Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUzB4X19KQlVrNUozZHM4enItNnRBbFlaZDhqSjUtMzI4cVNkY3BtMjJqeWR6YVBZRFEzU21sTVNCdFNaUFRYeVRFdVgybnZHSlJKcE1jeU9yY0I1U1A3WkRQZUVhMlRXWUFXRm5NV3BaVVhWWTVjR3pSUGE3NEV3Tm94M1lOSGxRdVpYLWxSY1E3WFhoLVFJZDlNd01mZW9EVXVGNnVDSGlGbnYwMlA1VUdTUHE5UGwwbEFzWS1kZEc1b2ZHbGc?oc=5)
+  Source: Reuters
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Microsoft released 3 new AI models, ramping up competition with its close partner, OpenAI](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEFsOTEyZ2JkWG9uWTBYWWZMcUZyVl9oMHV3SkpIZldIV2ZaRF9EZUExVFJLSDdXTEFNSDAteUxrYzNpQjEwaWgwWEhqSVdGTGt4dm5OdzlnNTNselBiTHUzN3VRUEFKbm93M2YyQ2hQRC1ua2JETlptQXBTYzRwR00wQWNUQVZrdTJrb1lPMzgwQmw1Z0VCQlFlN3BuVTR4OFVsb0t3WDdMZw?oc=5)
+  Source: Business Insider
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic cuts off the ability to use Claude subscriptions with OpenClaw and third-party AI agents](https://news.google.com/rss/articles/CBMisAFBVV95cUxNY3pKWmttczlHN3ZtY0JSZWJINE1kQjRFMUhsYnpfSXhNRDhpaHRLYWFsSUZETlVqSXJwUGRZd0xzLTRjWXIzQzBnMm9qYTJScGt0T0U1bm1pNjZrc1Fnbnh3VWh6NW4zMTRxU1lIeXdXakgzZE55ZV9ZR3UxNm5xWF9YanhWdUI1bVZCNE92Z1Y5bS1HWmFiWXp1Y19DajVtVjJ3bnpkMWdNYzdWdGljag?oc=5)
+  Source: VentureBeat
+  Implication: AI agents are becoming more practical for day-to-day workflows.
