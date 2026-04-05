@@ -299,3 +299,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic cuts off the ability to use Claude subscriptions with OpenClaw and third-party AI agents](https://news.google.com/rss/articles/CBMisAFBVV95cUxNY3pKWmttczlHN3ZtY0JSZWJINE1kQjRFMUhsYnpfSXhNRDhpaHRLYWFsSUZETlVqSXJwUGRZd0xzLTRjWXIzQzBnMm9qYTJScGt0T0U1bm1pNjZrc1Fnbnh3VWh6NW4zMTRxU1lIeXdXakgzZE55ZV9ZR3UxNm5xWF9YanhWdUI1bVZCNE92Z1Y5bS1HWmFiWXp1Y19DajVtVjJ3bnpkMWdNYzdWdGljag?oc=5)
   Source: VentureBeat
   Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-04-05
+
+- [$2B chasing Anthropic, $600M of OpenAI unsold: how secondary markets are repricing the AI race](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEtjTjV0U0MzVVNtcE0tMmVJMFhpdnVkLUJRbDNrRXBXZmtWNjZoVU9lUDVEOGcxZVZrTFVkZHlnNndmYnVsd0VOTm5vdUpacmlweC1fTk90RW1SZk1SejliOC1XcnBYTy1OQmd1YXE3VmlmOUdESTZfRFRxaDJ4a1IwZEtKdnIyNW50U0ZzR3E4YVp2UnU2am5vb2UxNm5uVFdJTTF4UFN2emo5VVc2Vk15cEZpbXdQR2hSV0Fadw?oc=5)
+  Source: Silicon Canals
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic leaks source code for its AI coding agent Claude](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wRHJvNHFvZExjRm1oc01RVjgwSzhwTHFSeGdJTTM0ZmdhVlFieE1sMW9kdmt5MWZVUmtaUVpaUlhtRm81endTUnMtOHZjd09MRjlzUllrbw?oc=5)
+  Source: Lynnwood Times
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUzB4X19KQlVrNUozZHM4enItNnRBbFlaZDhqSjUtMzI4cVNkY3BtMjJqeWR6YVBZRFEzU21sTVNCdFNaUFRYeVRFdVgybnZHSlJKcE1jeU9yY0I1U1A3WkRQZUVhMlRXWUFXRm5NV3BaVVhWWTVjR3pSUGE3NEV3Tm94M1lOSGxRdVpYLWxSY1E3WFhoLVFJZDlNd01mZW9EVXVGNnVDSGlGbnYwMlA1VUdTUHE5UGwwbEFzWS1kZEc1b2ZHbGc?oc=5)
+  Source: Reuters
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Could Anthropic's Claude CoWork Say "Checkmate" to Palantir's Artificial Intelligence Platform (AIP)?](https://news.google.com/rss/articles/CBMirgFBVV95cUxOeERrYldLOU9MVHFsQnpDd3RxbDZ3ckZSOTZkbWdlVHJwWE9WRkNzS3BkUnJtcjdfVjBTTWJyYmh3bHpPcnFzWUNnTEJkRkUxUTZMSnVnc2UyQkt2Wm9xSXdtZ3pRY1pWaUhhSEN1TC1oVUV2ZVVTbVNKS0ZZX3c2TVh1UWtGTHJRS01LWm9XOFVEbFp4MWZsM2s1b0J6bVFfLWRSMnJCQ0FSMWxJeFE?oc=5)
+  Source: Yahoo Finance
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic’s Designs Three-Agent Harness Supports Long-Running Full-Stack AI Development](https://news.google.com/rss/articles/CBMid0FVX3lxTE5hbjdvZmtBNmpFM0VDY0NWOXRzLUJ6VDR5Zm1RSFpfMldQQ1ZLaVVDOFNiVEZPRUVaLWRaU01pMEY5MkxQaU5kUS1WRS0zbS1RZVVRaml5X0k5U2s3ajlURzhyX0NOUklkSkxITGR5dXc4azIwdC1Z?oc=5)
+  Source: infoq.com
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Anthropic cuts off the ability to use Claude subscriptions with OpenClaw and third-party AI agents](https://news.google.com/rss/articles/CBMisAFBVV95cUxNY3pKWmttczlHN3ZtY0JSZWJINE1kQjRFMUhsYnpfSXhNRDhpaHRLYWFsSUZETlVqSXJwUGRZd0xzLTRjWXIzQzBnMm9qYTJScGt0T0U1bm1pNjZrc1Fnbnh3VWh6NW4zMTRxU1lIeXdXakgzZE55ZV9ZR3UxNm5xWF9YanhWdUI1bVZCNE92Z1Y5bS1HWmFiWXp1Y19DajVtVjJ3bnpkMWdNYzdWdGljag?oc=5)
+  Source: Venturebeat
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Ask HN: What's the latest concensus on OpenAI vs. Anthropic $20/month tier?](https://news.ycombinator.com/item?id=47559143)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
