@@ -329,3 +329,33 @@ Daily AI watch entries will be appended here.
 - [Ask HN: What's the latest concensus on OpenAI vs. Anthropic $20/month tier?](https://news.ycombinator.com/item?id=47559143)
   Source: Hacker News
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-04-06
+
+- [An Inside Look at OpenAI and Anthropic’s Finances Ahead of Their IPOs](https://news.google.com/rss/articles/CBMi-gJBVV95cUxOWi1KSkplZllSLXA4NmpmclA3dGc0WFFyMnFBNmU1RWZvTGNjS1FqcV9MNWk0V3VMZTR5LVFGZUJTR2NTUld2elgxX0VuWUt2Z2J5cGNKbWhrVmJWSWJmU280NXliWWNsVG1Db3JRc1dtMTkxdTk1S1R0ZHphRUJ6Y2NHc2M0LUh5bldVdXROZzBSYzlBNlppZGtHTWprcjdpWmc2dlJsaDhBZ1htTG5sZmRkTFBYWjhBZjRxNDFsUktvcDUwaE5TWDhLVmdkNHJBNEVXdmgwdXZGZVJSaWpZOTd5akQwell5TC1WYzZhUmhkbEJIcl9CQUhCQlFjenhibmJyVm1BV2hzOXdHM29LUmFibWtCZko3RFA1OEFVaDVqLWhYQkZMTGVIS1hNUWJUcWJ1SWFIbXl1V3ZTcUhEWDJJaDQ4NEtLbFBrQktTS2FaR1NaTHBoSmt0LWFzdTBtbExobU8wdVZMQzg4MjBjUnRfekM5UllrR1E?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [AI: It's Business and Personal in OpenAI/Anthropic pricing battles. RTZ #1048](https://news.google.com/rss/articles/CBMijAFBVV95cUxOVzhhSXNGWTMtbUppbDhzU0JOaGFlTzRycHo5cEtTZGNrS041T0ZEOEFDcEoweUtNN1NFd1lJYVNGSzh5Qy1EYjBMNXBabnhlYllUSXJxNmNBVVA2a2xuT1RRNThPeFZkT2pQdWZLR2lXMlRrWkwyQ2VzZDhGTFZiTnJIRml5QnFmTXJfOA?oc=5)
+  Source: AI: Reset to Zero
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [SA Asks: OpenAI or Anthropic—which is the better investment?](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQzV2d2I4d3NjeGoxeF9oNlI0dTNBNndHSW9DdFdhdmN0MHp1cHlVd0N5dmwyLU1ITzBTT2NlWFZfUWQ2MHU2dEhpQTk2Q3ZhRkUxQzlMV2dHb2RRN3hxQWl2QWJJTjJUVVlVUzJYOS1od1Zyb0dIakVBRDNsOThGdUN5MGwtTUhCYmh5UWJORlpFUC1KaXU3Mzc1dEZoM00?oc=5)
+  Source: Seeking Alpha
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [The mega IPOs of SpaceX, Anthropic and OpenAI alone can't fix this stock market](https://news.google.com/rss/articles/CBMiqgFBVV95cUxORVFBRHpvbzNEYmtLeUVzUUd6SHFwOWh4bGVVWFJHV01wLXFtVmVPNWozWWVzaDFrQll2RmVpV29uZTlWanVES1N6VTZzbnBmVUdPRjRZMWo1UTJJZ1R0TXhFWkNITjVoVTdCWXp6MlY5ZlNsNUU0RXItOXRqLUdFZG5DTkNDREpTdk11cktkSnZpdGk4cDZVZ3dCU1JkVHEzU0xKV3U5VndqUQ?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI’s Unraveling: Investors Pivot to Anthropic Amid AI Shake-Up](https://news.google.com/rss/articles/CBMilwFBVV95cUxQYnMwRGhRMWt1VU0zZlhGSnJlTGU1YjhtajhIX3ROa0xwUHJwbS1TN0pDdWlaTFhub3BTc3VscHRQUnhiSzB1VFJuRDhtUFQyNk5UQVJTSW51aExvbjZidlducDRqX3lpQ3BzemQ3UkdXVEc0OFNzNk11ZEpGRDJqVkhLNC1FX2MwemdJSWE3b0IwWHFpa0hJ?oc=5)
+  Source: Startup Fortune
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Analysts Compare OpenAI And Anthropic Investments](https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2VIM3Y3YzZLYlpVNmZfMld3YWFZTmwxdlY3V3Y3NWdpUDhwclJock11eTNudG45eWpGelgxVU1uWUdSRG1RNmRjNEowQk5DZndkYWxlU293MUFtRDY4ZXl3alhsNWJ6ckc4OVF5RGFpVjJiTU1KUjU5S1ZWUTZpYnR3MUZFanZhTnhyQUhfdGEwOWVBMEE?oc=5)
+  Source: Let's Data Science
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Major Lawsuits Click The Following Internet Page (UeomqPSdJb)](https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UEZYZTBHUTFfZVltUnd5SWxjVE1aN3FtOVBNQUhETVVKZGpwd3oxcWhoWGYzREN2XzVVc2hrbVNxTW9uTHlTWFptOWV5VVViczYzQmhhYzlNb0Zfczg3cW11TQ?oc=5)
+  Source: Mshale
+  Implication: Regulatory pressure is rising and could change shipping constraints.
