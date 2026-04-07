@@ -359,3 +359,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Major Lawsuits Click The Following Internet Page (UeomqPSdJb)](https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UEZYZTBHUTFfZVltUnd5SWxjVE1aN3FtOVBNQUhETVVKZGpwd3oxcWhoWGYzREN2XzVVc2hrbVNxTW9uTHlTWFptOWV5VVViczYzQmhhYzlNb0Zfczg3cW11TQ?oc=5)
   Source: Mshale
   Implication: Regulatory pressure is rising and could change shipping constraints.
+
+## 2026-04-07
+
+- [OpenAI, Anthropic, Google Unite to Combat Model Copying in China](https://news.google.com/rss/articles/CBMiswFBVV95cUxNY29pTlNlU1RLWkl4dkRGM051Ny1kVUxMMkFvUW1pMzdEQ0RLckd6NWljVkp3RlZfcjNTWW5PQXkyYno2SGFFUXRJVEtGQkxCbVlob2JzWmszUTN3TmZqRC1aX29wM2pqS2NYbEVNUVN1YzBNcUlXUW9YbHF4NUx6ZkV0UVB2bmxHYnc2dTNJbFFrU0ZxZ3pRSmpDMWIwOGdqdkFfZ2pHNER3NzJCZlFKb1VuYw?oc=5)
+  Source: Bloomberg.com
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [An Inside Look at OpenAI and Anthropic’s Finances Ahead of Their IPOs](https://news.google.com/rss/articles/CBMi-gJBVV95cUxNUTFTSWQzZVdhRzZ1UFE5Q0kzaHZYWDV0R0lVYzFlSlk5RU1ZcUNYRUtCY21JUms1S3BQQUFudnhFc1FfVWRsbk54SWpDc2o0SW96NGJTWFk3THRFUzAzUUhRVnZrUnlnalRVQXZtMmVzZXAxdGw0QkdsZ3o3RVlXc09ub0R1S0dxemFXX0FUWGVaUkNyRzVuZjhJdmRta05NcGFPcUsyTThxcXFHRmF5eFZwTmlNLXhzM2U3TG91OWZzaFRWXzhZSE10RXpBdFpmdWVQRDJJbTlXY2xPYnNyb3FjWG1LdDhyWl80RGdmVW1qQjIwWkNWRGNNeWxRTzB2RmVobVdzSDNKaGZWZHg1dzJCMnNjaWxfSnJNb25Ob0FxYTlDZXNRVlV4OXFoX2lLNzVrMThCN0JnYVdLRmJxYk04dUVFQUhKT1Joc1VnRjVaQXppalJzOHFhMU9KNDlIZjJ4UVk5RzQ3MUNDYmxLbGFqRTU2NExzTkE?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [I fear Anthropic, OpenAI, and SpaceX IPOs will suck capital out of the market, says Jim Cramer](https://news.google.com/rss/articles/CBMizwFBVV95cUxNLTFLa3UxT3NYWTFGX3JFY3Jtb2JSYlBnNjRLUVdVNmtfeFV4Y0l1ZkZPMjNPMlJ4NzQzYjV4Mm9UOUxLVjJtMjU5YmY0cXJZOWc4cTdrWGl0T2xtS29lMmc2ejBYODBIRmVCc2NPVHN5aGFKeW1ZSnd4WFNfT1lQVU5PblZycWlWS2RjVjl6SXRNcEpoUTZ0VlUxQzFNdFdMOGFfaFliZXBYTGEzdVloX2pPdDA1d3R1N3NMb0tBOVJ4bXNlUU5QTzFGa29LLWc?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic, OpenAI and Google sharing Intel to block Chinese distillation](https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI’s Altman releases blueprint for taxing, regulating artificial intelligence](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUnNWZ0hwN0dDQS1SSlFrODdMWjZmaVE3aUZUcWwweVBwcHY5RzZtcF9sUVdMY1JOdlBNRTAwM1lseVZNd1prdWk0LWd4cUtjTy1reVROSzRSREFoUFR5ZGpMWTBLWldIemdCYU45Q3prZkxobDFpYXkwa1lPcWdsdFllUHNoUdIBiwFBVV95cUxQZXV5aUV6Yk9BTjdyUzVxMm1rQndTRDFmY3Qzal95X0dMQkJudEpfZTlkakt0eGMxZUtvWEhrT2VJOGV1TlVuWF9oV2N6MnRwU2dSWUlvSHFxN1c4MDdBQmdxZEFjd1JjMHJxLUdaRm8waVBibG4xU2hUVEhhbUlqUk1Tb2E4ZFMyMzZB?oc=5)
+  Source: The Hill
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic reveals $30bn run rate and plans to use 3.5GW of new Google AI chips](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWRxakx5bTh4S3FqeXNVNFVLU2xETE91emFkdFVQMDJyam5YbEh6NjY4MUwtcnpvTjI0d0JPU01jaTE5MlY1czdRZ3piM2Uxd2luTUxESjRfRElJZm94TGpLcTZ4UGI3VEtGQjFqTWVUZmRsWVdjTUFtSmhPZ2FUVTQ0UVlkaFlDd3BhMQ?oc=5)
+  Source: theregister.com
+  Implication: Compute access remains a strategic constraint in the AI stack.
+
+- [Should You Hold Off on Buying Artificial Intelligence (AI) Stocks and Wait for the OpenAI IPO Instead?](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZERSbFpIRkhGbnZVS0JGRkhkeGhHdm5Tck1JYzVSUldtR2ZqbnZNNTdfblJaMl9rU2dsdmtUVUxveG9JcUoyUVQwNFpQckhLU0xFcy1ocGdfVnJmT2Y4MVZ1WVR6M1BqN2FyT0otTW1YTFJGNHlscElPZlNNcWFXdE5DdkRDMWF6NG9hX3NVUUwwVVZBNDJaWQ?oc=5)
+  Source: The Motley Fool
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
