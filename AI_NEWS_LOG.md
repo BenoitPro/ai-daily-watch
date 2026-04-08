@@ -389,3 +389,33 @@ Daily AI watch entries will be appended here.
 - [Should You Hold Off on Buying Artificial Intelligence (AI) Stocks and Wait for the OpenAI IPO Instead?](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZERSbFpIRkhGbnZVS0JGRkhkeGhHdm5Tck1JYzVSUldtR2ZqbnZNNTdfblJaMl9rU2dsdmtUVUxveG9JcUoyUVQwNFpQckhLU0xFcy1ocGdfVnJmT2Y4MVZ1WVR6M1BqN2FyT0otTW1YTFJGNHlscElPZlNNcWFXdE5DdkRDMWF6NG9hX3NVUUwwVVZBNDJaWQ?oc=5)
   Source: The Motley Fool
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-04-08
+
+- [OpenAI, Anthropic, Google Unite to Combat Model Copying in China](https://news.google.com/rss/articles/CBMiswFBVV95cUxNY29pTlNlU1RLWkl4dkRGM051Ny1kVUxMMkFvUW1pMzdEQ0RLckd6NWljVkp3RlZfcjNTWW5PQXkyYno2SGFFUXRJVEtGQkxCbVlob2JzWmszUTN3TmZqRC1aX29wM2pqS2NYbEVNUVN1YzBNcUlXUW9YbHF4NUx6ZkV0UVB2bmxHYnc2dTNJbFFrU0ZxZ3pRSmpDMWIwOGdqdkFfZ2pHNER3NzJCZlFKb1VuYw?oc=5)
+  Source: Bloomberg.com
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic appears to have overtaken OpenAI on this key financial metric](https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVo2bTEzN29pekVHcDBubUJHVEVyWVVUZDM1Rm9kUm9GNnpxclBaM0FpdzJyNnl5dndPTGNlNW1ic1FjeFZNbndhOFlvSi1YR1hzd3NMSUxLRUZrN1VnM3VCT0xHRUctNTBlWkxrWlU5eWdpendIVEZYVmlfLWtNSXBMTVNjY1U3ZUlORTdrQkJaVlJyM3JseGZfdlF6TkpfTE5LN3FnUjZZUWY0RlFSdnRkaEI?oc=5)
+  Source: marketwatch.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic, OpenAI and Google sharing Intel to block Chinese distillation](https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI’s Altman releases blueprint for taxing, regulating artificial intelligence](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUnNWZ0hwN0dDQS1SSlFrODdMWjZmaVE3aUZUcWwweVBwcHY5RzZtcF9sUVdMY1JOdlBNRTAwM1lseVZNd1prdWk0LWd4cUtjTy1reVROSzRSREFoUFR5ZGpMWTBLWldIemdCYU45Q3prZkxobDFpYXkwa1lPcWdsdFllUHNoUdIBiwFBVV95cUxQZXV5aUV6Yk9BTjdyUzVxMm1rQndTRDFmY3Qzal95X0dMQkJudEpfZTlkakt0eGMxZUtvWEhrT2VJOGV1TlVuWF9oV2N6MnRwU2dSWUlvSHFxN1c4MDdBQmdxZEFjd1JjMHJxLUdaRm8waVBibG4xU2hUVEhhbUlqUk1Tb2E4ZFMyMzZB?oc=5)
+  Source: The Hill
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [An Inside Look at OpenAI and Anthropic’s Finances Ahead of Their IPOs](https://news.google.com/rss/articles/CBMidEFVX3lxTE91dkc1UXBGSUswLU44UHRoZlJ4ZUd2TDBXWFYwS2dGN2lsRVNaaGU2Tk5rc3RLd1dmZ3JfSDhETXpUVV83UkhNRU01cmxSN3J5M1lCUmJha2lGZkxxVEF3cnlfTU0wcElVZjJsc2FLX1ZUVmxs?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Jeff Bezos’s new lab hires xAI co-founder from OpenAI](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdlVndVFCWkFGNEVrT0VBY25IU0tHZXgyTDdtdHBjTUVGYkphUEM4X3FFdllXcG5jVTRZVEU0andVQkVXc05EN1ljNmtYSTFqZElYaFJ5UjZQbFpzSHdGVVYwMkFaMUhaNTlhUnZVTUt4WklwRHRUWnZOVXhvbnREWjJDRzU?oc=5)
+  Source: Financial Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Should You Hold Off on Buying Artificial Intelligence (AI) Stocks and Wait for the OpenAI IPO Instead?](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZERSbFpIRkhGbnZVS0JGRkhkeGhHdm5Tck1JYzVSUldtR2ZqbnZNNTdfblJaMl9rU2dsdmtUVUxveG9JcUoyUVQwNFpQckhLU0xFcy1ocGdfVnJmT2Y4MVZ1WVR6M1BqN2FyT0otTW1YTFJGNHlscElPZlNNcWFXdE5DdkRDMWF6NG9hX3NVUUwwVVZBNDJaWQ?oc=5)
+  Source: The Motley Fool
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
