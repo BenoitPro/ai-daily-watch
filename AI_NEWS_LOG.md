@@ -425,3 +425,33 @@ Daily AI watch entries will be appended here.
 - [Low signal day for AI news](https://github.com)
   Source: Internal fallback
   Implication: No strong signal surfaced today, but the daily log still captures continuity.
+
+## 2026-04-11
+
+- [OpenAI slams Anthropic in memo to shareholders as its leading AI rival gains momentum](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVYzcFRlNXZJbE85MlZJMkxkQVBGUlZaRTlLZF9WQ2xnSmtVRjhfWFBLSnE0LXZqaTM5R3lhWXB6NXp6di14OU5XTThxbHFiWE5NLTM4d3FlYXlhQTFhbzhqb3JZeW9zMW5xd2J5cklpd3hrYldCX3gtaGxZRnkxT05sMURqa29CRUswOGJQc09sa2ZnLS1DUGZIbDVaQ0FTTm53eVItM2o4ZWvSAbABQVVfeXFMTzhlVkhnQm45OFU1YTVpVFlTUjJCSHVQQVgzbXBZYWZ1LWhvNDIxRWUzQzZKNUtoZjBacmo4dGZsbmlWbE9NZmxSTi1TeEp3MXhJS21uX29OWnRZeHBlWU1CZVdla3duT1NjMjhmNlFwcXZsM1F4NWVuVEFsUFFLNVhqY09GdHF6QXJkQ0pWYjlRU0d0OTc4TGticEg3bkVlREtGMXRvektmMzBIejhmV2o?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI looks to take on Anthropic with $100 per month ChatGPT Pro subscriptions](https://news.google.com/rss/articles/CBMilAFBVV95cUxOc29GSW5wTkFKN1h2MXNEeF9kVWxsazdlYXc5V3VSTjJRRGxkbXJycC1hU1d3dTctRTh1QUU4WUxKbFhRZFZYdXFaYTVvT2N6NXUwYzYyVm02ZlJrMk53T2dqdU1SNkJmZ2tyOUFyZDNQZVl5NVNyX1FaeVd3dkRJS2xvVC15MnZGeG1IamttODdXckdt0gGaAUFVX3lxTE9PY2xydm54S2Zyd1d6MUdqeWZ1R1hkcVZBTFpEdXRIRV8xQUplRnNRSGRJckFieUxnWGJLcTU5U0dCVkVOc01QVlFfVlo4aHhaVUdnR1l1TVFZY2JwSGMzNzNaVzdhQUFmRG5zZkdsdTNaOFg5Tld0VlFJNDlJYjNwSFlYTGM2a2hXOFRoMTV6S3JNYnNSRTlIaGc?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Meta debuts new Muse model, rivaling Google, OpenAI and Anthropic](https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [New Anthropic Tool Speeds up AI Agent Development for Enterprises](https://news.google.com/rss/articles/CBMilwFBVV95cUxQemNvUzNmSk9YQUVQblh1UjNPNXBvZGk2VlhpLUlTZHh0RjFUODF3Q1VVRnA0YmllXzVodlY2MmNrenJZUlhnQjZfU1pwS0txZEtNWGFyNmpWQ19vNHVUOXpieldNQ1pyNUtJRmFKcVB1bGVlbWp1cEFScWhXU3ZRVzFKMlV1MUlNRnowTDNTb3JpUGVQcndZ?oc=5)
+  Source: AI Business
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Anthropic is weighing building its own artificial intelligence chips, sources say](https://news.google.com/rss/articles/CBMidkFVX3lxTE5kbkNJdkkwSFVPeWlDSmZmd3BPY2JqNkR2aU1YTlhvWE1uSmJENDNkdl9zcHkyVnRiM2Z0RTlUY0Z6WW0zY0F4S0Z0ekgtMEFMekZ4dFplRVFSNDRRQnVtSUlfYmhybTVjQ29lVFFaSWRHUTk5NGc?oc=5)
+  Source: Taipei Times
+  Implication: Compute access remains a strategic constraint in the AI stack.
+
+- [Anthropic says new AI model too dangerous for public release](https://news.google.com/rss/articles/CBMihwFBVV95cUxNUGQ4OWgwakJ0ejFNUGFkbUVlV2NYM29nYkJGUlAzOXd0clNYUjQxaWVFUWlUSlFleGp4dzMtRTkyM1RkSlM3Z0RZRHFqZ1ZkZDQzRnZWQVdud1lfanNRc003c0YzX2w0NDNNTVJNaVdLa1dvLUxsNFRtSjQ0YUdRVVQ5RDhORkHSAYwBQVVfeXFMTzVkYktlX2xXYkxiN0VoZkhtQnpNYzh5ZnFVYlNsRnBPQTJlVnMxVVJtWjF1b1FiWFRhYm1vVS1MYUw4YWl4eUVVc1dHQlVUOXFHb0E3NjBzMy1Kcjc3RkN5OGhyS0Zfa2diazBQRlBwMXBfSGVCTHBhNzlLeEw4S2R4Tm1DV1d4SllUdUo?oc=5)
+  Source: The Hill
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Exploring Mythos: The AI Model Anthropic Won't Release](https://medium.com/seeds-for-the-future/mythos-the-ai-model-thats-too-good-for-you-7bed3930587f)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
