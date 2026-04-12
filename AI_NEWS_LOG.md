@@ -455,3 +455,33 @@ Daily AI watch entries will be appended here.
 - [Exploring Mythos: The AI Model Anthropic Won't Release](https://medium.com/seeds-for-the-future/mythos-the-ai-model-thats-too-good-for-you-7bed3930587f)
   Source: Hacker News
   Implication: Model quality and capability shifts are worth watching for product planning.
+
+## 2026-04-12
+
+- [Anthropic is close to overtaking OpenAI on this measure of AI business spending](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVkpoQTNZWWRVaVY2ampMemNsWUJDMU5PWk9LN3I4TUo1Ym9LTU9mak1uVVhJakhTWTl0a3pQMjNGS3lpandhRDdsdkN0TEtia2luaFJBVTljME1DMWpsNUZ0U0xxZ3VFTW9SR3FwaDN5SjRaQXI0d3J0VFVBaUZJbEpCTU81T194Rk5iSkVJU285R2NpUzY5MndOOFpNc1puSm9FYVVn?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [AI Alignment: Anthropic, Amodei owe 100% of their success to OpenAI, Altman](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdkM5VzVPV3hWLTlDOWpIWlMyTmhKdnFEUTVVS0t5UFY5X2g2QTcybnkwV3hjbG5GRWJTQUI0M1BRUTJXeUVUMHNGQjdSXzBxR041X3lZb1ZQd2huZXd1T1Y4MWRxWHlqdDZ1dHdMVG9xWnA5S1BXaXpzZU94RlZYSGVvdG0tWnZBOFFCLWYyLXJ1VlBVOGc?oc=5)
+  Source: Sedona.Biz
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Meta debuts new Muse model, rivaling Google, OpenAI and Anthropic](https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI slams Anthropic in memo to shareholders as its leading AI rival gains momentum](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVYzcFRlNXZJbE85MlZJMkxkQVBGUlZaRTlLZF9WQ2xnSmtVRjhfWFBLSnE0LXZqaTM5R3lhWXB6NXp6di14OU5XTThxbHFiWE5NLTM4d3FlYXlhQTFhbzhqb3JZeW9zMW5xd2J5cklpd3hrYldCX3gtaGxZRnkxT05sMURqa29CRUswOGJQc09sa2ZnLS1DUGZIbDVaQ0FTTm53eVItM2o4ZWvSAbABQVVfeXFMTzhlVkhnQm45OFU1YTVpVFlTUjJCSHVQQVgzbXBZYWZ1LWhvNDIxRWUzQzZKNUtoZjBacmo4dGZsbmlWbE9NZmxSTi1TeEp3MXhJS21uX29OWnRZeHBlWU1CZVdla3duT1NjMjhmNlFwcXZsM1F4NWVuVEFsUFFLNVhqY09GdHF6QXJkQ0pWYjlRU0d0OTc4TGticEg3bkVlREtGMXRvektmMzBIejhmV2o?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [After Reaching a Deal With Anthropic, Is CoreWeave Proving to Be the Ultimate Artificial Intelligence (AI) Stock to Own?](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVV9jeTVrSkE2OU9RZi1qOXJ2VE9ZYW50TUFmakxOMmdqRFZaRG5WQWFsOC11WVpVc2VZZmtqVEZid2JvSkJZZDFZMDlXWlMyaHMtT2pKakVCSTh3X0paNzV1MFd6b2tkZ1VhVmVhY3pRMHZzM0QzbW1xbjlWRnRfcDJCaWxIbERnMlRFeWxubWZOVktLbDdV?oc=5)
+  Source: The Motley Fool
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [What Anthropic's too-dangerous-to-release AI model means for the AI race](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDJjTTJZeXBLbXc0WWxYdFZsal9xalRCRVVPWDdJaEN3VUQ4d3NpWVREVHBnWTA4bFp4emtvRTZtdHBuRU5UbjlxUUE0YnNIeG8yZ2NPcnp1OFFoX0t0cXhfSW9STkt5SFkwRmtDeGtKeGI3UUxrdm40Z3d0enlYQy1UNFpmbDZzeTJrZm9lbTNBSjRjSzdJQUJWcDh4Rk5oZXNhMw?oc=5)
+  Source: Fortune
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [New Anthropic Tool Speeds up AI Agent Development for Enterprises](https://news.google.com/rss/articles/CBMilwFBVV95cUxQemNvUzNmSk9YQUVQblh1UjNPNXBvZGk2VlhpLUlTZHh0RjFUODF3Q1VVRnA0YmllXzVodlY2MmNrenJZUlhnQjZfU1pwS0txZEtNWGFyNmpWQ19vNHVUOXpieldNQ1pyNUtJRmFKcVB1bGVlbWp1cEFScWhXU3ZRVzFKMlV1MUlNRnowTDNTb3JpUGVQcndZ?oc=5)
+  Source: AI Business
+  Implication: AI agents are becoming more practical for day-to-day workflows.
