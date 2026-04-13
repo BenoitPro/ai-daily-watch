@@ -485,3 +485,33 @@ Daily AI watch entries will be appended here.
 - [New Anthropic Tool Speeds up AI Agent Development for Enterprises](https://news.google.com/rss/articles/CBMilwFBVV95cUxQemNvUzNmSk9YQUVQblh1UjNPNXBvZGk2VlhpLUlTZHh0RjFUODF3Q1VVRnA0YmllXzVodlY2MmNrenJZUlhnQjZfU1pwS0txZEtNWGFyNmpWQ19vNHVUOXpieldNQ1pyNUtJRmFKcVB1bGVlbWp1cEFScWhXU3ZRVzFKMlV1MUlNRnowTDNTb3JpUGVQcndZ?oc=5)
   Source: AI Business
   Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-04-13
+
+- [Anthropic Gains On OpenAI Amid Rising Adoption Among Enterprises](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTkpqUm1zRlViQ2FwTnc4bThvVFprMlBTd1lmQW40bHZMWkxQOE91ZGQtR0NvbXhLMEx5SHViVFFjcFR0WG1hWi0wNGk0OTllUnp0ZUljTjhlUnpTdUlJVDJKaEZ5S0M3M3BncjBZRGlyS3BKSXRPNGF2MlY0ZUt3US0wb0xYUnU1Zkg3MnFRNmc2MHhtWDZKMHV0amJLc1BHTnNpN0xPbGhOc1ZLSFNsaHZaSVFLZlc5dEdB?oc=5)
+  Source: PYMNTS.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOazN0R1hpMmpLMzloRjVNel9nZVF2VERMVTZGQ1ZEanVBMXgzcmFtMDBicC1LN0lRdkFiQ3hfOFQtODNXZ2xPS2hscTdyRDlPZzA1SDVZdTVLakg4a2VDT1Bvdm5obDVObHo5Qm56cE1VWXNfd2ZOZEFHLVpxS1hDYjk4VTdjUHYycjU2bjZFamM4bzUyVzh2ZDI1VzFVUm5ndk9KakFNLW1IS3pZdW9zdWdaTDRQNG5DRmRBQ0lVb0NQUzBwSGJNNXhFamtxUHJ3SFd3X3pkMA?oc=5)
+  Source: TradingView — Track All Markets
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism By Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWItR3VnZ2hKSWswYWxQV1AwakRPUE80OUtId1UzaWt0Q2o3OXpWYl9wbzBqbEF6NlgzR3ZiRkp0a2pXNkRzTHByU3I4MV9iTXNQMGRhRWZ4d1Rtd3kwUldYWUM5aUVkS0YwRS0xT093c2dNUWowM3N1WTdlTFo0dk1QSkk3M1ZPcjNvblRoOTZJa29kWmozQlNKekVhXzMxLWM5aFJOM04zc0VHQ1RDQWNTTnMwbTRmOFdFaw?oc=5)
+  Source: Investing.com
+  Implication: Regulatory pressure is rising and could change shipping constraints.
+
+- [From Wall Street to Silicon Valley, Anthropic has stolen all the limelight from OpenAI.](https://news.google.com/rss/articles/CBMif0FVX3lxTE9adk9SSDFEdkpVT3Zwb2doWEZiOUxDelFJVmFDZkdKT2gzNzlLVnpHVHZyeWFWR09UOF9UdjI2ZXVZRGdOOTFrTmJYMUtwSEE2SnhIMUxtZWg4V1JXcC1RVEZyakY3MUlGZGJzVGdJVkdxU016U2tXVlBNLUFzSWc?oc=5)
+  Source: PANews
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI slams Anthropic in memo to shareholders as its leading AI rival gains momentum](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVYzcFRlNXZJbE85MlZJMkxkQVBGUlZaRTlLZF9WQ2xnSmtVRjhfWFBLSnE0LXZqaTM5R3lhWXB6NXp6di14OU5XTThxbHFiWE5NLTM4d3FlYXlhQTFhbzhqb3JZeW9zMW5xd2J5cklpd3hrYldCX3gtaGxZRnkxT05sMURqa29CRUswOGJQc09sa2ZnLS1DUGZIbDVaQ0FTTm53eVItM2o4ZWvSAbABQVVfeXFMTzhlVkhnQm45OFU1YTVpVFlTUjJCSHVQQVgzbXBZYWZ1LWhvNDIxRWUzQzZKNUtoZjBacmo4dGZsbmlWbE9NZmxSTi1TeEp3MXhJS21uX29OWnRZeHBlWU1CZVdla3duT1NjMjhmNlFwcXZsM1F4NWVuVEFsUFFLNVhqY09GdHF6QXJkQ0pWYjlRU0d0OTc4TGticEg3bkVlREtGMXRvektmMzBIejhmV2o?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [After Reaching a Deal With Anthropic, Is CoreWeave Proving to Be the Ultimate Artificial Intelligence (AI) Stock to Own?](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVV9jeTVrSkE2OU9RZi1qOXJ2VE9ZYW50TUFmakxOMmdqRFZaRG5WQWFsOC11WVpVc2VZZmtqVEZid2JvSkJZZDFZMDlXWlMyaHMtT2pKakVCSTh3X0paNzV1MFd6b2tkZ1VhVmVhY3pRMHZzM0QzbW1xbjlWRnRfcDJCaWxIbERnMlRFeWxubWZOVktLbDdV?oc=5)
+  Source: The Motley Fool
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Why Anthropic’s new AI model is too powerful to release](https://news.google.com/rss/articles/CBMijgFBVV95cUxQcmNtRlItTnF5WXlVU0ZTaWtCbHVXWHdOSnZBTlZiRTVhaHBqRFk0TTBObzJES2x2Q3owc2dNVldia1FhUkZlamM5Vm1RSzRYeW41Um01d0gzYXFzcE5aUzVPcDByRTlpOTdYOU9yeHlRQ2pRZzdlSTNsZEFxRnVmMk5RZHhYRzBVVC02d0pB?oc=5)
+  Source: France 24
+  Implication: Model quality and capability shifts are worth watching for product planning.
