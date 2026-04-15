@@ -521,3 +521,33 @@ Daily AI watch entries will be appended here.
 - [Low signal day for AI news](https://github.com)
   Source: Internal fallback
   Implication: No strong signal surfaced today, but the daily log still captures continuity.
+
+## 2026-04-15
+
+- [In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFh1dmotOGxnQ0dTRHUtMnl2a1lqaXJYSlUwU2RnVE5RRFBkUEt6WTYtVkFkTF9rX2o0bUlPU3I5a2FjT2k5ZW5tTHJoSEItLVBwMXNEYVhCWC1kdFpQa3FPTzZDVjhBNnVtOE55bjVuYm9xRVVfWkhkLXJ2Z1VoTjhaVE5VTkhWRUQ0dDRwTThZVWxOdUFWQ0NmWmppYzA4aEdDRUVZNE5mNmtwVEFSbA?oc=5)
+  Source: WIRED
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMUZubVVSNlNLekg1ZEVvcDlweXlKc05abXFIaS1rU1FkZy1aelczZG4yZnlnN1pjQzc1YkJEdGtMNWdkMWIyZFowUExNMU8xT2x5VGRtQ3I3SmM2NEM4MWtWMDVzdl9EbFBGVEV5VGstcE1UT204ek5XNnBUek5meFprTVJtSWxnUzMw?oc=5)
+  Source: The New York Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWGR6enlTLVgzMzcyYkx3bHJrb3VpUEtyejBBaWszUHZyQzBUdXZfa3hNVmxrRmk4QjgtQ1BaXzlfREhYTDNGQlBvNWNHZm9FWDlKZ3hEcTFiTlhFXzhGZUpjR2FPSkFkaXdSbk5Fb0xBQjBpSU1YbFB2NW9rdE4wbDRFSjQya2hBSDNTZ0xweW9iWmlCanpNaUtoNA?oc=5)
+  Source: WIRED
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic’s rise is giving some OpenAI investors second thoughts](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZndZMWNRVVZjaUE3b2NmM2tOTnVUaDVwd0lMa1ZPMzQ0M1hGYndUaWxoU1BUY0RUMWo4eG5kOXEzbzBtX01mcVdWMjlwWTVpRFF3SF80V3VvbnpjeDMtVDU4NjdYRE5BLUh4WHhKS2RabEN3Q0xZdDgzN09JRmVwaU50OUxpNlRnMC14ZG91TFVmRE10a0dNMVhNb0lTLXM?oc=5)
+  Source: TechCrunch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [The OpenAI-Anthropic Cold War Comes to Illinois](https://news.google.com/rss/articles/CBMihAFBVV95cUxOR01ubTNiV3B2dnY2djRZazRseFdXN2VUR3ZpS2dzai16NV9VNGlwTk1obTlLY3N3dkYtSl82bVppZ3d0NjE0TTJtRjFuYWItY0ZBbm5KQVFxNmZJNGFUSTdrT0VIbnlLVC11a2VfeG1qVDN3U2RaR3ZGeTFCTmtyVDNsQnU?oc=5)
+  Source: Gizmodo
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI Exec Reveals New Strategy in Leaked Memo: Attack Anthropic](https://news.google.com/rss/articles/CBMimwFBVV95cUxNR1ZTRjhPYnF1RmJPbURHTl8xenNvcndyNENxdHJNOEFoc0FIWmp4SmdDZVBSV2pCdTVQQ1hJcmtYYW9zV3lOTkd4YjgxLTd2T2xaNFpVTDI5ekJVQ0hoQXN5bWZWejFyMW1RWXFPeHpkTXBYWlJaeXVha3l5ZGtEMk9TVERKLVhDQ1ZxYmEycGliVVF5cGtETEcyQQ?oc=5)
+  Source: Gizmodo
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic Nears OpenAI Territory With Reported $800 Billion Valuation Chatter As Explosive Claude Growth](https://news.google.com/rss/articles/CBMirwFBVV95cUxQU2EzMzdzNUxrNGdlVG5sSlp2bHoxOVR4VGpuemNsYms5QlhGdWprWE1UZmxuX1FNOFUtOE56ZjRxTG1PcFVXZ3lrU04xejE3TnBYNDNhY3o0aVhZSTJsVDdaV01MV1lZSnFkYks4UURSSmxkQmxpTTNfN29KUU9nZ29zdS10bTh4Z05HWnRtQjdQSDIzR0V4VFRqNmtuRUQxWUF1RFlXOTNHT0JOeDdR?oc=5)
+  Source: Benzinga
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
