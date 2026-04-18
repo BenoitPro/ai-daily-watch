@@ -563,3 +563,33 @@ Daily AI watch entries will be appended here.
 - [Low signal day for AI news](https://github.com)
   Source: Internal fallback
   Implication: No strong signal surfaced today, but the daily log still captures continuity.
+
+## 2026-04-18
+
+- [Illinois is OpenAI and Anthropic’s latest battleground as state tries to assess liability for catastrophes caused by AI](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUZ3WTJIMmFPb3Rkbm9rVm9LWnctTlJLRm5fWFNQOXctX1dueGU1MXZXei1WaXpqRFZ5NEtFNFhEc1IwUThlaXdFX2xTNUQ4LVFiR2FqUkNOcjdCd1NjMG8zRmcyanNuR3FMemwtTXRkckNhRG5MTjQtTXdoUlZLY05heXNXU2dmeDFBcWdQSEwwQQ?oc=5)
+  Source: Fortune
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Nvidia CEO makes surprising admission on OpenAI and Anthropic](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlNEQVBCQ0E1TUQwUHNVX3pBUDJPM1RqenF2dUwtS0hUX3AwMC12YVJfTGhGZlBaXy0xbEIzVmdzdTJKNU1TQXgxLVVHYlB5OUlQRE1GRjI0NjJCZDl0cVpwTEwxUjBDMXJvYmxVMERLRFpWeS1ieWE5OFllQ1BkWHB5RU5YT28yd2ZqamNMRXQ5ZXgya09NeC1lOVlvWkU?oc=5)
+  Source: thestreet.com
+  Implication: Compute access remains a strategic constraint in the AI stack.
+
+- [Why Anthropic and OpenAI are locking up their latest models](https://www.economist.com/business/2026/04/15/why-anthropic-and-openai-are-locking-up-their-latest-models)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic releases Claude Opus 4.7, narrowly retaking lead for most powerful generally available LLM](https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlRYYzF4VzBLeVlxR21DZUhOS2xqN3R5OGE2Snpndlhxa1dKRkswY3hGVW16RlNmX0h3RUsySE1oU2xJWVU2UDIzZHF0UVRxX2hEN1U0b1FaSHFCaVoyY0Rxb0VrUE5CMnE1a0p6d3NZanFLMEc1eWswV2x5NTg5UGF1SU9zeFIzZlhwV0VmajliWlNidktuanNmblBhTGdZUk1DMTZ5SXlVcGl1RlcyWWs3cFVmb1ZkdjMxMWdWQTFMMXZqdm9ZRy1vM0RMOVU?oc=5)
+  Source: VentureBeat
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI starts offering a biology-tuned LLM](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa28xMkNaSVlobHZvZXZsV1FfbDRsUk8wd2tBY2FBTjlTVDdvWVZIWVkwVm1QNFNLazdhZ2owcFJMUURqaFkwVDlLT1hVR19hcFpxVDh6RFUxNExkaXpqcGhQSWlsVkp1WWNpaWE0WGtBMENUcEFuYThtbkwwRTBxblVIaXVFWFFxaGJZ?oc=5)
+  Source: Ars Technica
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI launches biotech-specific AI model dubbed GPT-Rosalind](https://news.google.com/rss/articles/CBMilwFBVV95cUxNUzEybW5KVW1EUy1ZZm4yMkJuRHhQTGNPZ0lEdkFMa2xVM3lCY2Z3eW5EdHpQTEtXc2N6OEVLY1RBbm9NSThmUGRwWE84bFY4U0FLYzcwZ1hYSVh6UFVoQ1VNSU1WVWowVVl6YkstTHJrOXNCZEFqY01XbmF5THl2b1BSdHFPYXhNUFN1VjEtX3J5TGpVSV9r?oc=5)
+  Source: Fierce Biotech
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI launches new AI model for life sciences research](https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWjZuTktlUG1VdFhCQ1BpNnExcmZKekZyZm9qRWp3U2dHWDBfdWFoRE9BVl9FMF93TFRfVjdSdHdOcV9pVUtrWUF3S3JVcWVEOEZSRGJ5eXM3WFBvNlNIQzFJeUFaVzZMNklRWWNGeExhSE82?oc=5)
+  Source: Axios
+  Implication: Model quality and capability shifts are worth watching for product planning.
