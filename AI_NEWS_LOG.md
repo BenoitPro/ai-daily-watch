@@ -593,3 +593,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI launches new AI model for life sciences research](https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWjZuTktlUG1VdFhCQ1BpNnExcmZKekZyZm9qRWp3U2dHWDBfdWFoRE9BVl9FMF93TFRfVjdSdHdOcV9pVUtrWUF3S3JVcWVEOEZSRGJ5eXM3WFBvNlNIQzFJeUFaVzZMNklRWWNGeExhSE82?oc=5)
   Source: Axios
   Implication: Model quality and capability shifts are worth watching for product planning.
+
+## 2026-04-19
+
+- [Why Anthropic and OpenAI are locking up their latest models](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSGxrTHhwdWszV1cxTEpLTk9WaV9OVFM2TE9nQTlSSDQ2ZU1MOFctRnhjWmNOUjZhemczelVrcTZnZWx4SDVfWHlFZnZNR3pLLTFsdFdVVGVyNFBnbGNHNWV1WmcyRlEzNFphMnMzSVJQNkZMbzNGRkVxeEE3QjEyTzZUaU10OGRhZGVwY1lYeDBsUnFYRmRWd20wWHk4NV9WT1FVdnQ2Z24?oc=5)
+  Source: The Economist
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Google and OpenAI are making a run at Claude's desktop moat, and Anthropic is making it easy](https://news.google.com/rss/articles/CBMitAFBVV95cUxNall2amhpYW5TcTdOM1laY1VDM29FcXMwc2t0NE5nWmp3OW1pdk1zMmlvNWhSbXRacWQyako4eDBiVkdMSU12SFZPZ3BBUnpXZHQtYzBLbnQyQnFib0hIMTZNdW5PS0hFd1lUTUkwaTlIMmdVUlhvdXZNZDd4SmVjNzhkdVlWY1BtZ2FlTF9xREdmUHRCR0VQVXFnc085c0NNZzNzd3RCMFI1VElMMC0xdW9UN2w?oc=5)
+  Source: The New Stack
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Illinois is OpenAI and Anthropic’s latest battleground as state tries to assess liability for catastrophes caused by AI](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUZ3WTJIMmFPb3Rkbm9rVm9LWnctTlJLRm5fWFNQOXctX1dueGU1MXZXei1WaXpqRFZ5NEtFNFhEc1IwUThlaXdFX2xTNUQ4LVFiR2FqUkNOcjdCd1NjMG8zRmcyanNuR3FMemwtTXRkckNhRG5MTjQtTXdoUlZLY05heXNXU2dmeDFBcWdQSEwwQQ?oc=5)
+  Source: Fortune
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic, OpenAI, Google, and Microsoft agree that the harness is the product. They disagree on the price.](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MOEVKcktkQmpETHFkOVhIZy1zOFM5NmdoSXYtSGlPcmY2Z0x5MGJjbWFkRHVRZEl1SUJhSEJ1ckhjUEhGSEM5UGVxQkQ5cV9KWlU2RXlqckh0Q1p5TGxKOFpZclA?oc=5)
+  Source: The New Stack
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Google and OpenAI Challenge Anthropic's Desktop Moat](https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0RNbmdqQTc2b1R4Z2RrMDQ5WlZucHNSdzVrMzBFOXI0ZmVMVG1jR1RtZG1SMnYzZUYybWtfYVJoV2FpZ1dBOFl4eEZ0WHhQNlVNN1l4TFBIZFZtcy1YUV9KUXJKWWlOcE43dWV2cEcxQ25YSS1BN3lWcnVFcGY3U2tQTTc5OXZmZTBUWndJNzh0cWRkZlVGdQ?oc=5)
+  Source: Let's Data Science
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Nvidia CEO makes surprising admission on OpenAI and Anthropic](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlNEQVBCQ0E1TUQwUHNVX3pBUDJPM1RqenF2dUwtS0hUX3AwMC12YVJfTGhGZlBaXy0xbEIzVmdzdTJKNU1TQXgxLVVHYlB5OUlQRE1GRjI0NjJCZDl0cVpwTEwxUjBDMXJvYmxVMERLRFpWeS1ieWE5OFllQ1BkWHB5RU5YT28yd2ZqamNMRXQ5ZXgya09NeC1lOVlvWkU?oc=5)
+  Source: thestreet.com
+  Implication: Compute access remains a strategic constraint in the AI stack.
+
+- [What xAI and OpenAI Should Buy Next](https://news.google.com/rss/articles/CBMif0FVX3lxTE5pUWpYTlo1STJqbloxbjFCUlpEeTBjQTVWaGJtYll1ZEx1NzBYOWQ3a01GUHpqN2FQbU1kZWQ2VFZnMkxESWNDRVdlRE5Na0RLbzJHRXRDeHdyTmxVSFpBRFhmWXJENlNISVliVGJNMVZNUkpnVk1UWXNPb2tJVVE?oc=5)
+  Source: The Information
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
