@@ -623,3 +623,33 @@ Daily AI watch entries will be appended here.
 - [What xAI and OpenAI Should Buy Next](https://news.google.com/rss/articles/CBMif0FVX3lxTE5pUWpYTlo1STJqbloxbjFCUlpEeTBjQTVWaGJtYll1ZEx1NzBYOWQ3a01GUHpqN2FQbU1kZWQ2VFZnMkxESWNDRVdlRE5Na0RLbzJHRXRDeHdyTmxVSFpBRFhmWXJENlNISVliVGJNMVZNUkpnVk1UWXNPb2tJVVE?oc=5)
   Source: The Information
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-04-20
+
+- [Google and OpenAI are making a run at Claude's desktop moat, and Anthropic is making it easy](https://news.google.com/rss/articles/CBMitAFBVV95cUxNall2amhpYW5TcTdOM1laY1VDM29FcXMwc2t0NE5nWmp3OW1pdk1zMmlvNWhSbXRacWQyako4eDBiVkdMSU12SFZPZ3BBUnpXZHQtYzBLbnQyQnFib0hIMTZNdW5PS0hFd1lUTUkwaTlIMmdVUlhvdXZNZDd4SmVjNzhkdVlWY1BtZ2FlTF9xREdmUHRCR0VQVXFnc085c0NNZzNzd3RCMFI1VElMMC0xdW9UN2w?oc=5)
+  Source: The New Stack
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop](https://news.google.com/rss/articles/CBMixwFBVV95cUxPZVJqa08wVGRRcUZuVy1DWVBfY3VSVnB3YzI1dHNtWnVMa09YVWdnTUlUd3hTR01kS3luakl5NlBoXzNRUEdORVR5RDdKai1GZC1XemRpU3YyTkY3NmRObS1QdXZaWE9xMDF2VGVybTJ4VE85LUZONVJOWUE3bkloa0IxN004Yk9PWUpxaXA3eHJFX3B1QzhMLUFOMVU4VzA3ZFRwWlpBZWtjNjAyV29fWGpxcV9WU1lhQk5VY0JxUjJTZkpJUEhV?oc=5)
+  Source: TechCrunch
+  Implication: Developer tooling keeps getting more automated and competitive.
+
+- [What xAI and OpenAI Should Buy Next](https://news.google.com/rss/articles/CBMif0FVX3lxTE5pUWpYTlo1STJqbloxbjFCUlpEeTBjQTVWaGJtYll1ZEx1NzBYOWQ3a01GUHpqN2FQbU1kZWQ2VFZnMkxESWNDRVdlRE5Na0RLbzJHRXRDeHdyTmxVSFpBRFhmWXJENlNISVliVGJNMVZNUkpnVk1UWXNPb2tJVVE?oc=5)
+  Source: The Information
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic Releases Claude Opus 4.7 With Enhanced Agent Coding Capabilities](https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6dEtiTjd3c2lhWl8wb1c3bGQ2dnBRQm43VEx5OG4zVWh4cVRsN1h2RDJjY2YwR3RBemZ6WDJhMVVLTVNnTS1iYW9RN3J6S1pTRmNSVWUtNlNnS1FMU2V5WkZLeXI2QQ?oc=5)
+  Source: thelec.net
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Illinois is OpenAI and Anthropic’s latest battleground as state tries to assess liability for catastrophes caused by AI](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUZ3WTJIMmFPb3Rkbm9rVm9LWnctTlJLRm5fWFNQOXctX1dueGU1MXZXei1WaXpqRFZ5NEtFNFhEc1IwUThlaXdFX2xTNUQ4LVFiR2FqUkNOcjdCd1NjMG8zRmcyanNuR3FMemwtTXRkckNhRG5MTjQtTXdoUlZLY05heXNXU2dmeDFBcWdQSEwwQQ?oc=5)
+  Source: Fortune
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Why Anthropic and OpenAI are locking up their latest models](https://www.economist.com/business/2026/04/15/why-anthropic-and-openai-are-locking-up-their-latest-models)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic releases Claude Opus 4.7, narrowly retaking lead for most powerful generally available LLM](https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlRYYzF4VzBLeVlxR21DZUhOS2xqN3R5OGE2Snpndlhxa1dKRkswY3hGVW16RlNmX0h3RUsySE1oU2xJWVU2UDIzZHF0UVRxX2hEN1U0b1FaSHFCaVoyY0Rxb0VrUE5CMnE1a0p6d3NZanFLMEc1eWswV2x5NTg5UGF1SU9zeFIzZlhwV0VmajliWlNidktuanNmblBhTGdZUk1DMTZ5SXlVcGl1RlcyWWs3cFVmb1ZkdjMxMWdWQTFMMXZqdm9ZRy1vM0RMOVU?oc=5)
+  Source: VentureBeat
+  Implication: Model quality and capability shifts are worth watching for product planning.
