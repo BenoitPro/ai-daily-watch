@@ -653,3 +653,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic releases Claude Opus 4.7, narrowly retaking lead for most powerful generally available LLM](https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlRYYzF4VzBLeVlxR21DZUhOS2xqN3R5OGE2Snpndlhxa1dKRkswY3hGVW16RlNmX0h3RUsySE1oU2xJWVU2UDIzZHF0UVRxX2hEN1U0b1FaSHFCaVoyY0Rxb0VrUE5CMnE1a0p6d3NZanFLMEc1eWswV2x5NTg5UGF1SU9zeFIzZlhwV0VmajliWlNidktuanNmblBhTGdZUk1DMTZ5SXlVcGl1RlcyWWs3cFVmb1ZkdjMxMWdWQTFMMXZqdm9ZRy1vM0RMOVU?oc=5)
   Source: VentureBeat
   Implication: Model quality and capability shifts are worth watching for product planning.
+
+## 2026-04-21
+
+- [Show HN: LLM-Rosetta - Translate LLM API Calls Across OpenAI, Anthropic, Gemini](https://github.com/Oaklight/llm-rosetta)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Amazon doubles down on Anthropic with $25B investment, mirroring its OpenAI cloud deal](https://news.google.com/rss/articles/CBMitgFBVV95cUxOTmx0YTZwMEx3OEgxcTBManZReUR0VXVhNWdVV0h6QkZsWTZKbDRQLXVCTHRwai0xSk94SXFsVkZxRjhtRXFSa0prY25aMHpEMVYtdExzOThJNVFpZ28wZ1FfSS1FLW5yWkJuaUVvN3dhMFBJV2VvQmVJcENGSG1pV2Flb1dDMmFlWUdaSnJER1NkQmtNSU05TXpMRG1vQTQyUWV4S1JPSWRYR2dPTkNmTFAyR085Zw?oc=5)
+  Source: GeekWire
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Who Will Win Race for AI-Driven Cyber - Anthropic or OpenAI?](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkltbG95WjBRZTJXa0c3VkstVWlTQ0dmblBYRGtZZUpZWUg3NUxuQWZENE4yekdBRGxJdHhTUlBYTkhMdHFoMlZaR0NERDQxajc2ZkFoeENIQ2VpandOMGQwRC1YQ3djYWxSVjgzb21mYVg5OC1MTWwyWDBQNXdnS3VzYnB0YTZaRU0yM2UycVFkY0lKeEtWVGZwTk1PSTA?oc=5)
+  Source: BankInfoSecurity
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Report: Google DeepMind builds “strike team” to catch up to Anthropic models](https://news.google.com/rss/articles/CBMimgFBVV95cUxObGdhVlZ3dWNGSGhqUFpQZkNVR1Z0a2pleUdWazA3SVBTTFJoX05LOWF4aEJQenBLV29IVS1EdWFGNVMyYjFrdVI3a1V5bGphY2Z0emszck5WNGd4TzNEM2otNFJVNUY1T0JNZWNUNDg5c2VpY1ZyZ0JYaHBsZHVtdXNudjVSaW5WWWtOOHdDeU96SEM5SlZibHZR?oc=5)
+  Source: Sherwood News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic, OpenAI, Google, and Microsoft agree that the harness is the product. They disagree on the price.](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MOEVKcktkQmpETHFkOVhIZy1zOFM5NmdoSXYtSGlPcmY2Z0x5MGJjbWFkRHVRZEl1SUJhSEJ1ckhjUEhGSEM5UGVxQkQ5cV9KWlU2RXlqckh0Q1p5TGxKOFpZclA?oc=5)
+  Source: The New Stack
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Why Anthropic and OpenAI are locking up their latest models](https://www.economist.com/business/2026/04/15/why-anthropic-and-openai-are-locking-up-their-latest-models)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic Opus 4.7 claims the top spot on the LLM Debate Benchmark with a flawless side-swapped record](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUQ0amQyT0dzekViS2dNQVhTTnFFdWlOZ3FfbzRRaDJ3Yzh0Xy1iTDE4c1BTZnRXaXU5NUxTSEF1MmY3b2x6d0FLMGdSc2c1R1g4Q3pJNmsxMXpSNlFBbm9hdEZkN292YUhjY0ZXNjROMzZpUXdrWWxOamlNa1d0YmxuS0ltY0FWODl0TGU0ZFlwS3licmFmMjBsTXFqdFFGNGpVckRoQTFYVGExb3BiWmhST0lVOWx0dWZzdE44RHQ4c1dlOWt5dg?oc=5)
+  Source: Startup Fortune
+  Implication: Model quality and capability shifts are worth watching for product planning.
