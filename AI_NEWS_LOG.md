@@ -683,3 +683,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic Opus 4.7 claims the top spot on the LLM Debate Benchmark with a flawless side-swapped record](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUQ0amQyT0dzekViS2dNQVhTTnFFdWlOZ3FfbzRRaDJ3Yzh0Xy1iTDE4c1BTZnRXaXU5NUxTSEF1MmY3b2x6d0FLMGdSc2c1R1g4Q3pJNmsxMXpSNlFBbm9hdEZkN292YUhjY0ZXNjROMzZpUXdrWWxOamlNa1d0YmxuS0ltY0FWODl0TGU0ZFlwS3licmFmMjBsTXFqdFFGNGpVckRoQTFYVGExb3BiWmhST0lVOWx0dWZzdE44RHQ4c1dlOWt5dg?oc=5)
   Source: Startup Fortune
   Implication: Model quality and capability shifts are worth watching for product planning.
+
+## 2026-04-22
+
+- [Show HN: LLM-Rosetta - Translate LLM API Calls Across OpenAI, Anthropic, Gemini](https://github.com/Oaklight/llm-rosetta)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI-Anthropic enterprise rivalry heats up](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcnR5dTRndWZDdTBCaHJoRXRoSzJxbU5YSUZob3dRdGpRZC1VU1BtUDZ5Q0puektvZTNsTmRQTFA3ZGJwcmZmandBeDRkaGJMYzZ6Uk9hLTNCU09FUGVDdWJxQTQ3T1Rvd3ZMQldubTlBSElFdzhFWTE0OFhOcmpCekZ3MA?oc=5)
+  Source: Axios
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic outspends OpenAI in biggest-ever lobbying quarter](https://news.google.com/rss/articles/CBMijAFBVV95cUxNczV3dXphQU9aMGRwWjV1X1p6ckNlRVZZQ1lPalNFM21GZm8wc1pMWjNkR1prTmhDYWhIZ1JNcWFTRVVKWmk2NlpueW4zaVdHanBRZEJRTVI3Y19VbzJERU9rVmNia0NRX190U1MzdGZYeEMxNDl5djFEempyNWVpMUtLUkY2QmE0cEw4OQ?oc=5)
+  Source: Axios
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [AI: Anthropic & OpenAI's 'Velvet Rope AI' upgrade Drift. RTZ #1064](https://news.google.com/rss/articles/CBMifkFVX3lxTE56YVQwMm0xNndRTTdCV1hzLWYwdVV0WERodUI1dk1fTWY3TmR1YjVqNm1DTGFVMHlUbFN5Nnpid1hubUhURW0tOWlnNERDV2J4T256VWItWjg5bWVYUUVxWlQ1NE8yVkdzSWVMOWRTaDJUSGw5UTZ5OHgyNHpaZw?oc=5)
+  Source: AI: Reset to Zero
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Sam Altman opens up about attack on his home: 'The way Anthropic talks about OpenAI doesn't help'](https://news.google.com/rss/articles/CBMif0FVX3lxTE92S0Vzb2pKOXRkZktpUWtzbnR4b01PX3RDZlljc3lTOXhGVEJhWVhGWjgzZ1NhNXhFaGpOTDk4SXNZdVZia1RBaTl1emZ2WGxvbmNpS2VIQU5GZWt0QklOa1pXYWhSZm9jZ1BWbDRPR2lMNEhsTjRySUFTUEZXU0U?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Oracle Is The Winner From The OpenAI vs. Anthropic War (NYSE:ORCL)](https://news.google.com/rss/articles/CBMimgFBVV95cUxQR0g3WWNnSlViMHFNdTc4c1RhR0Jzckt1elhwaERza25zUFRzakNpaktXdmR0MkV1emVQNGJHbFVmNFJ4SFV3c0t1Mi1DY2ZrVUJpcUVwZk5WNjBvb213QkdRY3UzcmhUaVNOQ0I3Z3k0Nzh3R2V5Z2FOVFpUV0djcGNWQnlaZDBBblM3Y1NibHFSRElGTjB6a1BR?oc=5)
+  Source: Seeking Alpha
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [New AI lab Core Automation 'nerdsniped' researchers from Anthropic, Google DeepMind](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTFTaGdOVDFKUHBjZk5QOHJfX2NBenpPYWIyRmViY1V3cVdhNExPNVJsbGJZcWxqQUswUkZxZW5TLUFTclpFaXJqVnFNUU9yb2hyampHTWJjT0pfSTRaUE82LWhtUm1scjNCdjdaVy0zakhYNUJaM0lnTE80cEY3ZTBDblZjdzdxVm5ENDhsTVlSM1BCSTVCQk1zSGdBVEctR3g2cm1iM0NHZw?oc=5)
+  Source: Business Insider
+  Implication: AI agents are becoming more practical for day-to-day workflows.
