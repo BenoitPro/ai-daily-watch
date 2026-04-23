@@ -713,3 +713,33 @@ Daily AI watch entries will be appended here.
 - [New AI lab Core Automation 'nerdsniped' researchers from Anthropic, Google DeepMind](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTFTaGdOVDFKUHBjZk5QOHJfX2NBenpPYWIyRmViY1V3cVdhNExPNVJsbGJZcWxqQUswUkZxZW5TLUFTclpFaXJqVnFNUU9yb2hyampHTWJjT0pfSTRaUE82LWhtUm1scjNCdjdaVy0zakhYNUJaM0lnTE80cEY3ZTBDblZjdzdxVm5ENDhsTVlSM1BCSTVCQk1zSGdBVEctR3g2cm1iM0NHZw?oc=5)
   Source: Business Insider
   Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-04-23
+
+- [Google (GOOGL) Launches New AI Agent Tools to Take on Anthropic and OpenAI](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcHBmU0g3bUNsR0g5WWdiY2hsQlJFMWVLSHVvamtLbF9fVmV6b2c2bjFlNEh1OFVUaExEY0V1NW4wcElWd1RCSTFYN2FUdHNVNUI5REhNVVNSS04tMmRXbXdvOFk2Z3pYUUhCSHYwRjVhRWx4d2hscm1vUU1SZ3V6dVFTM3pRQVp2czRXWVExQlJtMWNZalFiU1FYQWpaZXJValFqSw?oc=5)
+  Source: TipRanks
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Google Releases New AI Agents to Challenge OpenAI and Anthropic](https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHpjcHAtYjl0SnoyRm1SeVdWcUhTWVNVMmRzYS00eFlOTTFYaDFXd2RzdkQyUkE1TDN0cEhlLWZUZjhuYmdTeUFDUF82dXJPOTZHVTFKRFM3RDdNY0Q1X2V4bkdWM0E5a01lS19oZ2U5ZXA2clhDeE1nVkRHZ1Mxc2RsRlE4NGlDM3Zabm51Rk1TOHItcmdoVnpBcFAydWtkNmppbnRZN0dsb0c4ZjAxNkYtUWE?oc=5)
+  Source: Bloomberg.com
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Anthropic has surged to a trillion-dollar valuation on secondary markets, overtaking OpenAI.](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXJFR0pxbmlKMnpKeTY1WldIWERxVmZsbDJxbnc0eUVXa21iZEZ6SG93a01CZWFlWFozVldMTUM0bjhPMlNlMDNSY1JmNHJub0M5ZWM5TmZKUEw0OE5WNk5xYlB4bFYzNUJndEpvZjhmdXpFNEVqb0xQcFMzZzBvS2c4ZTRSUmswd1h1bmhJdXdFR0FSV1RQWA?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic outspends OpenAI in biggest-ever lobbying quarter](https://news.google.com/rss/articles/CBMijAFBVV95cUxNczV3dXphQU9aMGRwWjV1X1p6ckNlRVZZQ1lPalNFM21GZm8wc1pMWjNkR1prTmhDYWhIZ1JNcWFTRVVKWmk2NlpueW4zaVdHanBRZEJRTVI3Y19VbzJERU9rVmNia0NRX190U1MzdGZYeEMxNDl5djFEempyNWVpMUtLUkY2QmE0cEw4OQ?oc=5)
+  Source: Axios
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Private equity courts OpenAI and Anthropic](https://news.google.com/rss/articles/CBMicEFVX3lxTFBtTmQ4UFdPeEd0NlFFbklYVE1HR3dRZkZKOGVsV20wNGtHWFdZTmgtcGgtZG8wSXhXNDMyT0Y4ejYtOGc5SWgxUGV6TWgtNjdseU9tTVhCd3M4aHQxR3lId2dxUEstYlBaZDBHc1k3Ym0?oc=5)
+  Source: Financial Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI-Anthropic enterprise rivalry heats up](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcnR5dTRndWZDdTBCaHJoRXRoSzJxbU5YSUZob3dRdGpRZC1VU1BtUDZ5Q0puektvZTNsTmRQTFA3ZGJwcmZmandBeDRkaGJMYzZ6Uk9hLTNCU09FUGVDdWJxQTQ3T1Rvd3ZMQldubTlBSElFdzhFWTE0OFhOcmpCekZ3MA?oc=5)
+  Source: Axios
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic Introduces Managed Agents to Simplify AI Agent Deployment](https://news.google.com/rss/articles/CBMibEFVX3lxTE5rNkwtZXA4bnJGdFVFYXA4eUpwejZrWmZCblVrNDJwanZsTjJpQUM0REdzVDFsd0E1NXY4bEtoQU5EeDQwYzR0dExIWVNPX05ZZEpqZW45LXVOcWpxZ0ItRFh5WU1QTUo2M0RiYQ?oc=5)
+  Source: infoq.com
+  Implication: AI agents are becoming more practical for day-to-day workflows.
