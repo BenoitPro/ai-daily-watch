@@ -773,3 +773,33 @@ Daily AI watch entries will be appended here.
 - [New Security Breaches at Anthropic and OpenAI Proved Mark Zuckerberg Right](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZnFScm4weUliRFgxQktaRC1Gcm9JMFNkeC1CdU9zcUJnMWd1NTZxWHRJTmxvVWRSXy02VGNqM19sMDljOGFhNTZMeGdsaDEtczgxQXVrUTNfOWFRUlZLYzFKNU9KYVF6amV5OXE1YU5fTW04WmM1ZGZtaVMwZ1dpZlZWZXJRTVc4LUJqT3BFcElLU3VRT3E4bWphNXBCR0tKR1N5Z0todzVyOHlQOFNwWGxxSXBac29LaVNaTA?oc=5)
   Source: The Information
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-04-25
+
+- [AI: Apple's 2nd post Steve Jobs CEO, Elon's revealing SpaceX/xAI IPO filing, Anthropic passes OpenAI to $1+ trillion valuation, & More. Weekly Summary. AI-RTZ 1067](https://news.google.com/rss/articles/CBMiekFVX3lxTFBrZGZkWkFwa3FITDVSOTdRT3JpUm5ZVDI4SENfYkE1eGhnclp0RmJ1Sm9rNUdRSXBqV0h3NW9xTXExVlI4MUhOa2FpUmJwZEZkOGFpNGRxdmdXLVlVd0YzU2RrY2xzOGN2MC1GV2NpenVMV2IxYkg5eDRn?oc=5)
+  Source: AI: Reset to Zero
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMG5WMHBBeXZkNWx3dEFPZ1FjSHBxUFlpbXpwbWJMTTlMaDhLNG1xb2dYbXhkS1RUUWVZUWZ0VFRXWUh0a2J2S2dMdUNfQnZoZDRNRHRFdFVGX042N1J5b1ZVcVRYU1RkUE9qbE0zUEVUUFMtZ2JmajNxSlB2dThjY1UtYWNRUi1ZbUJOaE0wcGpJM2dWQVNIQ25RNlh2dGJvY3dhNW5pMTdyTlU3dzZYTXNseEhSU0xyOExVdXdwVlBOQnRnTHFnTHlyRnlEVF9GQll5bg?oc=5)
+  Source: Venturebeat
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI announces GPT-5.5, its latest artificial intelligence model](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjh3Wk9yM0RoT3R4WlFUNVNfVHpYckVDVVA2RUFZU3Z3dmFSWnVmTzdhdThQazVmUldfaDRrS2dlSVgyMHRDZlNLQ3pRakhSYWhmY2JuR2FfbW9Ub19vbkxYQ3FYLWxqMEZsZXhBSEd3SXhMc3F3dmpwZHVyQlFyQzk1WUZLZDRwWTlnOTkzRVVjZlFa0gGaAUFVX3lxTE4wNWhad28wTElXZDM5N3hLTVJWbmdsVm8zWm9rSzA2UGotanBONjZQdWdkNDZFc1BjVlp6MTVSWUhFUW5DZmIzUWRqaWVrVW05VkNabHhvbEh0bVRYa2U2bEYyOElfT19kaWVrR0pWNXl6STVSUmtUS1AySXVfTkpvV004a2F3TDFQaG00dUNRVzZqRnBQWlZLVGc?oc=5)
+  Source: CNBC
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic has surged to a trillion-dollar valuation on secondary markets, overtaking OpenAI.](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXJFR0pxbmlKMnpKeTY1WldIWERxVmZsbDJxbnc0eUVXa21iZEZ6SG93a01CZWFlWFozVldMTUM0bjhPMlNlMDNSY1JmNHJub0M5ZWM5TmZKUEw0OE5WNk5xYlB4bFYzNUJndEpvZjhmdXpFNEVqb0xQcFMzZzBvS2c4ZTRSUmswd1h1bmhJdXdFR0FSV1RQWA?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Former OpenAI research scientist launches new AI model for Tencent](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUTlJNzlhcGFLQ1Y5TjZYdlRuRm1UN1JjOFhub2VnX0dSWUkzVjZiQ3BrX2hNdWZQekJ1WGtiWDJlTURZZkRfeThPdDdfYndpNEw4aVg1QXhvSmhHWl9KRFBGUXZkbm9ZZGI4MTUtTENXMl9yWFhfc2wtQVdqSFB5cmI5NXZpX2NYU3JON0NNVHJPX3R5UHpMU2ZmWlZEbjl4VU5CVzBWbXBYSF9kYWZUaDRwZ2JiQ3BuWHZ3?oc=5)
+  Source: Computerworld
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Hackers breach Anthropic's 'too dangerous to release' Mythos AI model](https://www.euronews.com/next/2026/04/22/hackers-breach-anthropics-too-dangerous-to-release-mythos-ai-model-report)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Get started with OpenAI’s new workspace agents: simplifying AI agent creation for everyone](https://news.google.com/rss/articles/CBMia0FVX3lxTE5VWWdVQWltZEp2cENlWmhhbmtXSG9Kekg4NnY1cnNiUDNYZDQyT1h6bVh0ZHJmM3lueklKXzBack8yekp4Y1I2VDdXQ1pRTDYzcU15VEl1NWNzVzZFSzYwZGkzLWIxTnNvNmY0?oc=5)
+  Source: Marketing4eCommerce
+  Implication: AI agents are becoming more practical for day-to-day workflows.
