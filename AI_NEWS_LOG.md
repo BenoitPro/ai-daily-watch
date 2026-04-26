@@ -803,3 +803,33 @@ Daily AI watch entries will be appended here.
 - [Get started with OpenAI’s new workspace agents: simplifying AI agent creation for everyone](https://news.google.com/rss/articles/CBMia0FVX3lxTE5VWWdVQWltZEp2cENlWmhhbmtXSG9Kekg4NnY1cnNiUDNYZDQyT1h6bVh0ZHJmM3lueklKXzBack8yekp4Y1I2VDdXQ1pRTDYzcU15VEl1NWNzVzZFSzYwZGkzLWIxTnNvNmY0?oc=5)
   Source: Marketing4eCommerce
   Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-04-26
+
+- [Anthropic has surged to a trillion-dollar valuation on secondary markets, overtaking OpenAI.](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXJFR0pxbmlKMnpKeTY1WldIWERxVmZsbDJxbnc0eUVXa21iZEZ6SG93a01CZWFlWFozVldMTUM0bjhPMlNlMDNSY1JmNHJub0M5ZWM5TmZKUEw0OE5WNk5xYlB4bFYzNUJndEpvZjhmdXpFNEVqb0xQcFMzZzBvS2c4ZTRSUmswd1h1bmhJdXdFR0FSV1RQWA?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMG5WMHBBeXZkNWx3dEFPZ1FjSHBxUFlpbXpwbWJMTTlMaDhLNG1xb2dYbXhkS1RUUWVZUWZ0VFRXWUh0a2J2S2dMdUNfQnZoZDRNRHRFdFVGX042N1J5b1ZVcVRYU1RkUE9qbE0zUEVUUFMtZ2JmajNxSlB2dThjY1UtYWNRUi1ZbUJOaE0wcGpJM2dWQVNIQ25RNlh2dGJvY3dhNW5pMTdyTlU3dzZYTXNseEhSU0xyOExVdXdwVlBOQnRnTHFnTHlyRnlEVF9GQll5bg?oc=5)
+  Source: VentureBeat
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI announces GPT-5.5, its latest artificial intelligence model](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjh3Wk9yM0RoT3R4WlFUNVNfVHpYckVDVVA2RUFZU3Z3dmFSWnVmTzdhdThQazVmUldfaDRrS2dlSVgyMHRDZlNLQ3pRakhSYWhmY2JuR2FfbW9Ub19vbkxYQ3FYLWxqMEZsZXhBSEd3SXhMc3F3dmpwZHVyQlFyQzk1WUZLZDRwWTlnOTkzRVVjZlFa0gGaAUFVX3lxTE4wNWhad28wTElXZDM5N3hLTVJWbmdsVm8zWm9rSzA2UGotanBONjZQdWdkNDZFc1BjVlp6MTVSWUhFUW5DZmIzUWRqaWVrVW05VkNabHhvbEh0bVRYa2U2bEYyOElfT19kaWVrR0pWNXl6STVSUmtUS1AySXVfTkpvV004a2F3TDFQaG00dUNRVzZqRnBQWlZLVGc?oc=5)
+  Source: CNBC
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Get started with OpenAI’s new workspace agents: simplifying AI agent creation for everyone](https://news.google.com/rss/articles/CBMia0FVX3lxTE5VWWdVQWltZEp2cENlWmhhbmtXSG9Kekg4NnY1cnNiUDNYZDQyT1h6bVh0ZHJmM3lueklKXzBack8yekp4Y1I2VDdXQ1pRTDYzcU15VEl1NWNzVzZFSzYwZGkzLWIxTnNvNmY0?oc=5)
+  Source: Marketing4eCommerce
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [AI: Anthropic's 'fascinating' internal test of AI Agents Shopping. RTZ #1068](https://news.google.com/rss/articles/CBMie0FVX3lxTFBmX2lZTXRtcXJRLVhBYUhjVU04cVRDbGxtSVJkZjJTb0Itb1ZNSUxkbFJ5NkI5bzlvT3RhVHpodm51RC1sei1jd1JtU1RvdVNfMU9GSDk1S2JkWjRSRjRRd1BiaUlIaXlIdjVvUzRyb2tWSnlmcGNHdjl1aw?oc=5)
+  Source: AI: Reset to Zero
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Anthropic's AI Agents Just Closed Real Deals With Real Money](https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTVKQkZjd05FSmlIY2dHa0FsUWE1eE1SU1JoWkh3QkpPenhtWF83SVFNLUk0M0phQ2g2cWo0VmJFR2NNekhSRmZHSGhBMkI5dWJLdGRhYkkzREZBcHNzVHQ3di10M0I2b3RTdjZZQjljN0N6SndiaVVrcWozLUtDamZVbVRHX0lXMEVXbDJmNFBURFBVQVFsRg?oc=5)
+  Source: The Tech Buzz
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [The real story from OpenAI’s big week is Workspace Agents, not GPT-5.5](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TTGJqSWEwdFJMY2g1dzc4Q2NsQ05jeXNUdnRUR2hUNTlycW5WbEY5WFpGOTFYZHJPQVliN0g5ZlVNSVNHR0d0eTR3Y3FWdDVMUkF3TFpINlExRUdSVVBIUmVuZ2dLdw?oc=5)
+  Source: The New Stack
+  Implication: AI agents are becoming more practical for day-to-day workflows.
