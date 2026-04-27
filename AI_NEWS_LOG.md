@@ -833,3 +833,33 @@ Daily AI watch entries will be appended here.
 - [The real story from OpenAI’s big week is Workspace Agents, not GPT-5.5](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TTGJqSWEwdFJMY2g1dzc4Q2NsQ05jeXNUdnRUR2hUNTlycW5WbEY5WFpGOTFYZHJPQVliN0g5ZlVNSVNHR0d0eTR3Y3FWdDVMUkF3TFpINlExRUdSVVBIUmVuZ2dLdw?oc=5)
   Source: The New Stack
   Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-04-27
+
+- [After OpenAI and Anthropic, Jeff Bezos’s AI lab 'goes to' London](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOVVkbENWbmxNRXU4dVNZRzN6bllsSmhjdzFZaElPWDJrT1RxZlRweGtaWm5tWlI1YlMtNG1iMXBLRzlJZG5VUVNkaUN5NURqV2REM1lVVnd1X0RHUUFMczZGZF9OTHRRZzZuMjJuRGlPR1pvUnNtU1EzLWdUcXlDRTF1WlVhMVhjZWpKUEVuMV9LQm1tU191SjZyQ2VScGExR1R3NkswRFNGUWQ4bmRFN056N1FINlNoMHp6b2poVkFJZGNRb0JuNHR6cHV6WHRyeDZZSFdrUW5zdmvSAeABQVVfeXFMT19nNGRWREZSLUVBUDlDTEVUMVU4MU16UlhpTmxJT0Jmak1FYVY2ZlI0aldDNGtKQXhVUXo2enJoaHN5UGdzNktGOUc2MWdBRTdUb0JnSnppTGNXeHJEYjlFVWZ5T1JxNTIzSzg4YVIzNWkzS04weGd1YnlXaTFfS25JdUhGYlc0VkNLN2VldjBqaDY5ZFB0MjJZZFA5S3F6VExGVkdhaVhTRmNDdzlBZnB6UWJzOV96Mkk1WWZ2ejAwV3F2a3k2QzBfVzFrU1pBT3p2QTVNXzZRQllFYVl6QW4?oc=5)
+  Source: The Times of India
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI Unveils GPT-5.5 With Enhanced Agentic and Coding Capabilities](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hcDhqZExZOVNmUGxVTG8wTVJMdW9hb1lkcW5YdnA3Mkw2cFRWaVpsdHZIc2RMLTBtcmNYd0JFdVgyX3pRX1E5RXJFZDVDUG41aVAzSnZoVXo2SWpOenFkQWZhNjVNQQ?oc=5)
+  Source: thelec.net
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [OpenAI: GPT-5.5 Introduced As Most Advanced Model Yet For Real-World Work And Agentic AI](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNemxDSmtEcGlPZUtlYmJ0cXJBd3FibHV0M2tISkd1WlVnQ2lLRTIzN0pndUFDTE50aU0tU2RFNGNGR1FGTzJUNkpzRFllT3BJYWVBYlF2aGlocHJUcFl4VUtHd0pFN21ScmFwNzRHZWVXYmRJNzUzTXlVbzZkRWN3VkRodGR6QVp4d3NKWlNZWVVxa3R6ak1TdjFCbExuM3E3NWtqZmZIb1UtWjjSAbABQVVfeXFMTUhVWkFOelFvOGdZU3NvNkJDV2pEbkxkNEtrZ2g0U2RRbExMX1NySTFpX0pyT2VUMDdqMEZRclNtMndLV2lRVXBWU19heDhGR05qdTVFb1hoczVJems0TERaalZEM01RU090SC1nbGlfUDRGdmVjbXo1VHB0cGhTTEFYZk12V3huYXdFR2prLXNZQ25YRTZ1T2JFbzdqYUdUR2wtVnowanZmaEJJZTdaOF8?oc=5)
+  Source: Pulse 2.0
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [OpenAI announces GPT-5.5, its latest artificial intelligence model](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjh3Wk9yM0RoT3R4WlFUNVNfVHpYckVDVVA2RUFZU3Z3dmFSWnVmTzdhdThQazVmUldfaDRrS2dlSVgyMHRDZlNLQ3pRakhSYWhmY2JuR2FfbW9Ub19vbkxYQ3FYLWxqMEZsZXhBSEd3SXhMc3F3dmpwZHVyQlFyQzk1WUZLZDRwWTlnOTkzRVVjZlFa0gGaAUFVX3lxTE4wNWhad28wTElXZDM5N3hLTVJWbmdsVm8zWm9rSzA2UGotanBONjZQdWdkNDZFc1BjVlp6MTVSWUhFUW5DZmIzUWRqaWVrVW05VkNabHhvbEh0bVRYa2U2bEYyOElfT19kaWVrR0pWNXl6STVSUmtUS1AySXVfTkpvV004a2F3TDFQaG00dUNRVzZqRnBQWlZLVGc?oc=5)
+  Source: CNBC
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI Launches Bug Bounty To Test Limits of Next-Generation AI Model GPT‑5.5](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdE9fV0pmOGJVUWYwV0syc1Q1ZTJhM1RZdUJ3Mk9KbmZudng4a2htUV9SdGFoUFdkekNhM3BVNkVDM0EwQ0ZEV0VuM2NtaTlwOUlra2VyZkZUOUJPMzhBWnNFMkJxYjVVY2c3QjFlN25YaUVWMzU2R0YyUXI4R2VpUVZWaUVyeUlPa3l6dFlkWXlVenpPVmc?oc=5)
+  Source: LinkedIn
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic Demonstrates AI Agent Negotiation Capabilities Through Marketplace Experiment](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcXdfXzBHM1h4cU1wUlZwdllUVWFONHp6WlJzdERJbVpqc3pOTHNBREVSRVp0SkhORWRqNHRONlpoNDF3X0VlLXh2MHRmLTNEYjR3eG1DWlVscXJIUGw1akdDbzVIZGM3V3g2ZVVfWVRjeEU4VEQwcXVFVzI1UzJORTRMT0JyMkcxb3RzSEc4cDBqaGtBa3owUUx6ZGlaRHQ2OGJwM3Q4S1Fzckw1?oc=5)
+  Source: MLQ.ai
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [OpenAI: Workspace Agents Introduced In ChatGPT To Enable Team-Based Autonomous Workflows](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdHc2NTZTS0UyS1A3ZTN2SEppTzJPLVJWZm1uN2ZDQjJCZHVmYVpiSXU2bVFBVDNDR01HN2dwQjIwVkpaNi1sSzRLZGxKOUtTd081TUhqQWlxQTFUaXE0dEFvaG5nNXMxSHFlenJyWE9NTTlyOHNtSUItRmJEbmhTakY1SGUwcDNRY3YwQnNCWW1lWjlucjZZSThfYm9XUG1fVDF6NTN3eTNnT2fSAbABQVVfeXFMT1BEZHludm1GUWl0ODd5N0Z5U2IzWXRiVDFGemZwblVUcXlLdkNUQnpoQ0ZtMkNGeTZqMUZub3BiX3dVVlpaejVoUnozWS1ncy1PajNRUjA3dnd3WVlkNGNGLTVsOU02VGxtTWRvUEFsQWoxQ1JJZVJmWTVzVW9kUUtlNnRUZHF0cVNEZGxEZEhuRlp0VVJwN3lIV3pnWGFqeHlOUkM3S0U2RTVzbVpVRUE?oc=5)
+  Source: Pulse 2.0
+  Implication: AI agents are becoming more practical for day-to-day workflows.
