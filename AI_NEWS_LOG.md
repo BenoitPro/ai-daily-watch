@@ -863,3 +863,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI: Workspace Agents Introduced In ChatGPT To Enable Team-Based Autonomous Workflows](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdHc2NTZTS0UyS1A3ZTN2SEppTzJPLVJWZm1uN2ZDQjJCZHVmYVpiSXU2bVFBVDNDR01HN2dwQjIwVkpaNi1sSzRLZGxKOUtTd081TUhqQWlxQTFUaXE0dEFvaG5nNXMxSHFlenJyWE9NTTlyOHNtSUItRmJEbmhTakY1SGUwcDNRY3YwQnNCWW1lWjlucjZZSThfYm9XUG1fVDF6NTN3eTNnT2fSAbABQVVfeXFMT1BEZHludm1GUWl0ODd5N0Z5U2IzWXRiVDFGemZwblVUcXlLdkNUQnpoQ0ZtMkNGeTZqMUZub3BiX3dVVlpaejVoUnozWS1ncy1PajNRUjA3dnd3WVlkNGNGLTVsOU02VGxtTWRvUEFsQWoxQ1JJZVJmWTVzVW9kUUtlNnRUZHF0cVNEZGxEZEhuRlp0VVJwN3lIV3pnWGFqeHlOUkM3S0U2RTVzbVpVRUE?oc=5)
   Source: Pulse 2.0
   Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-04-28
+
+- [Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNOV9rbkhHM2dJQnFiRFMzMjdfSDVPZkd2ZmtpNU9YVUphNXY2VHB5MEFzMXdyVVhEX01pNjNfQ3ktSEQzd0pVMGM0X1FpQ2VhS0VEMThVd0p1N0gzam5JMlIzNVRmb0pIdlptYWJwQkZQYU5IOGl2VlZOYmNwMFBsUHdnYm50MG5Tbmh6TDJSbFAyYnZYUzByc3d2cWJtRVoySmZvNXZIMW9Hc1JDQktaaWJHQTk0QnhwZjc3OFZvTmpRS05PWFVfcmM4Q2JVWk96aU4zRzRhZXF6MkowczBTUWNtSUkxcm1pWTZ0Zmg1T0lMUGYzMnkwcTlvRGxxYXEydWNwdFJMWTBaXzkyU2VXSEZ4UkNrMnVlZ2NDZ3Q0cloxckZtY09TcFhGZ2E2TTM4TlVmV2V5djVlT1k?oc=5)
+  Source: Tom's Hardware
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Google To Increase Anthropic Investment; OpenAI, Microsoft Shake Up Partnership](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3Q1aXl3aXU5RTVydGxvUWVuUnMyTEhzOF8zUXI4bm1YU0E0MnVpM0hqRkRUS29xcy01dU11dnNEQlNuNks5dm1oMWxEN3FHUGN6RkJaOThUMm05dmhveGJoUXhQQVptdWg1VXpxM3J4NEFlOXMxS0dzdEdINEpIaUJyRjFSRlZEc2cwcnp3YUJVTFN5UmlJdEdzemJtMVcxWjg3VlpTdVBGWktCQ0g4?oc=5)
+  Source: Investor's Business Daily
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [You Can Buy Stock in SpaceX, OpenAI, and Anthropic For $500. Here's How.](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0w3LTdaT00xVGo1ekdWTGhlaHRMUkhsdGlJSGtsT2xubjk4M25vdHh5TE1zNmdBb09LSDdxOXUtYWlGaDZvc0p4N0tTdjVESE51Um1NdmRzMXpZZkNlQkdlRlRGRkRsaFNWTEZaSUY2VnotemdkT2xrNkl0MTZnY1lULVVmYXZVcF9DVEZXc1JVeU5Vc0E?oc=5)
+  Source: The Motley Fool
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic Joins OpenAI and SpaceX in Pre-IPO Trillionaire Club](https://news.google.com/rss/articles/CBMieEFVX3lxTE5hVDhINk9sTlJmU29BZDZfZm03czN4NnpQUmZfV2RXZUI4SDM5YWJmajlKb3N3UVdNSlRBODhfQjVLM3E2bm1kSGpIZ3BvdjloR09kWmRpT1JPRnZLUFlZd2NneXo2a1dOSURSUkhiVFFTb3gyaUM4cA?oc=5)
+  Source: BeInCrypto
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Microsoft-OpenAI rewrite opens the door for Anthropic and Google](https://news.google.com/rss/articles/CBMic0FVX3lxTE03ZVFsM0VITUxqZlBkZW5ZRF9PMzY1UER0bTRqNXBRMngzLTQ3U0JnRU5sVUpLVV9ZRGZ0SXJJWTloR1luZXJFaFJsUVJYTE5ET0FlTHc0VWRFdEJoM3JMSlFCQS1YWllkMUdzalBkbEJ0UVE?oc=5)
+  Source: The New Stack
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI and Microsoft Just Revamped Their Longstanding Partnership. Will This Impact Microsoft's Artificial Intelligence (AI) Moat?](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMDI4ZTVjTHE2dWJqcERvRkZzTzgtMDFsb25BZHNSWUVlOE9MS0l1OGhoYmlqbldmRkVINlN3Qm5HS2dmS0kzQ0dVUzYzQ0oyM05GdS1wVURuOWMzTEtsT1JnXy1QZVA2VjRoUFpjdjIzRDNOZGFOM1lSRWFpck9NYXVDUG1qazR1eUtMT19SLXkxczB0ZDZrYg?oc=5)
+  Source: The Motley Fool
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Show HN: Lightport – AI gateway that makes LLM providers OpenAI-compatible](https://github.com/glama-ai/lightport)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
