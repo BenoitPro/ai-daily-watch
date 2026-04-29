@@ -893,3 +893,33 @@ Daily AI watch entries will be appended here.
 - [Show HN: Lightport – AI gateway that makes LLM providers OpenAI-compatible](https://github.com/glama-ai/lightport)
   Source: Hacker News
   Implication: Model quality and capability shifts are worth watching for product planning.
+
+## 2026-04-29
+
+- [Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNOV9rbkhHM2dJQnFiRFMzMjdfSDVPZkd2ZmtpNU9YVUphNXY2VHB5MEFzMXdyVVhEX01pNjNfQ3ktSEQzd0pVMGM0X1FpQ2VhS0VEMThVd0p1N0gzam5JMlIzNVRmb0pIdlptYWJwQkZQYU5IOGl2VlZOYmNwMFBsUHdnYm50MG5Tbmh6TDJSbFAyYnZYUzByc3d2cWJtRVoySmZvNXZIMW9Hc1JDQktaaWJHQTk0QnhwZjc3OFZvTmpRS05PWFVfcmM4Q2JVWk96aU4zRzRhZXF6MkowczBTUWNtSUkxcm1pWTZ0Zmg1T0lMUGYzMnkwcTlvRGxxYXEydWNwdFJMWTBaXzkyU2VXSEZ4UkNrMnVlZ2NDZ3Q0cloxckZtY09TcFhGZ2E2TTM4TlVmV2V5djVlT1k?oc=5)
+  Source: Tom's Hardware
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Exclusive: OpenAI, Anthropic meet with House Homeland Security behind closed doors on cyber threats](https://news.google.com/rss/articles/CBMif0FVX3lxTFAxM0dOTTJlZVo0X21uek9OSUdOQmg2Y20tY0t1ckUzOVJEMmtuODJhVC1qR1hMSElFVVB1eWpCN1h0NXBmUkx2UzBianh1dTZSTGJDWmU5TU0tUFJWckhWTGN3U1F5R1lQTzNjS3RHQ2ZjdmZMUDhBX0JESnpwRDg?oc=5)
+  Source: Axios
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI and Anthropic are on a competitive collision course, says Big Technology's Alex Kantrowitz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUFdyOFRYaWxMS1hoZDJUSm5iaEstemdzcWNrUVNqNEtCOHpjZnczaGpiRzdqeFpNd0NYN2YxeWpWdEhfVEtvWHZvUkM3bXRkc3ZJeFJhR3dRQmxaTnVZYWliT2FMbFQwcWpoTDFJS094YVV6a1Z5YUFjbkFnMURyb3RBbTJfVWhXbGFGc2RIY1cyWXdvVURKRFdrUlladDFSVU1xRW9yOFVqeHV6cGJKVnRHSEVNc0Mzb1ZkanJBaE5xWVRDREk3SlExOW5KMjZTTEh4cA?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [AMZN Begins To Sell OpenAI Tech; Launches AI Agent For HR](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXVEaFVPeUxhLXpBdWZ5c004dlB1VFhsYVQwenZNRGxsUXZscVAtVVgzM3VFWW5Tc0ZHWjZMYjVyUXdJek94dkRjcUlad29mODFBZmx1Z1JBN18xM1JWTDc5OGw2MGNwVDNYYW1vVVg0aFNNX3FBV091a3NvM2V2SE1SbTZTV0lqN2hxdnJxZUZkdTRoM1o5M1FnNHphNE9qVWQxSktmRnBZLVczSEJaOHZZTkZWNUstdHVWb0ln?oc=5)
+  Source: Stocktwits
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [OpenAI models, Codex, and Managed Agents come to AWS](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FQWFRc0M5RmNtdzVreHE3bWNpX3ZCc0RiWjFWWlQ3VGdhbXdZRklZeGxpaDc0VGFzSmVoU0pPMmdhT19QN3hnOTFYMENOX015?oc=5)
+  Source: OpenAI
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [OpenAI is building an AI agent smartphone to rival the iPhone by 2028: report](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNGpuMm8yRlY3bVJOWi1MRVJTT3I5Q0U4SjFmamFtTDNwNDVwTS1aN1pHejNXcEpBMDdfNDE1X2FpTkRiRDFWb19XMlU0eVpMaVZoMk9Zbmk3Q3VuSGhWa2NyZmt1bzlhQzRCdUZ6b3ktX01yY1pfSFc2WVNCZ1VxUENxZ1VYVjhYZ29sQjdld05TZw?oc=5)
+  Source: Tech Funding News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [OpenAI Eyes AI Agent Phone, Kuo Says](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWk5TRm9pZmYtTjI5R2VxNmhjSlJJblJXa2pia2UzZjdPZ3l3b1Y0Z0JyMWZ6QTdsSEZQbXdidDFqUDRIVXFrSWppYXJ6czVqNk5WYkRNV2U2WXpZS3dPLWdWUFBnTVFrZnZoV1RpcS1sM05qY2lFZnYySTlmaHBHelk3QVBZV1Y1TG9N?oc=5)
+  Source: TechNewsWorld
+  Implication: AI agents are becoming more practical for day-to-day workflows.
