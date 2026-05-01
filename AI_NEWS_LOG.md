@@ -929,3 +929,33 @@ Daily AI watch entries will be appended here.
 - [Low signal day for AI news](https://github.com)
   Source: Internal fallback
   Implication: No strong signal surfaced today, but the daily log still captures continuity.
+
+## 2026-05-01
+
+- [Fewer users, fatter wallets is why Anthropic tops OpenAI in LLM revenue stakes](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQWlXNldzYVhmX2JJSFVpOWJMay12cVVHeUdMVFpINkRfbnBqcW9zQlhUTlhIVmhnT0hReDNwZFpsQ3lQQmR2cV9jbDlWeXJ3UjZfRXZnd1dkaWZFWWpQVDN2WG9yanp4YUhkWHpwV2dOWTZxQnE4Wkp3STZCaEZhY0J5Z05rMWw1cVlXSWNxUzEtdw?oc=5)
+  Source: theregister.com
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Ecommerce Trends: What Anthropic, OpenAI and Google are each doing in agentic commerce](https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVRRVUNqNVN0RmxNR0twdV9Cd1V6XzF5dHRaYi1jaFdwbzhPZHBRRnlUbk5mRXl1di1oaU5FeE9YY3FZdmVHYl9uRmNwa3oyekQtb29DYkNxTVJvdkhZRXJpN1ZCTW9nVWFHVWN6djlvS3RERUFUNlVlbU1pbUFBYUZMaDFPT1lqUGI0RlJUeWdBMmJhcW9nTnJlVzdvb2p0VEN2allDWVk0Z2NTSDJ1RHV4RXRtSWhkQW5ycFo4dzBzLW9vemZ1NWRyRdIB0AFBVV95cUxOLXE5bzJiR3NtVVdoRWFNOGYwYXUxa25kU3h4bUl3Rnc5TU5US01BbkR5Q3dWbXM5N0Z3SXBjai01LVJudUNCM0lVY3BjUWs0d190bEp5ZndycjVvVnFOM2U0UUhZbXNhSUdWeUdEY0l0X1VWWkE3ZXhCMkh3Vkl2aXFSMFJ5NWpTbWxMN2RVUUlPeWJQbDJvWktHS1RHMlFfWEgtZnp3bUtpVWJFYjFuRm9iaF9aUU5hcEtGODQ1dXFBYlRmaElMV2NncUZvVlV4?oc=5)
+  Source: Digital Commerce 360
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own](https://news.google.com/rss/articles/CBMie0FVX3lxTE5VMWdiVG1KZF9naTR2NTFtSl9xLVR6TzFMbXJaOGFDUFBpREt6QVJ6MkNRZXlBT1hQOUlieUY4ckxSMzIycUFrZW96UzAzbXBsTkpKX0t2MmJLRWVWQkUxTHZsNDNDZk01aWlhVGtxcnc0STJZcEZtUm5Faw?oc=5)
+  Source: WIRED
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Elon Musk testifies that xAI trained Grok on OpenAI models](https://news.google.com/rss/articles/CBMimAFBVV95cUxOY01zTHhueVN3OXB6aGtYaDY2cnhaaXdreEFsQjJ5bDk3aXdEQXBWUnd0VVBxYkdaWkRjRHprQmZ5X0RJM3ZqaGpIUy1ITFl3WHJDRWtxaFIyZnJxTWZnWklwY0FyM0Rqc3d4Zkt4RWI2cmtZSXN5UVFrZXVmX1BTUkZBc3hlUENzWE1BSVlyVExJVGdxX2pqcA?oc=5)
+  Source: TechCrunch
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Elon Musk confirms xAI used OpenAI’s models to train Grok](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUm0zb0s5eUxySlVVX2Y3TWIwTFZRYmpCMW4wUDNJNzRRM2R5bmh6MDdWOUVDaklnS3lwaEhUYndJSWlLY0dWbVFac1FaNmM3Z2dSUUFOc2syMVE3a2VfTEh3eEpXdHp6TzVpbkVKV0NxY2pndDItRXB2dXZMUFNjNlZxakJob2ZFMnRZQmNLOUVMenFaRXc3bF9vd0VnbXRFSDZSRTBCZw?oc=5)
+  Source: The Verge
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic in talks with investors to raise funds at $900 billion valuation, higher than OpenAI](https://news.google.com/rss/articles/CBMiogFBVV95cUxQemIwT21nSUIzZUtRR0xpNkN0S1hsQzJmdHIxek5raklGOVI3cVJIZnlYSEg2X2VsTkRTN2xqcEJ0dHQ2cWhjVHhvendqRGFzeGhEZml6LXJPLXVBbjdZakdCMlVFanVmeTNta0x2dURXQXJYbjdVTUNqOVhweDVyLWJjVHVkaHRPY0RmNG5WNWFXMFVwc0VQRXp0QXBHT0FwMWfSAacBQVVfeXFMTlJmLUxyekh0cGJ0YjRHTXRoV2xSM0d0LUs2VF9pTVhMZmxYOUZOM1FHT2x0cVA2R3pheW8tUEFOcFUycU03WGFGd21kUEV6WE4xVXgzcWM0a2VmOHFnZnpXbzUtQmMzTndIUURYTXF0WUZHa2NrYmQ3QkNPN19kS09xRDJYMGVoQWJCYjdDVHdmUE1kcTNrZTRzOWYyaHBqVy1ULTI4R1U?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Elon Musk says his xAI startup’s models were partially trained on OpenAI’s tech](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMHdXNVpWWTIwVXVHV2U3WEUwY2cySWxmODQtWE1leWdhNGdLTUFCZ2FvNTlfeTNqd2JHRUlsMVVDbXNVQWtwam9GLWhFVm5sa1h6QVNGUlR6S0RCdXpIVHhDR21iLUVqSnpKTXVrRERjRGRveG5hSXE0VV9lSS1ZUHJ5aW1XUk0?oc=5)
+  Source: San Francisco Chronicle
+  Implication: Model quality and capability shifts are worth watching for product planning.
