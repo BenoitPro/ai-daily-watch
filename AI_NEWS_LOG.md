@@ -959,3 +959,33 @@ Daily AI watch entries will be appended here.
 - [Elon Musk says his xAI startup’s models were partially trained on OpenAI’s tech](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMHdXNVpWWTIwVXVHV2U3WEUwY2cySWxmODQtWE1leWdhNGdLTUFCZ2FvNTlfeTNqd2JHRUlsMVVDbXNVQWtwam9GLWhFVm5sa1h6QVNGUlR6S0RCdXpIVHhDR21iLUVqSnpKTXVrRERjRGRveG5hSXE0VV9lSS1ZUHJ5aW1XUk0?oc=5)
   Source: San Francisco Chronicle
   Implication: Model quality and capability shifts are worth watching for product planning.
+
+## 2026-05-02
+
+- [Mistral, Europe’s answer to OpenAI and Anthropic, pushes its coding agents to the cloud](https://news.google.com/rss/articles/CBMiXkFVX3lxTE80RTZ1YzY5eExtdlR5dEsxTU4zVEQ3Z05YTXdUWGJnMVk3T1o1eUwxcm5iSzBfX3ZhRTdPNjUtWlhmLTk1dEhIZFR5aEdRa0d1Wm5QbllKb2h5VXUwTEE?oc=5)
+  Source: The New Stack
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Elon Musk Admits xAI Used OpenAI Technology To Train Its Own Models](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1Bad0lscFRFcldDMzhmbXFtRHlVYUxKSEE4bnUyUnBVSVVac3FWanlBQVJkSUJkT0VXQWVmU0dCb2tiVkVhSXlYZVFfR1F4bzVaSU5obHE0ZXBQUEdTejBXSmFUaFpMZXVPdnB5TGpCaG1LZ0lha2wxMG9jOVFFbGcyUGJHWHpYeFpYODl6ajJuTkNBM1NJQkttVG5OWXBNczhTN1BOZ1F2ek5xYU5zM1NrZk1Bejh2dWdVcGRFdEQ2bzJJd1hBV2dhRzltbVVXYlFaMw?oc=5)
+  Source: Forbes
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own](https://news.google.com/rss/articles/CBMie0FVX3lxTE5VMWdiVG1KZF9naTR2NTFtSl9xLVR6TzFMbXJaOGFDUFBpREt6QVJ6MkNRZXlBT1hQOUlieUY4ckxSMzIycUFrZW96UzAzbXBsTkpKX0t2MmJLRWVWQkUxTHZsNDNDZk01aWlhVGtxcnc0STJZcEZtUm5Faw?oc=5)
+  Source: WIRED
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTi1jZkhwbUdsMmxOd0dvVk43VXpsXzJ1U2s1eUhUdGVxTVNBa1JpV1Z1NDEtMzBXTVpSZ1J3eXN6WVEzLW96aVdfOUd5QnA4U3d2aGdlWjBncndJMFE3VWxPSThEQy0zQjVhbWdiZU5kc0dDZXJiRjUtcGN6TW9zT3p2NnRBOG5OUTFGZDFhaUdOOG5EVjVNMkhBeUc2bm5MZjZPWG1FSElqMkVhTHc5a1FYZ2szSU9yYzNIT0hDQ3oweUprQ2lNWmxOTnkyRTg0OUtRZ2lTamVkZy1xVk9ySF9jMEJVT21KYTJNc21PWG5mR2llSTBncVhBWdIBgAJBVV95cUxNMElkY1hLcHZMS1p4Q1J5WG1XMTdpZlExSVR6eUZNSmptbVN0aks1UkkzNDE0ZGJpMkhXUzd5cWtfZjJaMGFHWklqY0xJTzlpLTE5ZUVMc3dCRUQxd2thRV9PNjRnbzllbDEzSGxrdnM2ZTVaTnFSWW1vNGx6SnRnUlo4YnFVZ2Nqd2NTMlUxZ2tVT2ZDT1JQVG90QUhucVZ6Y3N0Z3RYS25NTjVmT0IxcG05VDRJXzkxd0d6MmN1UkhUT2plVW9vYnB2cWtjRlBralZreVhaUDNXRE9UUHVDN2tLWnVvdzc3WGZLS1IteG1YSlpqdWJZZ05xU3FxNUQ2?oc=5)
+  Source: MIT Technology Review
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Elon Musk testifies that xAI trained Grok on OpenAI models](https://news.google.com/rss/articles/CBMimAFBVV95cUxOY01zTHhueVN3OXB6aGtYaDY2cnhaaXdreEFsQjJ5bDk3aXdEQXBWUnd0VVBxYkdaWkRjRHprQmZ5X0RJM3ZqaGpIUy1ITFl3WHJDRWtxaFIyZnJxTWZnWklwY0FyM0Rqc3d4Zkt4RWI2cmtZSXN5UVFrZXVmX1BTUkZBc3hlUENzWE1BSVlyVExJVGdxX2pqcA?oc=5)
+  Source: TechCrunch
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Elon Musk admits xAI distilled OpenAI models](https://news.google.com/rss/articles/CBMikAFBVV95cUxNYTUwSm93QjFZNkI2YXVjTnA4R3ZGMGQ4bFAyQTA4ZmZoM3BjM0wyRGppeGNoTTd0WmthaGdRNXl1N2d6U0M5OFRmQUlzQXdxUUZkVnBOMU52V253QXJ2b0V2R1FfbzdRbGROa0NtYjJLU2NqaHMzTHg2ajRyUU85MHM0NnBZT1lDMXY2U05LZjY?oc=5)
+  Source: Semafor
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [SpaceX, Anthropic, and OpenAI Could Be Fast-Tracked Into the S&P 500 After Their IPOs. Here's How.](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUU5TVlMUzRxbmRpY3NWVjZIZ0E1cHQzWWoxX1Q0OTFJa2EyY29LNlh6QWVnSF9sYUFZQkt2UEVxRTlfOUJ5aEtWd3dRZnpMbElLNUlVa19acEpnbVQzNWg3OHUwa01Kdmh3U1RIMERxb0xFLXBocjE5QkRxZDc1c0FmbmQ3bS04U3hyZzQzZUcwR29CSk9j?oc=5)
+  Source: The Motley Fool
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
