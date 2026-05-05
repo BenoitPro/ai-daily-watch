@@ -1001,3 +1001,33 @@ Daily AI watch entries will be appended here.
 - [Low signal day for AI news](https://github.com)
   Source: Internal fallback
   Implication: No strong signal surfaced today, but the daily log still captures continuity.
+
+## 2026-05-05
+
+- [Anthropic, OpenAI launch AI services companies, challenge TCS and Infosys in India](https://news.google.com/rss/articles/CBMi4AFBVV95cUxObzNSTWdiRUZ6YVY4ZFhCb2taODRmUUxHLWVwbTVJQTBOd0NTZlBaMThDTGZnYVI1bUItYnQzdlU0MVRWYWxsVzBvLTNCVS1mNXlwVlIwVnFSZ2k2T0RnOFdvNXFMak1BR2pINi1yWGRGZE50T08za2dlVkFHOEE3VDJXZjlralhVVVU3eDJkQ1A0NVpQczMwYUU3US1fNnpNdHZxb1NTVkVONFJ5RUoxVnhfNDFkVXhTcktISTVHMmxLV0lDQzNRT24yQU9fN0QtMTdiaXlvTThqQlRiUkdGYdIB5gFBVV95cUxQU2hTQkwxZ2xuVHBMMXJmdlJyZVBFdVNCTy04VzFBMlN5bVRmekJPaXN5Y0ItQVhUY2ZqTW1WNTZsekxKYUQ5dlc3ajNEQVVsSFpRUi1RcXJEbEMwTm9ZcHE4ZWRfY3Vvc2FTWmhHYW1uUmtQTWNHWVhXX0VaM296NzRxMGhkYWxhdTh5VXdBYmZTSTFNdnRwb2RwRzNMYUR1aVV2ck8tNUx3Y0tZdzF2VWxnbUo5dk00anZvYWMyN3RDaG5RUTJrNGZzZVZkaVk3aUl5N0VxcGZhRk9kV3NjQTF0RzREUQ?oc=5)
+  Source: India Today
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI and Anthropic partner with private equity](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX2otSjZDMThkZ2lzZTBnSUN2RjI0bl81YVg5TVkwVmRNOFVNemN5dG1IczRBV21lWmpIX3hfQUt4QURVSWtKQlBBejN2SU5YWFZPWi1wNHZMLUtQTEpVYnI1cVE0OGE1a2NZNTI5WmtNZjRSdndpMmdCbHZwTy1sMElNMFp6bW9pLWhabg?oc=5)
+  Source: Axios
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic’s $900 Billion Funding Round Set To Surpass OpenAI](https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGZobm94aTBZNllXRzBkeld3X3RFNU9ieDZ3c29LQ195TFFKZ1FOYk12Q202UHYtWXllLWpsYmRQN05SaG9uRW1XN2NCbkQ2RkZCaHZadWZ1Q3U3RV91ODlkZEZwM2RRbjFxZ1pfd19sUTZMOGpjY193Q18tQzR1YkE3VmJ4QjByQzRoY1hCT09jdk1UTmJTYXBiOERLeTR0aDAzVDhB?oc=5)
+  Source: Forbes
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic and OpenAI establish joint ventures on Wall Street to accelerate enterprise AI adoption](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRHRFQy1Qa1dmZ3YwSkZhTVhpTjh2cmZMdkgxNVJ3dGprN0RUa2NhYXRIQTE0bDJQOHE5ZDZKX1g1eVY1V1poanYwN3FfdkxBNC10QUZEd216OXZxdWdMYmJUbjlOUnBQelFfVkpGY05rSTZPYW8wTDZkLXFIMEEzLVN3NVpJXzdhMTExSXAwRkx3N05aSTJTdnlmTlE2MDlzWWlBc3NSSXV1dG1EMHNmbk8wZnZ4UXgwY3U1ZUJpb1V2Zw?oc=5)
+  Source: SiliconANGLE
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic and OpenAI are following Palantir’s playbook as they seek to grow AI usage](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMEFWRklkWWdEZnBpcWlpUTd4TVVaYzZhMU1mZDQxVXpiUGZld2R3U0xYUWh6S2l3dVdEQWhadWRUMXJsSG44THRNdElaUmh5UHZ2b2JncVRWVUxYWnNPTXUzejVqM09ZQXp0RzNNWmRJcmZlMEJzYjMzYjM1TE1FRG92bGp3OHkxVTd1Y1JrZlB5aHhOU0pMTlpGTUpWSDFOdmg4MldObS1vaUNQV1Zlc05IcmFOMnJzM21zOG1FTDY5WFp4?oc=5)
+  Source: MarketWatch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI, Anthropic ramp up enterprise push](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbk5sc2EwMjdaMWhpeHhlTEJWOHVadkNMcVVaQjF4Y0R2OGVWTjFKNko0UmNHREpYMldkT0JDNkJGRFBWWGhyTGJIRFdRTkk4Qm9WLVdDazZiWGxkVzlfMUkyaHl1cU01SXUySGlSZjJKNU5VRXhDdGJIZmp0LVExN2d2d19MUl9rU3dn?oc=5)
+  Source: Semafor
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic, OpenAI Team with Private Equity to Rev Up AI Adoption](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTEMyblF1eXpIMlpuQTV0SXlRenIwTXpfaHRLTXBwNC1zQnFNY3BnZU5VM2psWDhRVmNGRWcxUUM1b2VDYmdOTU5mNURCbVRJeU9Sc3o1Y2s4ZGk0bnl0c3NRLW9seWVydXVMRFJ1ZVRFbUlEVUhUblNfSnc2UHYyNVhqSEpVM0R4dFdpTGRyTnVPZjh1Z2IzNHhuY1lscUpmbm5uNUpJek9rNmZOMWJMbDdzV3o5eEtLQU1zdXFCZzc?oc=5)
+  Source: The Daily Upside
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
