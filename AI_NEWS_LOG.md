@@ -1031,3 +1031,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic, OpenAI Team with Private Equity to Rev Up AI Adoption](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTEMyblF1eXpIMlpuQTV0SXlRenIwTXpfaHRLTXBwNC1zQnFNY3BnZU5VM2psWDhRVmNGRWcxUUM1b2VDYmdOTU5mNURCbVRJeU9Sc3o1Y2s4ZGk0bnl0c3NRLW9seWVydXVMRFJ1ZVRFbUlEVUhUblNfSnc2UHYyNVhqSEpVM0R4dFdpTGRyTnVPZjh1Z2IzNHhuY1lscUpmbm5uNUpJek9rNmZOMWJMbDdzV3o5eEtLQU1zdXFCZzc?oc=5)
   Source: The Daily Upside
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-05-06
+
+- [Anthropic rolls out financial services agents as arms race with OpenAI heats up](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV3l0Vk80M0diZWdaczY5aG5OWnE2ZEF6OC1BcFdNdnJSV2dBeE41blpwaUVxMnpUN04wb28wbmRmbXM0em5JRFJVNVV4eW9vdzAzZlRCd0JaSG5sMzVTUFduVlFCV2pJRTRaSVVxRmlYMFNrQ3YtSjZ1SUF0N2VucWhjbTE0T0xzNHd2TFBERHhuMktSZjFOSXZjbmJUSDl5SmhDLXUxdmprNGRHcFlXYlk4cEhYRVRQd3hWc1EyQXpiZ00?oc=5)
+  Source: InvestmentNews
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Anthropic launches private-label financial AI 'agents' on same day as Schwab enters artificial intelligence fray -- and its shares rise with LPL, Raymond James](https://news.google.com/rss/articles/CBMikAJBVV95cUxPZFpqa0lpVnFJVUlYNFZKeFY4UWVySHh5b28zaC1xMWVhM1NrR1EzVjBoT1FfUDcxQ1VMemh5OXZ6Q3U5NWpCS3Z4ZHhreVFIcUZKODNvM2ltQXU0M09wR19hajhLYXdZRlhVcTBFcWl4M3RKb09hTFJEOU1HcU1fN1pTdE5oZ2Z2M3NQNkhmSEdYaGZiUERsNHFWbGstOUFSY25LY3NYeFZYZkk3UWZSRzYtclBFQkJTZVh4YXZCeWpRSGxxRHNyaFlBcktHXzAwN2d1cXRmQWFwaEo1VXpTczF4enZSMmdNUS15cThBclBQY3ZwR24yQmRybXZTZi0ydHU2QWxxY25qLXN5YkxaNw?oc=5)
+  Source: RIABiz
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [OpenAI and Anthropic partner with private equity](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX2otSjZDMThkZ2lzZTBnSUN2RjI0bl81YVg5TVkwVmRNOFVNemN5dG1IczRBV21lWmpIX3hfQUt4QURVSWtKQlBBejN2SU5YWFZPWi1wNHZMLUtQTEpVYnI1cVE0OGE1a2NZNTI5WmtNZjRSdndpMmdCbHZwTy1sMElNMFp6bW9pLWhabg?oc=5)
+  Source: Axios
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI, Anthropic ventures in talks to buy AI services firms, sources say](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFZhSnhTN3pkLVhxNVBraXhnZG5UTjdnQ2g0bUltN3VzQmRXN1hzb21iR3ZFRlRIR1FEdndNdHJoV1pIN0daSnJvVWMwbWtxME9hWVhRdnpoZDJ5Mk5wcXZPTG5DdE1oWGtacldZQjlUWmpZQ3pZaVhQaHBTeUJud3QzYW1ZQXdkdS0yRnpfZ0xlRGl0M1JJSHZtcFdNYlAxZkhKcVBQVUUtdDA?oc=5)
+  Source: Reuters
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI and Anthropic Target Private Equity Portfolio Deployment](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVUx0bGhzU1pNR1NWd0pfbjNRYVI5cE1iTUJVX3J3VVBMZGdYQTZSa1JmY1UtZDhqWjFlMDVSRXZsUUowVE94akVKNVJPdFlhYUFUekNOZ1FUSmg4TGFTa3NIMUM5NnlHM253dVBRelgtSmZ0elRzOVFxMUlFUFNTYlJ2THVtdjdQZ09GLTcxTjBDOXRQSXlKbmtYQVhDWmZyRXoxbQ?oc=5)
+  Source: Let's Data Science
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Commerce AI center will evaluate Google Deepmind, Microsoft and xAI models](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMXlGSXk3V2JvQVBOY2RVOXJVdDh1X0RPV1VZMDNWaWpGaWp0TjZ6MTlPbmcwYWVxNDZxajlQOE9SbDZnaFAtREJiSDA2UnlCUnM0LTN1c1BWMlpjOURmSDVYd29BZk1sZ3BPb2t3SlZ4R1pTRzI0bWI3T2VDU2w2VVEyV3Nya2RRV0FheEo5OWNMa0l1bk40aXRDWE9ZTGtlZi0tQ3lCRXotRFBDZThyNmpIaTFxMlVaSEhlR1VoQ2RGaGtmRnpWRTlGM19QbUZvWU84?oc=5)
+  Source: Nextgov/FCW
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic launches AI agents for Wall Street's grunt work](https://news.google.com/rss/articles/CBMikAFBVV95cUxOazdVel9EUDV0WVAyd01UNERyc29QUlREQmdRejZIeGlSTVdKUnVHM3pETGpXZVRGNktVdzVZcncyVEg0dE1IdnQ4X2c3MWlSai1yTEFUMjktMzMwS2Z1cVZCOExYeDRFc1h5VnlPQlRCaEhacTNXSTItRUt3bnZrWHJ3WWNjcTQ4eWR4Rk9mZHk?oc=5)
+  Source: Business Insider
+  Implication: AI agents are becoming more practical for day-to-day workflows.
