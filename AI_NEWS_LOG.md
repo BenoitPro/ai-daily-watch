@@ -1145,3 +1145,33 @@ Daily AI watch entries will be appended here.
 - [We’re feeling cynical about xAI’s big deal with Anthropic](https://news.google.com/rss/articles/CBMilAFBVV95cUxQMnhGNkwwYUVqY3hycV9GZTk5bUZlNmJtcUtFdnRXczdWZ2pVYnVxMmJTRTZJa003LVYtUGtCeUYzZ3VLVGNvWkp1TFE5eHphZ0dHSkk0cVlUSmtDeWtuY1BodkN0N2dSc1Q3QWZWcGQtX3o5QzVVUUFuM0liT1FEcTBYTV9JQUtWTmVOOXpYTXNnSm1L?oc=5)
   Source: TechCrunch
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-05-13
+
+- [EU says OpenAI offers to open access to cybersecurity model, Anthropic not there yet](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmMycEVRUGxZV2VUU05oZ0JzMC14Q0JnS2lCZkg1Z1BJSEwzRW52OXVBcFJRdzJLSEYzWGpyQlk5X2x2TC1IalZTdGctLW9RNDdQeHdURG5meFRSU3B3TmVaYTBRTEFuVDlHS3NUMzNiczBSWFlMYmxnYUxiZWJnTF9TZXpOSkZPamZ2bEtsMHN0T3dfdDB4XzQycy1qNmkyd3JfNjVfRl9OVm40U1BDQlp4RGtwVmp2R3o0cloyTzN3OXB6ZHFVdEZRTGk?oc=5)
+  Source: Reuters
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI to give EU access to new cyber model but Anthropic still holding out on Mythos](https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2dIWFVoOVJJTHJvVGpYZG1kNTNoaWE1a3VudWpGUHpYMDZENVB2eWdJdkg5dlhRa0p3Y2dCMHJ0bmJEY3N1QUlESGstbzRPeVRNSmNsU3lQaUQzTko4OXgwQUpxT29uZnE4Q1AxQ1VDMm9wVFN6LUZPUUI2a3ZpbzFTLW1aZ9IBiwFBVV95cUxOY3ZteGJsV2E2YVNJSG40Z1lwUFpBV2Rvdk9FSHZZRHpkRlk0azdUaVdrNFozMTNrZlZSUWg0ODU2V29nNXcwSE5jQ3pINFdQRHJHUnFtdjFSaWNod1EyWHZkSFd5c0lZZWJxd3BjUnUtQ1A3MmRKTVdMMG9OeS1CeXVwVk1qNE1tZV9N?oc=5)
+  Source: CNBC
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [EU confirms OpenAI offers access to cybersecurity model, Anthropic lags behind](https://news.google.com/rss/articles/CBMifEFVX3lxTE9uREtuS2M1Skg3UHA4UWNDaDRZTE9vYzlNMkEtTGtnQ0djcl92OEVtUUNaeXJFbzlLNnlqUGFrZWNQcXVKSE1wdzVEVGh3SU9DT3FhX3dnM0VvbmtVa013LW8xUHFGNnF4ekpjUGJEc25TZ1ZJRnM5cnpFbDg?oc=5)
+  Source: Crypto Briefing
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI gives EU new cyber model access but Anthropic still holding out on Mythos](https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [NEWS: Anthropic and FIS to launch Financial Crimes AI Agent](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYk9PNHRKTEUzX0RKWThkeUJWZE0wNXBJZmV6SFI4OVduS2MwOGpNcE9CVGg1Z1VKZGZidE9VT0lxdERZRk9BVUR4V2Q4cmdfd0FuSzNLV0lJUzZzWllmSUVUZnZ2XzhQYXA2aE9ZeFdCVW9oN1pBT0stRDVXRmNqMHZHN0d6VmpqQ1VGN0R5RTMwbFZldVdzUFMwdGllX0Qz?oc=5)
+  Source: AML Intelligence
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence](https://news.google.com/rss/articles/CBMickFVX3lxTE95QnZPQkxzLW9WdHJLbUplMUo3dHgyY0JSNmJfdkRzdXlaU2ZUdGw2VEFyM3NXQ1VNYTBqR3Jnem5DQk9MV3NQZm5MM3NtbVo3d19xNlhsWnNkMFFaTGhkZDVrZmJOZTVObzBKOGZQbmd4Zw?oc=5)
+  Source: OpenAI
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic expands Claude's AI tools for law firms, lawyers](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5)
+  Source: Reuters
+  Implication: Regulatory pressure is rising and could change shipping constraints.
