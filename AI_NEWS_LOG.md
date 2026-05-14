@@ -1175,3 +1175,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic expands Claude's AI tools for law firms, lawyers](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5)
   Source: Reuters
   Implication: Regulatory pressure is rising and could change shipping constraints.
+
+## 2026-05-14
+
+- [Anthropic overtakes OpenAI in enterprise artificial intelligence race](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdWRJTmUtWllYS0tQSGlWWDY0TjhoblpDWXFZbUU1azBzZTZFSTdac2QzNFlRaG1ubmRjOUt0WnFhYVVNZTFqV1lWTUVtV2JiUFJJZ05JTkEtSk9aeHhIQmZIZmVFS1BrUFZVSF9XUHFRelRPa3Q4Wk9IWkFOZ2hiVV8yS1I3Mm1mZVRzZUlwa1duR0xoNTZ2N25weGljMjlTWWk5aldSOFIyWVpRLXVkcDZSSEQwRDR3cktHTEVlTXNVYUhaWTBxakNyd0FKekRkQVAtazBDQWx4YVpwOVY3SzE5YVJKcUHSAewBQVVfeXFMUGlSSWtmby1hZXpUQmNzaGswbE45ODg5Wkd5czdfOVZuX1BXNVdnZ2o1WXNndGw0b25fUjA3OGl4S2l4S2ltdC1JS3BsLTBnZkpQU3gyVjdyRVJPTVh1TUdhX0xydmV2UDYyalVYZTNoOVF0eG9fbkZybFJJWDZnMHVHanZNbDBKLVZZMkdQZHZSWEs0OWwwNjh1R0dVSWVzd1dua05xa2d0OXNwMkgwbm5fUTQtc2RocGQtQllqQVFuaHVqejlsdVROamhVZVpSazQ4UVZMN2x2NjBXM0FuWVpvMEFnMkc4cFRWTmU?oc=5)
+  Source: The Economic Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic now has more business customers than OpenAI, according to Ramp data](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaHBGQS1vLUhlc05aNFZzT0szUW5aQWZkWi1TSk1CTDBYelkyUXdSUXY1RTdMbGZqNV9oeks0d25DT2YyNlZVYVNkX0MtcHBjMEJ1N3A3TFh2WWJXbUhvSEd3bURCRlQzMEdoS0pOMlNJbWV5ZnNvX0lvVWZoUFplcHVOaEJaSVd4ZVY0RDhyQUd6TXJUamt6M2o5WV95bjEzUFVXLTZCZWtoSG5JakNnYw?oc=5)
+  Source: TechCrunch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [EU says OpenAI offers to open access to cybersecurity model, Anthropic not there yet](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmMycEVRUGxZV2VUU05oZ0JzMC14Q0JnS2lCZkg1Z1BJSEwzRW52OXVBcFJRdzJLSEYzWGpyQlk5X2x2TC1IalZTdGctLW9RNDdQeHdURG5meFRSU3B3TmVaYTBRTEFuVDlHS3NUMzNiczBSWFlMYmxnYUxiZWJnTF9TZXpOSkZPamZ2bEtsMHN0T3dfdDB4XzQycy1qNmkyd3JfNjVfRl9OVm40U1BDQlp4RGtwVmp2R3o0cloyTzN3OXB6ZHFVdEZRTGk?oc=5)
+  Source: Reuters
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic finally beat OpenAI in business AI adoption — but 3 big threats could erase its lead](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVjR6UjJXQmp6ZGNlQjhHWUlwaXBYcHc2aFFkRmZLSEQ3eHYxVmNmZkFfY1JLQmJVUU4xaXRHejJib1hORUxjREh4eDNJRndSVVdxX3p2TWVZdHctbnB2VnB3RF9rSFF2MGhQSFZxNmpPbnhNNERmUG1xYUNiWU8zRnlnVWctWXhmZldBaUwwRDV1OGszOW9iVVBiVTVKYjVyWGE0OUk4NDZxVDZxY2l5bFNGTUtIRG9lamYzWFREQmI3QlFTYnc?oc=5)
+  Source: Venturebeat
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI to give EU access to new cyber model but Anthropic still holding out on Mythos](https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2dIWFVoOVJJTHJvVGpYZG1kNTNoaWE1a3VudWpGUHpYMDZENVB2eWdJdkg5dlhRa0p3Y2dCMHJ0bmJEY3N1QUlESGstbzRPeVRNSmNsU3lQaUQzTko4OXgwQUpxT29uZnE4Q1AxQ1VDMm9wVFN6LUZPUUI2a3ZpbzFTLW1aZ9IBiwFBVV95cUxOY3ZteGJsV2E2YVNJSG40Z1lwUFpBV2Rvdk9FSHZZRHpkRlk0azdUaVdrNFozMTNrZlZSUWg0ODU2V29nNXcwSE5jQ3pINFdQRHJHUnFtdjFSaWNod1EyWHZkSFd5c0lZZWJxd3BjUnUtQ1A3MmRKTVdMMG9OeS1CeXVwVk1qNE1tZV9N?oc=5)
+  Source: CNBC
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic, OpenAI tokens plunge as AI firms say pre-IPO share transfers are invalid](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSVJ3bkpiVXFWNUN1ZnNfSFplVDJ4VTVoSncxOVJIb0Q3OUI4TkQ5N2gwb0NfZmtkR0VSN0RNSTBqOUdHTXdIN3I1cFpfdWhHTzFXa1FGNWtSTWFOM2pnQnEyQXhxQ0Y5cm1lR2J1RENObHU1eUY1T1l2ZFByY29kUWUxdUF3QV82LTlDanBBSTd0ZWpTamhESE4xRHluMV9sYU9EY2lYZ0thQXVSb3RGczk4dFBaS09qcnZfRzRjWG9xWVNKaVE?oc=5)
+  Source: CoinDesk
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI just lost its enterprise AI crown to Anthropic](https://news.google.com/rss/articles/CBMilwFBVV95cUxON09uU3dJRUF4SWF4U21rUWtmSkI1Vzc4bTFuRW5weWtjZ1lrZ29BeTZHSVZEYTctYTY4MFRIUW9iUlVfWWxsNkpJblVqbGZHSGRqMGJQUWVCbU9JSTlUUTg3Z0YwOW1PTS00cUdCWXhZOXFaNUV1U05mTEJBeVF5a2V1bUFoWmllTEl3TjRNRTlkXzRrVV93?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
