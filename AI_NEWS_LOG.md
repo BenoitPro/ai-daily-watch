@@ -1205,3 +1205,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI just lost its enterprise AI crown to Anthropic](https://news.google.com/rss/articles/CBMilwFBVV95cUxON09uU3dJRUF4SWF4U21rUWtmSkI1Vzc4bTFuRW5weWtjZ1lrZ29BeTZHSVZEYTctYTY4MFRIUW9iUlVfWWxsNkpJblVqbGZHSGRqMGJQUWVCbU9JSTlUUTg3Z0YwOW1PTS00cUdCWXhZOXFaNUV1U05mTEJBeVF5a2V1bUFoWmllTEl3TjRNRTlkXzRrVV93?oc=5)
   Source: Business Insider
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-05-15
+
+- [Musk’s xAI Unveils First Coding Agent in Bid to Rival Anthropic](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeXpCZ1hKa0hEQzRLSkk2NzF0YV9NM01yUHZUYzJYMU45TUJBd09xMFU2TnBBUkJ6QzdFbWlJbDJZaThZbGVQWktGdTlJSF9XZDlqcXZGSTl4MVp3YnBTOThFUmZWX01ucjZmdy1OR1RuVGowNFZGQXpnS2xqU1FldEV2NXlOWmtlTjBydF9MVnhoZl91VGl4NkVLYmZZWmZGMTJ6SGJxUkZpNC1hY0xyTWlnMmw?oc=5)
+  Source: Bloomberg.com
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Anthropic now has more business customers than OpenAI, according to Ramp data](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaHBGQS1vLUhlc05aNFZzT0szUW5aQWZkWi1TSk1CTDBYelkyUXdSUXY1RTdMbGZqNV9oeks0d25DT2YyNlZVYVNkX0MtcHBjMEJ1N3A3TFh2WWJXbUhvSEd3bURCRlQzMEdoS0pOMlNJbWV5ZnNvX0lvVWZoUFplcHVOaEJaSVd4ZVY0RDhyQUd6TXJUamt6M2o5WV95bjEzUFVXLTZCZWtoSG5JakNnYw?oc=5)
+  Source: TechCrunch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Market awaits upcoming IPOs from SpaceX, OpenAI and Anthropic](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdWh6a1ZnMWpBWVlueTNERnVYanJlcGwtWV9FLV9fUG1TU3dFdU9DMndoYS1JRzNmb2Y4QkVKNUxrbGQxU09SWngwemhPQUF6M1RROWRfczYxa3RLSmRJR1JsdkdvZFlBcHp5Q0FLYlVDaEJtVGNxQUJNYlpfTEpUOS1McFJUUXlhdlp2QXl5bjZnSzNUVVNhZklIbHdiSUg0Q1J2WWJR?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI gives EU new cyber model access but Anthropic still holding out on Mythos](https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic Launches Claude AI Agents for Small Business Finance](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUd6MWltUElnanBwVzhMcGl1cXVPY25tZ1BpTUY0bG9sUXlRQkw3UDdiaWZ3b2U0YXR1Ykh4ZkhKUG01Y3pRSE83c3paZ2JibUFkWUEtNlg1US1SdzZsZ19hcTM0THNOcEpHbHhmQlZaOEdBSWEtYWNCRmZsNC1IS2VjSmJGS250TF9oUFJUVTJHYnhsTlRxV1JUVy1HUXpQWDZkbHhJeml3ZHZNQWRCclQ1VnlSMTRG?oc=5)
+  Source: PYMNTS.com
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [PwC and Anthropic expand alliance for enterprise agentic AI](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeldRcDk3WWpRMHo1a0Qwb3djcGNxOXVVbHAtYVNnT1dtbnZkdGsyc0FlZUNxNDZoaFlaZUhLWGRnMVRaemdvblp1MjVFQjFiajBFM3hZOThxS25zTG9HZFVCdGdRX1JnSVphWUpaTkdjTjFFdVh0eXdhYk1lLTVjb1hacm00OHFjRDhlOGwtRWFjUUFRaHJsRjlXM0d3d1RJVTJMUEZjOGtqYndhRlktRVV3?oc=5)
+  Source: PwC
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Sea's View on the Future of Agentic Software Development with Codex](https://news.google.com/rss/articles/CBMiUkFVX3lxTE84c25CanVRT1p2TkZadDZsNU9EaUhIX3NYQkZNaEh4UXhETmZCYWpJeldtRVBKNzZPaXJZXzc3ak5fMzZiYmJtYTJ2Y2JhMC1vMFE?oc=5)
+  Source: OpenAI
+  Implication: AI agents are becoming more practical for day-to-day workflows.
