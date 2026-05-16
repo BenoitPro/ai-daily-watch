@@ -1235,3 +1235,33 @@ Daily AI watch entries will be appended here.
 - [Sea's View on the Future of Agentic Software Development with Codex](https://news.google.com/rss/articles/CBMiUkFVX3lxTE84c25CanVRT1p2TkZadDZsNU9EaUhIX3NYQkZNaEh4UXhETmZCYWpJeldtRVBKNzZPaXJZXzc3ak5fMzZiYmJtYTJ2Y2JhMC1vMFE?oc=5)
   Source: OpenAI
   Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-05-16
+
+- [OpenAI CFO Sarah Friar and Anthropic’s Krishna Rao Are Racing For Compute Power](https://news.google.com/rss/articles/CBMib0FVX3lxTFBqdTVjbDZ4bkl3UDZtUEVsMFVXX2RDMHVyaHVjX1pkTGl1c3ZEWkx5QU5aWGdhM2NuV2k0WDVxOFBhWUJ1UWV2X0l3YnZqOG9RalpiTnI1VUl6cGVBQnlYZzBxdVZ3V1Y1VDhxa0xjZw?oc=5)
+  Source: observer.com
+  Implication: Compute access remains a strategic constraint in the AI stack.
+
+- [Anthropic is closing in on a $30 billion raise that would make it more valuable than OpenAI](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBIdFVaaVFibk5TOUlVaVdlREFfMTVZa0dIbzdfZEtTOXVmX1FXU0dYMnhqQ0ppTkF0S1ZYSmlBUWhzVG5jbk1KMkVMUzJvamF6TDR5anFHTVBpZEdFc2JZYmF5NUViVFdWeS14dGlTZXR5cGtQQjFZVUNiQTcxc0tn?oc=5)
+  Source: qz.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic now has more business customers than OpenAI, according to Ramp data](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaHBGQS1vLUhlc05aNFZzT0szUW5aQWZkWi1TSk1CTDBYelkyUXdSUXY1RTdMbGZqNV9oeks0d25DT2YyNlZVYVNkX0MtcHBjMEJ1N3A3TFh2WWJXbUhvSEd3bURCRlQzMEdoS0pOMlNJbWV5ZnNvX0lvVWZoUFplcHVOaEJaSVd4ZVY0RDhyQUd6TXJUamt6M2o5WV95bjEzUFVXLTZCZWtoSG5JakNnYw?oc=5)
+  Source: TechCrunch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI to give EU access to new cyber model but Anthropic still holding out on Mythos](https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2dIWFVoOVJJTHJvVGpYZG1kNTNoaWE1a3VudWpGUHpYMDZENVB2eWdJdkg5dlhRa0p3Y2dCMHJ0bmJEY3N1QUlESGstbzRPeVRNSmNsU3lQaUQzTko4OXgwQUpxT29uZnE4Q1AxQ1VDMm9wVFN6LUZPUUI2a3ZpbzFTLW1aZ9IBiwFBVV95cUxOY3ZteGJsV2E2YVNJSG40Z1lwUFpBV2Rvdk9FSHZZRHpkRlk0azdUaVdrNFozMTNrZlZSUWg0ODU2V29nNXcwSE5jQ3pINFdQRHJHUnFtdjFSaWNod1EyWHZkSFd5c0lZZWJxd3BjUnUtQ1A3MmRKTVdMMG9OeS1CeXVwVk1qNE1tZV9N?oc=5)
+  Source: CNBC
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI gives EU new cyber model access but Anthropic still holding out on Mythos](https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [MiniMax – Affordable LLM Powerhouse Rivaling OpenAI in Efficiency & Accessibility](https://news.google.com/rss/articles/CBMiogFBVV95cUxOekMwS1VwR0ZiWnZSaDRraWFXSjBZSjJpcmw0MHRweE5CUnRIQ2RhMHh0R0ZPbHRyZl9mV1B4T1J6dmZWQkp6SDVCMXd1dVNJVE8xb3hFVUZwUHFROG40MmVROXVHa3lmVjg4T3d3dms1WkJKaVpVYThfaWtFWHJmSE5wX0hVRmpjM1d4TFpFM0Z6eEhYZzRienBuMnNHMVhldGc?oc=5)
+  Source: quasa.io
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI keeps shuffling its executives in bid to win AI agent battle](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdWJhWlFPaVc1N3ZBMHNTZ3phTXRJRXFpSHBxOUtiVzJPOFJHWmxySUZ3UHNwZGw4dDF3VkZKcXF1YUFTd0IyZS1zZFJXLWhMaTRoVVJKMnc5MFRJX3hQM3JsWTJXUFFYd3JnbUZOOGs4LVF2QmxNSXhlUTJ0d1c5US1IaXFKd0dvRDJRcEdIUVNrZHVyclZNQ0JLdTdmb1JKdnRKcmNhTDA1SzF6THJjN2ZnY3hHMEtBb2pLY0R3RmpNd3Rr?oc=5)
+  Source: The Verge
+  Implication: AI agents are becoming more practical for day-to-day workflows.
