@@ -1295,3 +1295,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI keeps shuffling its executives in bid to win AI agent battle](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdWJhWlFPaVc1N3ZBMHNTZ3phTXRJRXFpSHBxOUtiVzJPOFJHWmxySUZ3UHNwZGw4dDF3VkZKcXF1YUFTd0IyZS1zZFJXLWhMaTRoVVJKMnc5MFRJX3hQM3JsWTJXUFFYd3JnbUZOOGs4LVF2QmxNSXhlUTJ0d1c5US1IaXFKd0dvRDJRcEdIUVNrZHVyclZNQ0JLdTdmb1JKdnRKcmNhTDA1SzF6THJjN2ZnY3hHMEtBb2pLY0R3RmpNd3Rr?oc=5)
   Source: The Verge
   Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-05-18
+
+- [Big risks and rewards in upcoming IPOs at SpaceX, OpenAI, Anthropic](https://news.google.com/rss/articles/CBMidkFVX3lxTE82aTdGdFZDeUJrdEl3aFBCb2kzQnNfMW5QUmVkbHpCbmNLdEZfSVBjVldoU1BuV3EyTlQxanhfTm5oZ01sZGZTZjRRdEQwWkxHSmk3TFJha1prTll6eFdIVm9XT3M0ZWRNNE9NS20yVWVOZUtxYUE?oc=5)
+  Source: Taipei Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI launches mobile version of Codex coding tool](https://news.google.com/rss/articles/CBMijgFBVV95cUxOSXczcFhsQlVUMkVrXzZIc1FKdkJuS3RNc3llZ25zMGl5Nk1jRnNFUFhnNklWRnEwNWZGYm9mdVF2RE56dk8wWE95SnhUcVhJQnUtY282bVdHSnozWmthZ0tmaW0yNW9sYndzWUtuTV9RbHNhd2JHb0lRVDNrbTZlTkVDeXRTTmZ6UHhMdEdn0gGOAUFVX3lxTE5Xd1VVTDJlRmNRQ1hPVEhLYWI0elFtWEEtLWJ4b2pmajdxaFNfeThpeno1MkNIajhXRzRsN041cElLb25yNzRoUnJHQXExNW5rdHlMQXZlT0JFcWtteDQzV0FWb3RHQzI4MmMwWUc2UnRJVDRDWFdwNmxoVlJyU1VudWlUY0hrdGRheWRYZ1E?oc=5)
+  Source: Qazinform
+  Implication: Developer tooling keeps getting more automated and competitive.
+
+- [OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month — bill covered 603 billion tokens across 7.6 million requests and 100 coding agents](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZmhHTVpuYXZRWjV4Vk53dVFMMk8yNzUzZC1FQS0wMkkxVHEzbjB2Wi0zeUlOMGNRc3VoNDlJWFRYbTZFOXdyR2hUQ19KYWR5Ri1FS2lORHlYNVlyVkNGdnRKQk1kdl85a2p6NTFtTHgyaW5sOXh2TzYtS19xQ2p3NXZQOU5oNVBhcVU5Qmtkc2t6bENBMXFmMXVzTUNlNERVSS04OGpobUdjeG85VzF1N3lMMW1VdWV4Sm5ZaEZmY2llT1Zza1ZXWXF5dWsyTERNUWYxZWdTZWNIVno2S25CLUtR?oc=5)
+  Source: Tom's Hardware
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [xAI wins partial court backing in Apple-OpenAI antitrust fight, Tim Cook excluded from discovery order](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSTFnTmdUTWdLb0x1RU56akEzOW1fSjNLRE1xZ1kyNFNrTzJzdGdpdVNhczZKMEN0dmtWVkgxUC1ObkNkN3J0WWtGQTQ2SGtfLWIxaE9qdDZzSUliLW5kRnloZ3N5NUIzWmFxREdjdG11eFYxd1pGb2FnQjJSbnZuaDQwbTVPUGdZV1k4S1lHdFdySFdlWUxFckk2RWExNHB3TlREMlNUOUlvRklRcHVod1R5Q0EydWdvUVZHTUZQNURwMVFXZzZiR3NuSWluZjBkcUN6aWlRX0ZpbG9scnZvcHpB0gHnAUFVX3lxTE9xQjBoS1VZNmUwdTRraHVpNDRoSGZtb0VIUzRCNlY4bl9MRUZUQzE0TmxjWTNOemJBUTdJejN6eWd0WFpMV1VkalFEQ2lTRmxaU0taSzc4Qk5tdC1adktKUGpaNjZhSi1mTmNtUXNXM09OaHhaSWJvVl80NzVKREtFVXo4OTZDMENrZUo3OGJfQmVYX2UxZlY3TG9RWWlDM0tDSUtVeGlId0lCZTR5SHdsV1lPWEZ3RFFrVDR5a2Y5VVFQU3hCaTQ4Qk4zYjNNUm9IUHQ3YnZOVnl5Q1locUVhQkFfei16bw?oc=5)
+  Source: Storyboard18
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI gives EU new cyber model access but Anthropic still holding out on Mythos](https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic now has more business customers than OpenAI, according to Ramp data](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaHBGQS1vLUhlc05aNFZzT0szUW5aQWZkWi1TSk1CTDBYelkyUXdSUXY1RTdMbGZqNV9oeks0d25DT2YyNlZVYVNkX0MtcHBjMEJ1N3A3TFh2WWJXbUhvSEd3bURCRlQzMEdoS0pOMlNJbWV5ZnNvX0lvVWZoUFplcHVOaEJaSVd4ZVY0RDhyQUd6TXJUamt6M2o5WV95bjEzUFVXLTZCZWtoSG5JakNnYw?oc=5)
+  Source: TechCrunch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [GitLab (GTLB) Deepens Anthropic Integration to Power Duo Agents With Claude Models](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWGx0TnpNOWhsajRsT2gxTlRyTzE3Tk1HbVFEZXlsWWhSRjJESGRTbkVlcGV6eEgtRUZpOC04VjVVM2dWaGtsMHZLYkUyMG51eElPUTI4MUpHRTdZQUpvb1lROEhWb1pWNlVvUGhvTk9MbXRMOEZScEFMOGk2VlZYNmZKMHhWbDNfalFaWGVTNENXOGJUWUlWUmh0b2FsME40WFI4cWQ5cC1kbXRQNzBXeVFVZlpTdDczZGhzNG1VMU5zQdIBygFBVV95cUxQMXMtRGFyUmh2dkFQenBpd0RSNVFKQUt1N0RvaW5yanhsczRwcjlDYTNxTlFYZXJaSU9Lc051ZGJrdEZhdUlfa2MwbXNFSkhvYUNUVnctRkZrSDJTZW42d1lxUzBCSzYyVTVDaVFLRDl3amdBLXgyaWM0VDdweTJmdk5kSlByLTlMbXNVbTBKNC1ZbnF2eksweFlCYnhPb0hZbVBvcjgyMzdoUHVDVDNhRVhqYjk0VFlJcXVKS2NkZDhZQk5MSXdNbFpB?oc=5)
+  Source: Insider Monkey
+  Implication: AI agents are becoming more practical for day-to-day workflows.
