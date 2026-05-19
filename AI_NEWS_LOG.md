@@ -1325,3 +1325,33 @@ Daily AI watch entries will be appended here.
 - [GitLab (GTLB) Deepens Anthropic Integration to Power Duo Agents With Claude Models](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWGx0TnpNOWhsajRsT2gxTlRyTzE3Tk1HbVFEZXlsWWhSRjJESGRTbkVlcGV6eEgtRUZpOC04VjVVM2dWaGtsMHZLYkUyMG51eElPUTI4MUpHRTdZQUpvb1lROEhWb1pWNlVvUGhvTk9MbXRMOEZScEFMOGk2VlZYNmZKMHhWbDNfalFaWGVTNENXOGJUWUlWUmh0b2FsME40WFI4cWQ5cC1kbXRQNzBXeVFVZlpTdDczZGhzNG1VMU5zQdIBygFBVV95cUxQMXMtRGFyUmh2dkFQenBpd0RSNVFKQUt1N0RvaW5yanhsczRwcjlDYTNxTlFYZXJaSU9Lc051ZGJrdEZhdUlfa2MwbXNFSkhvYUNUVnctRkZrSDJTZW42d1lxUzBCSzYyVTVDaVFLRDl3amdBLXgyaWM0VDdweTJmdk5kSlByLTlMbXNVbTBKNC1ZbnF2eksweFlCYnhPb0hZbVBvcjgyMzdoUHVDVDNhRVhqYjk0VFlJcXVKS2NkZDhZQk5MSXdNbFpB?oc=5)
   Source: Insider Monkey
   Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-05-19
+
+- [Nvidia delivers Vera CPU systems to OpenAI, Anthropic, Oracle, and SpaceXAI (SPACE:Private)](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWS0wMjBOcEx4ZU83T1hZVmt6eUdwUU9yV3VCVmhXcTBhZWRiczhaY3ZLem4wNmZFMFNRSUdQWFNxVzVtUWhoSEdpSGl5S3RrY3VIUkpWWmZSQUZfQnQ3ZWxhcVpTbmh3TnRsVFhzTm9QRzQ3OTJST3hTeFluclNRejZ0M2ZBQ1V2SEpGeFJHalA4aEZFdnVTY1pJSXVsMXZQX1ZDRndmQ2p6MGZFNlkw?oc=5)
+  Source: Seeking Alpha
+  Implication: Compute access remains a strategic constraint in the AI stack.
+
+- [Anthropic Buys The SDK Pipeline OpenAI And Gemini Depend On](https://news.google.com/rss/articles/CBMiswFBVV95cUxOeHhfMlI1bDM4TlJZV0pCNjVYQmxJWGF0WjN1YVo2OGgwc2EwUUk1Q0N1d3VzTmtYZkl1UElYZWFKSXAtd3VRMm94QVpQeGJiVVhfOW5weUZqSUVKQTh3aWtDNGJVeHBOUUNIRjBrazdYWlNWX3QtenhXenFFZGU3d0M0RlRMR1cyUno0SExvcGtYaTRmQTU3cUhWTGtRQ3hadGJiRl9EczNJZmloN3lrV2ItQQ?oc=5)
+  Source: Forbes
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic Buys Stainless To Cut Off OpenAI And Google SDK Access](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcm9CNUxQbUJBQ0dpaTRvamlHU1k2OHJnZW91X1FUcWlfWUlhZW9fNy1Ta3IzMmpVc0lvYVNCR2hVYnNFQ3hwd0Y0RnY0UnpJVnFFMmVOaWFnRTR2VkhaNXp3eDc3SFpWT1h4eEs5dXA1UF9uLW5oTURSQXhFX0hsVHRGSTl1Z1k4bjVxS2pPQmJYbklFN21CS1BwdGREbGg0X201ekdsbFRwR2w2Um1YM0RYblpEaFVv?oc=5)
+  Source: Forbes
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Sam Altman beat Elon Musk in court. Now OpenAI's rivalry with Anthropic takes center stage.](https://news.google.com/rss/articles/CBMigwFBVV95cUxOOVNrSlhGdFNDblBqUm8xcTVxajloUW0xbTZWTjgwX3JiTFN4dXl3dWpZNmRLdi1tb2FyYXh3QzFFSFBZcUZ5UnBSUXdjbFlzckZaczJNRFBCSnhJaGJ2UDJGWExubTRaN291c1k2akg4NTVsOWNJNDFuMEd0eFJyWHNvTQ?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Where the former Google executive who backed OpenAI and Anthropic is investing now](https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1kyR01lRy11VkhtMjJLWHNKWEd2U1liaFF1d2F6cTBnemlsWFIxem9Uc2tuVXplQjlYNmU4dzlVci1ZVGdXMmxNSlExR1NXZTcxOXBiR3M3T3lOMTJTcXRBbURXQW5WckNQMnNyUDI4UHBCRHU3eGM3bUtENjdzekd1NlNEYmlacV9EXy1ZdlN1QTZJUjJpaVpCbU5RZk5H?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Chamath Palihapitiya warns PwC and Accenture against working with OpenAI and Anthropic](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQjA4NjZFSFVMclFtQmZRSnBJM3kyTC1JdFhTWHVPYWtYQmtzVlBnZjl1MGN5Y0JIano4dDl0WS1LQlZYVFBzQ3JoVDBPMGh5UzdPenQ5bV96VTFhWTNMUDdmN1lEazBubzQzQXViS3JGZ0UzY2poTmk1MkhEXzNuSUY4eWxxanY0THpBd2o5UlJkSGRtV1JTWlAtT0ZSSGM?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI gives EU new cyber model access but Anthropic still holding out on Mythos](https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
