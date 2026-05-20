@@ -1355,3 +1355,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI gives EU new cyber model access but Anthropic still holding out on Mythos](https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html)
   Source: Hacker News
   Implication: Model quality and capability shifts are worth watching for product planning.
+
+## 2026-05-20
+
+- [Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic](https://news.google.com/rss/articles/CBMiekFVX3lxTE1oM0xhc3gzR1phR242UDVKSjFyN2pIQXZ2VHRobVNVVElHVWVFbG5hVGF3Q0VUWGliZDhLemdWa1ltRmZ2TlBuTVFOX2hyZ0JaRzhZSXFlRWtZcHZuZ043c1JIUWdlOHRtVmxrVGZCdlBzTUpwMnlUdk9B0gF_QVVfeXFMT09kbmg3TlRTbllJdGJVbF8xRzd3T2lUYV9ycmxBYnN4azJjOThzWXFvU2NBV1JNMktOOEtDUm9xb3V4d2pVVTRCNTVNcVc3UlhHNUk3bWhBVTl6YkxVeU91U25lVmJuWEVCRzBwcGFITkNmYi1UdVBlbVo5dUVmZw?oc=5)
+  Source: CNBC
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [OpenAI co-founder Andrej Karpathy joins Anthropic to double down on LLM research](https://news.google.com/rss/articles/CBMigAFBVV95cUxNeGtWdWFmVnh0MXdnbjdTVHZtN0lsY1hrMkh5djdTTGxmbzVFWWhvQTg1UUlpVFZYSUhqRnZUR3llaXNuZW5meVU1LWJGbkFtX0JPUTJoRXA3amNZdzlUNDdBUmlEbURiYzEtUndvQVNYR2MzWkxjOXNRQVQ1MHhKQg?oc=5)
+  Source: Crypto Briefing
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Prominent AI researcher Andrej Karpathy picks Anthropic over former home OpenAI to get back into frontier LLM research](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSGYwN25WS3JLWTA2RTBBYk9QUzBCZTNSc2o5dlpqZFl0ZHZUVE0zR2gyWWF3LTNYTnZvVUNWUUpZbnpRcFlZYklxaWVIUG9LTWhyWXVWLW1pb19uUnpGVDlpdk1jWEJjNWxhMVJSaGpMVUZJZkpkTkJIZmNFd1BqbDA3RFRzTC1DT2xMX05pTUNpV2VZWXFwZ21OeFBldG1xS09mbm5FRFo4dGY1a0JlaGp5Ty1aRVRxVm5NRzhzOHdZb3FyNjFIc3hTTXlkRFJ2ZHE2OXJDYXZCTms?oc=5)
+  Source: the-decoder.com
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Andrej Karpathy, OpenAI founding member and inventor of ‘vibe coding,’ defects to Anthropic](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZHJDMVNVeURQWmd1S3RuSjR0LUYzanlRa0FYMEFkTG9pdlJtelcwTTRvN01pWnZDam5jVG5fSkROSHZ6RFQ2SkhaYkMtNXUyX0RpWlFKUG8wYURUbVFuR2J2RGlMLXRUSmpmenhmZGpzY0tYQTVoV1VWbl9iMGU5NmU5ZnhuSE5sZ1ZvcmYzakQtREV6VXRSR3JOcw?oc=5)
+  Source: Fortune
+  Implication: Developer tooling keeps getting more automated and competitive.
+
+- [Polymarket launches private company trading so investors can speculate on Anthropic, OpenAI](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVNKTmo4MnZVNXF0Q0E0T3g0cXpwOFBtdTFXV2FwYmpxWlBLbWhzSWJHME5yU3NGcDRHWG11djFUQ0tBaWhwR1dIa3lSME9JZFBhUTRvZzNUb1hFYWhZcVNXWFBBVmtoMUtVVkRtRkxEUXd2RFRjakVWenBLZEFaRFBOSlA3NmJrVDAwdmhTcmwwVDZUZTNRbnBvaHRWSHFzVS1BV3o3bEFpcTVDRVlxMGQ4eld2Z1JGMnpHYURrOE9TOVV3OVHSAcsBQVVfeXFMTWVyVTI2THEtRWZwRGF1OVhOcVJpNzdKaUk3Z09YWmdfUE9tR2VJOTBieDQyU0lKT09SY3l6NURMTkNURWpaaTRNMXg4bTVTT3pNZzFSdnZXMWtMbjUycFZfbEpwSUtzTEd1OXZHbG8zUkpaNGtBYTVFUzZ4cUlrSlJ6QXNnVTd1NEVQSmxoa3pTTHFUU0dJOHNtU2V6N3dqYUZqa3Z5SmRTWkg3elFnRXRmTTB0aXR4QThLcUdnS01mcm5oejFsZ2ZjM0U?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Why Anthropic hired OpenAI co-founder and Software 3.0 proponent Karpathy and acquired the dev tools company Stainless](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaHIzcXc5YTFRUVNzTjRURnNkX0RoczdGQnBMenhpNUo4aDVzbFVISHA1RTNiS0g2aGFzeVo1Q3NUX0ktcFhXaFJRaG92cTRGd0ROYmlnSzFRcFN5aVI2YTNBNVRxLW5WZWpZcS1BZTl4N2NqSE5SY1NTdHVlZU5uR09mZlhLR284cVZZdkUtdm9KMHl1NlRkcFBRSEw4Q2NDMWo0RzVsZDZPdU9kdDNXT1dWeHMwSVhZd3RES0g5dkJmLXV5LUxkcUlZSkRxenVJWHRROHB6d1pILTF2OVhFeW9PWQ?oc=5)
+  Source: R&D World
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlpFQURrZkZvSy1Ja0tFVm5tQ1cxMmk4ZF9UeHRyMC1lcnhPc1MwWUpSUDdqUDRpLVBEb1VIZVVZeHhzMm1pMWM5SHFvSkNDeC10c2lqV3ZkdVM2MGw0RWlFZHBOWkV3U0Nla1pOTU1fZ0RUclRwTEtOd0hGNHBPSldDOG1ZbzhHOENSeTNtXzhoYzBHaTZRUUU0WFJOU3ZFOHNBOEd5dmhNYzJPcTdtS24wQ3hCT2s?oc=5)
+  Source: TechCrunch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
