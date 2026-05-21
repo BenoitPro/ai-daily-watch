@@ -1385,3 +1385,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlpFQURrZkZvSy1Ja0tFVm5tQ1cxMmk4ZF9UeHRyMC1lcnhPc1MwWUpSUDdqUDRpLVBEb1VIZVVZeHhzMm1pMWM5SHFvSkNDeC10c2lqV3ZkdVM2MGw0RWlFZHBOWkV3U0Nla1pOTU1fZ0RUclRwTEtOd0hGNHBPSldDOG1ZbzhHOENSeTNtXzhoYzBHaTZRUUU0WFJOU3ZFOHNBOEd5dmhNYzJPcTdtS24wQ3hCT2s?oc=5)
   Source: TechCrunch
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-05-21
+
+- [Polymarket launches private company trading so investors can speculate on Anthropic, OpenAI](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVNKTmo4MnZVNXF0Q0E0T3g0cXpwOFBtdTFXV2FwYmpxWlBLbWhzSWJHME5yU3NGcDRHWG11djFUQ0tBaWhwR1dIa3lSME9JZFBhUTRvZzNUb1hFYWhZcVNXWFBBVmtoMUtVVkRtRkxEUXd2RFRjakVWenBLZEFaRFBOSlA3NmJrVDAwdmhTcmwwVDZUZTNRbnBvaHRWSHFzVS1BV3o3bEFpcTVDRVlxMGQ4eld2Z1JGMnpHYURrOE9TOVV3OVHSAcsBQVVfeXFMTWVyVTI2THEtRWZwRGF1OVhOcVJpNzdKaUk3Z09YWmdfUE9tR2VJOTBieDQyU0lKT09SY3l6NURMTkNURWpaaTRNMXg4bTVTT3pNZzFSdnZXMWtMbjUycFZfbEpwSUtzTEd1OXZHbG8zUkpaNGtBYTVFUzZ4cUlrSlJ6QXNnVTd1NEVQSmxoa3pTTHFUU0dJOHNtU2V6N3dqYUZqa3Z5SmRTWkg3elFnRXRmTTB0aXR4QThLcUdnS01mcm5oejFsZ2ZjM0U?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI co-founder Andrej Karpathy joins Anthropic](https://news.google.com/rss/articles/CBMifEFVX3lxTE9UcWNHT21RRk15dzlSTTRBOGlOdmE2RHVFUndyS3lfcXpJV1lQQ2ZoTXF5VFlSZk9QLUJxNDJTQUM0c2RDLS1BQ3B6WXdiNUp1aDJEdXRGX25jQi1zdDVvVFprNG1iWWNLNGJpUzZuSFF5a3liUkZOSEt2dWY?oc=5)
+  Source: Axios
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Andrej Karpathy, Tesla Alum and OpenAI Co-Founder, Joins Anthropic](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVd6ak5QblllM2NCbS1FVVozWnU2SUJCdDBCcUFjYjVWaS1SQnNuNnM0QVI4Z014RUJONnZCT0dBMWIzSTFieU5WZUN0Q2FQZHRueU9DQXBaenQydnFVWUxyV1l6QndWRjhQUkpaWTdJYkxsSm9FY2Y4MEZPY2VMSVoxdWJnWUFPY1hKcEVmQXhEREVKNDdFazhNVGFNbDN4WTQw?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI Cofounder And Former Tesla AI Leader Andrej Karpathy Joins Anthropic](https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3JMVC1qb1NRZjF4cDZUWEFTMHBCOFBvXy1ydTJjdXdlVFR6bjF3OEpIUFFxWWxxX1BaTmpTRlhiWW1YUDQ2U3ZzaXdPX2x2cEYwMVN6NEU2SmlYVFZhS0hEc2JIbGpNa01LUC1DMllEOGpnNmd3R2FMMFV4aFdRSWM1Z0NhbXN4MWV5TDVYendXdzk2aUVCeGppNmFZV0VlakloVEwxMG9zb1p2MTVGemczd3FqR2tEdDlKZ3p3dWpBb21rbVE?oc=5)
+  Source: Forbes
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI co-founder and former Tesla AI executive Karpathy joins Anthropic](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVGY5aXh3VWF5NnFfXzE0ZGlXUlFWMjZZd2Fma0NncENURmhIbWF3SHcwTjhON0E1dGNYS2NBZTJwaTNQUEllSnNDWTk5RmR1dXl4XzlEbkNTRm1PM3h4RklFYnZlYS1yTGdlaW4tSndtN1BXQnJ0TFF5YUJpRnR0dFJfbm1uSjM3VG1kUXpjOHBNUk82WVEwUjFwVHhtWngtQUxtQldJakpUSWFueFRkdzVBX0NsV1ZSSUprcDhFOVRiNjR3OXRvODIzbWpfWFNVQzBlejV1SWtiRjlpMXlF?oc=5)
+  Source: Reuters
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic surpasses OpenAI in enterprise adoption amid rising compute and cost pressures](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaUZiU0VGdVByeXUwVEFNbDBIdXJvTlEtZ2Nwa3h4eDJPS2twcUhyZERGc0JDMFNPVXFzM3U4ODZueFlOQmVra0NObmZLcndXYXVGcmFUcFowbEh6NDhITldHUks2aGVlSnpRSzB4RmNXLVRzMmprRDR4a2w2RW5PVzIzY1VuRnh3bWVlNF9tMA?oc=5)
+  Source: digitimes
+  Implication: Compute access remains a strategic constraint in the AI stack.
+
+- [OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team](https://news.google.com/rss/articles/CBMipgFBVV95cUxPaF9JTmlDUzMtSlNFM3lhWVdTNFVjMjJtQXlYNXpUUVFOU3N6SWFUbW5wUGpoYVI3SWhuNDctQ2ljaWJjb0RRQ0pYMzZFNmFSdXF5UXFxUVowZTdMUm9HNlM3dk1OOEotR2FIQkIxMkNrdy1UOEZ4ZFRxQTNpbVJjNl9leGVQUFF5dndSU3BVdTd4RFlJLXZmOXRJT2c5aGYtNXFBeFBB?oc=5)
+  Source: TechCrunch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
