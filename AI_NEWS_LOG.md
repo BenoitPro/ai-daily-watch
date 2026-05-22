@@ -1415,3 +1415,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team](https://news.google.com/rss/articles/CBMipgFBVV95cUxPaF9JTmlDUzMtSlNFM3lhWVdTNFVjMjJtQXlYNXpUUVFOU3N6SWFUbW5wUGpoYVI3SWhuNDctQ2ljaWJjb0RRQ0pYMzZFNmFSdXF5UXFxUVowZTdMUm9HNlM3dk1OOEotR2FIQkIxMkNrdy1UOEZ4ZFRxQTNpbVJjNl9leGVQUFF5dndSU3BVdTd4RFlJLXZmOXRJT2c5aGYtNXFBeFBB?oc=5)
   Source: TechCrunch
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-05-22
+
+- [OpenAI, SpaceX and Anthropic will reshape how investors access artificial intelligence](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQzRRdDk5UDNRZzBYX0x6dnhCQWZvbl9Xa0JLQ2lJem9LRDViajFtYXZCV3h0ZmhlMzgxbkptOVVmN2JNc25KeS1FRWRiQ2lqUGJYeTRtUDhyUGp6M19TaWExTTdkSnczRFJBUnMzYk01b19TSWZ3SWhjb19Oa0sxQWQ0UzVkUXQ0RXFUR19OdlZiZWtfeW55LWNoazZydy1GWjgtXzhyd0VpbER1Yld5WDFxaDhFVlRvUjF5Wlo4eGZ4X0g2aUNYSUxvRlVmVWpPLXdxdXM5cUw0aG16YjJPNlpHVHQzczVxVHlmSg?oc=5)
+  Source: Proactive financial news
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Checking the math behind OpenAI and Anthropic’s latest headlines](https://news.google.com/rss/articles/CBMieEFVX3lxTE12c2d3dnR1WGJqTmNoOXQwMFRqLXVPV0tFeE1fM3VCX2lEdFFmeXp2RkZKc0lYbTNldWg3WFdxSVpiemNlRUxhTzBKbDZfR2tKTkwteWUzQlVfZDZoX293RU1aQk16T0NOSWkxc1p1UnBJS0lfM3dhZQ?oc=5)
+  Source: Marcus on AI | Substack
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [‘Fast entry’ SpaceX, OpenAI and Anthropic IPOs to ignite Wall Street trading frenzy](https://news.google.com/rss/articles/CBMihAFBVV95cUxNNmhPeGFZZm81b2RhZFFWMDdJNXVhM3I2ZlFNM1NCYVZ4VjFnZ1ZRaFdrdFZaWmh2bGJJRXBKLWM0d2xPRVFvWGs3eUxDTGVnZS1BT0ZPajFXR25FOWJPMTVGZHBFb0lSbXBSeHJYdmM4MWFKMTVuZHVXLWJRUDZmQ084a0I?oc=5)
+  Source: Financial Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI co-founder Andrej Karpathy joins Anthropic](https://news.google.com/rss/articles/CBMifEFVX3lxTE9UcWNHT21RRk15dzlSTTRBOGlOdmE2RHVFUndyS3lfcXpJV1lQQ2ZoTXF5VFlSZk9QLUJxNDJTQUM0c2RDLS1BQ3B6WXdiNUp1aDJEdXRGX25jQi1zdDVvVFprNG1iWWNLNGJpUzZuSFF5a3liUkZOSEt2dWY?oc=5)
+  Source: Axios
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Will SpaceX, OpenAI, Anthropic Mega IPOs Break The Bull Market? ‘Big Short’ Investor Michael Burry Doesn’t Think So](https://news.google.com/rss/articles/CBMivwFBVV95cUxQaXRWZmZxaGlCR25xQk5LeU9iSWM3MlpsbkNVNjU1OFRFT0RlSkJockNsU2dmSnhQRXFCbjlpZFoweWJHLXRKd1RKajNqcXRXUEJSaGJpRFZwTkN0YXJKSUxCOFFZV04zeFdwTEZVOXF2Y1ozLXJSR1V3Y29aSEpvVERlTEZiaFY1aVVXaVQ1NzNhVkE3WlVaR0xPeGZNd0NobjF5eHgxU2xhcUJwUTJLSFpsSGJ3dVhjR0Zid0JzYw?oc=5)
+  Source: Stocktwits
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Pre-IPO, Anthropic Shows Up OpenAI with Surprise Profit Projection](https://news.google.com/rss/articles/CBMivgFBVV95cUxNSW9PMFpHOWo3T2VKVDBRVzFDQnlRczlRTVZPT0tZTlZLRHVrNkJuRkRkczFTc1JlNmxSb1UyRW1FMkp3Mkl2Z1MxVklzR3gtRUNGaG4zM3J3Q0F0NFJvYm9oNmxpM1k4VmhlYVFJZl9RMDdBajdkSVFwbTlfdi1XT0dKNVFicTQ2U25kbkI1Vng1MmVlcW95M3RLdWlJMFhfUDhabUR6SU5kQUE2azBQNkluVE50NW00MmpIbXZB?oc=5)
+  Source: The Daily Upside
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI will be pressed to IPO before Anthropic, says Big Technology's Kantrowitz](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSmRFZk1FdHhkdG96cXdiZkRpMVVRRGVFbHVwRElMd3VIQVBZbTg1S0k0LU50d0lhSkhHQUE0Z0RLUHI0ZENER2syMk9fYVdqakZPeUs3SlpiLXNrM08wbXpTSVJVUm5PbEQ2T0RHZ2xKdml6aHc4N0U2WXhUYzlaZ2Rya3d2WDRUd3R5cTlIbEdYMTFSUGJ3T3h2Sy03MVB1WHVaRngxd2N0N1hMOUVfSVRabU9qME1ySTkzRnp3?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
