@@ -1445,3 +1445,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI will be pressed to IPO before Anthropic, says Big Technology's Kantrowitz](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSmRFZk1FdHhkdG96cXdiZkRpMVVRRGVFbHVwRElMd3VIQVBZbTg1S0k0LU50d0lhSkhHQUE0Z0RLUHI0ZENER2syMk9fYVdqakZPeUs3SlpiLXNrM08wbXpTSVJVUm5PbEQ2T0RHZ2xKdml6aHc4N0U2WXhUYzlaZ2Rya3d2WDRUd3R5cTlIbEdYMTFSUGJ3T3h2Sy03MVB1WHVaRngxd2N0N1hMOUVfSVRabU9qME1ySTkzRnp3?oc=5)
   Source: CNBC
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-05-25
+
+- [What Anthropic and OpenAI launched in 72 hours has Wall Street paying attention](https://news.google.com/rss/articles/CBMifkFVX3lxTFBnU0N4NlFteG9Ja3A4Q1hOa2hySzVzMkZWcXNhNl9MTjVPTF9qekVhdWJJV1NwaTZxdE9tVzJCSHdPcFkzT2hlZDBjN0tKYzRGZGU5d1dod0EzLWdhUTF4cGNUNWg5eHRaLU5LdEoyRm9NNjdIb253RUJ4WXZsdw?oc=5)
+  Source: The New Stack
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom](https://news.google.com/rss/articles/CBMihAFBVV95cUxOVi0xbFNHeUNkRXItRE1uQmdVQmx4RHU1T0JkUlp0OE1sUEFBR0VNLUlhRHBHUlVYcmNOYm1VSmtHM1hhNS0xZGp2dmJnVmtia2tSdGVvZ2hkQTVSLTNlN09hMjZXZUZNaWZfWm4xeFFoRFpFUEExbVFOLXptZG1Od0JYSV8?oc=5)
+  Source: Financial Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [SpaceX, Nvidia, OpenAI, Anthropic: We just got the latest harbinger from the 4 horsemen of the AI age](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbExTMlNUczZxT0hDUkpFRUt4MlBnMjlLNGJHc0RiaWpzOGVZZURhdnZXMDEtQ2NCZ1dMdXcxUU1XcTM1YlpSSzh4a1ZDelJLOFdNUWVGakMtWExSMkZ5bFQ1TDRTVU5EbEZ5R2l0LWhLc0FnTjd4VmszZ1hDYjdGdlJMdEEwdkg1VVpiSUYtVWYtcUZLaDdVZ093?oc=5)
+  Source: Business Insider
+  Implication: Compute access remains a strategic constraint in the AI stack.
+
+- [How Vibe Slop And Fragile Economics could impact Mega IPO for OpenAI and Anthropic](https://news.google.com/rss/articles/CBMizwFBVV95cUxPcFZPMmxIZ1dhdDcwQTB2dV9VTjh6dXRCV0VRMkVVLVlnY0pDR0JFc1ZfZkdiTFFMYjNtZjBZdEQ1MTdmYnFHeFhTblJPN21Ea3BZdlJrQ05PS1doWmF3akxRMWtCa3JFQWxEamtSVGs4QU05M0V0V3V3c1g1YUdFU1NRRU5DU1g4Y2hoNDBzZkpfR1Vfb0JXbGtzWnZvVzhpOXBMa3dNNzlHblpBejhWeUhBaWhkQXBEYTRVel9KQmItYXctQlJQOEthWEVsVkk?oc=5)
+  Source: The American Bazaar
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Fears and frenzy mount as SpaceX, OpenAI and Anthropic prepare for a $4T AI IPO wave](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUXg5ajRwN0xMTnp3LWtiUUF2endNWmxjQjdCLTB3c1M3UGd4QTR4NkRTZlpRVnRKRTBhWDFUTzZXdlNndW9nV2Q5dDExQ0RLQmpVUzkyczdXSVJqbEJwdkZzWms2ZFNic0pSUEdST1dGRWxoVTJVMUVXblczOC1LM19QVjZsRkJOcWhYaXcyZS0yQUY5TkRWMTJXa0U3b0thajY3dUIxVEVlWWItZEk5MVlzanpDVGdJZFdJdmZTOWwwMkwxU2ZUQU11QVFxQlFhQ1RudzFB?oc=5)
+  Source: TradingView
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic’s $300M Stainless deal lands hardest on OpenAI and Google](https://news.google.com/rss/articles/CBMia0FVX3lxTE1kUmFHekdnTTdpUXlGQzBBZTFNaEZHcHVVU1hYZ1VhcmNockxMZXd6SzZWb1ZWSUxFMF9tN05KWmNRek1NNjhzMk9WVmVVSzdXZDQ2eU03akdWNS1XZDh5a3dZSDhJVGJKMzE0?oc=5)
+  Source: The New Stack
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic and OpenAI race to embed engineers inside Wall Street workflows](https://thenewstack.io/anthropic-openai-wall-street-ai-agents-developers/)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
