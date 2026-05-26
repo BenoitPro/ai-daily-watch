@@ -1475,3 +1475,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic and OpenAI race to embed engineers inside Wall Street workflows](https://thenewstack.io/anthropic-openai-wall-street-ai-agents-developers/)
   Source: Hacker News
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-05-26
+
+- [What Anthropic and OpenAI launched in 72 hours has Wall Street paying attention](https://news.google.com/rss/articles/CBMifkFVX3lxTFBnU0N4NlFteG9Ja3A4Q1hOa2hySzVzMkZWcXNhNl9MTjVPTF9qekVhdWJJV1NwaTZxdE9tVzJCSHdPcFkzT2hlZDBjN0tKYzRGZGU5d1dod0EzLWdhUTF4cGNUNWg5eHRaLU5LdEoyRm9NNjdIb253RUJ4WXZsdw?oc=5)
+  Source: The New Stack
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Chinese AI rival hits OpenAI, Anthropic where it really hurts](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTRMV1NhbVJvSzhNTE9jZ3hTSXctZzQyWmJCaWZUNTRGN0Q3c3dvTFlPSURoUFc2WndBM1hKdzVhN2VjV1VmQkYwVm4zMEdTMWtjR25mRzdPcFh6RU0yNUE2cmRRc3FRRG5QY0FneFg3b0MyWG5sd0FNWU0yTC1wbWEzX3JwRmlPVmlXcW1GaGJtX1ctWE9BRER3?oc=5)
+  Source: thestreet.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [SpaceX, Nvidia, OpenAI, Anthropic: We just got the latest harbinger from the 4 horsemen of the AI age](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbExTMlNUczZxT0hDUkpFRUt4MlBnMjlLNGJHc0RiaWpzOGVZZURhdnZXMDEtQ2NCZ1dMdXcxUU1XcTM1YlpSSzh4a1ZDelJLOFdNUWVGakMtWExSMkZ5bFQ1TDRTVU5EbEZ5R2l0LWhLc0FnTjd4VmszZ1hDYjdGdlJMdEEwdkg1VVpiSUYtVWYtcUZLaDdVZ093?oc=5)
+  Source: Business Insider
+  Implication: Compute access remains a strategic constraint in the AI stack.
+
+- [SpaceX, OpenAI, and Anthropic are all going public. Your retirement fund will have to buy in no matter the price](https://news.google.com/rss/articles/CBMipAFBVV95cUxQa0ZjYmhBeVdCWldVVm1tYzBhV3dheEc1bVIxRGlpVGVYNHBmZGlmUHFab245VUJDRFMwMXJxdFppS3lRM3dBZnVxX0JSamdibnozdFlxNG9EeEc0aGZ3bmF0eElSNnRvcHpCaDhoNWpYZV9LbjI0YVQwbVZhRUFKcUtrTVBVUVo0SkdyeVdmcDdVdzFlcVR0WnBxWXNTZU1pcHpoWg?oc=5)
+  Source: marketplace.org
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic and OpenAI race to embed engineers inside Wall Street workflows](https://thenewstack.io/anthropic-openai-wall-street-ai-agents-developers/)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic’s $300M Stainless deal lands hardest on OpenAI and Google](https://news.google.com/rss/articles/CBMia0FVX3lxTE1kUmFHekdnTTdpUXlGQzBBZTFNaEZHcHVVU1hYZ1VhcmNockxMZXd6SzZWb1ZWSUxFMF9tN05KWmNRek1NNjhzMk9WVmVVSzdXZDQ2eU03akdWNS1XZDh5a3dZSDhJVGJKMzE0?oc=5)
+  Source: The New Stack
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom](https://news.google.com/rss/articles/CBMihAFBVV95cUxOVi0xbFNHeUNkRXItRE1uQmdVQmx4RHU1T0JkUlp0OE1sUEFBR0VNLUlhRHBHUlVYcmNOYm1VSmtHM1hhNS0xZGp2dmJnVmtia2tSdGVvZ2hkQTVSLTNlN09hMjZXZUZNaWZfWm4xeFFoRFpFUEExbVFOLXptZG1Od0JYSV8?oc=5)
+  Source: Financial Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
