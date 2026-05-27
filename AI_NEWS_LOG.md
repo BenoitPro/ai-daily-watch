@@ -1505,3 +1505,33 @@ Daily AI watch entries will be appended here.
 - [SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom](https://news.google.com/rss/articles/CBMihAFBVV95cUxOVi0xbFNHeUNkRXItRE1uQmdVQmx4RHU1T0JkUlp0OE1sUEFBR0VNLUlhRHBHUlVYcmNOYm1VSmtHM1hhNS0xZGp2dmJnVmtia2tSdGVvZ2hkQTVSLTNlN09hMjZXZUZNaWZfWm4xeFFoRFpFUEExbVFOLXptZG1Od0JYSV8?oc=5)
   Source: Financial Times
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-05-27
+
+- [Anthropic Is Likely Generating at Least 35% More Revenue Than OpenAI](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1J6ZGhQeVdUUklFVXZxXzJpUWVkeVBuZzh2blhPc1JyMDBwVXJoMmQxZXZkcDNHanpRT19zdS10SDlIdG9QYnl5ZUtpWHViUlQ5WGhSdnBFT1pSdUtvVFhrOVFVZmFINjhkb1BzMERIaFNfYjRQd2ZrWUgxUDlwMVNTYjBTeUVubEtXYTJQcE1PNEoxUGk3YUZjS05mV0lmSzFwdC1pQi1sRnc?oc=5)
+  Source: The Information
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Space X, OpenAI, Anthropic IPOs Could Mark The Bull Market Top, Mike Novogratz Warns](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMU00UENoZUlaWHVVUl8zOVRSM0pod2FrMm9VM2ZqSlBEem91X1BPUlpxVkVuN1pFbjlKb3BRd0hwaXZmOU9leVNMd0l6VURYbEt0U0F6WDZfR2NNZE8tRjROdDJ1S2tKcnhic3A3UC1BTVhIbkJKVWx0bGRCbWw2QktEUWVwd1g4SlI3STFzdzd5TkVROGdGT2NMbFJqeXJpWmgxSjVIY0hYLVFNdzJxUHZaRlB5cUNaUklUYVBmaExFZ2pWX2xuM2U1Mk1sZHMyOVNDaE45eXdkWXZxMXhYaGtR?oc=5)
+  Source: Benzinga
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic and OpenAI race to embed engineers inside Wall Street workflows](https://thenewstack.io/anthropic-openai-wall-street-ai-agents-developers/)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic's Claude Mythos, or a model like it, to get public release](https://news.google.com/rss/articles/CBMidkFVX3lxTFBwNUtpeTNOcWVyWHRSOGRRQkpYdGhKQ1cxd0M5MEs5cFVoQ1QwZnZPQ1gtWk5zbWMtTjR6a0lmR2FxN1hXWHh3YTBBcGVDdWN2cktDM2lkLWdfcm9kbEZsN2NMb19SdEJYVTM2VXRPaklnNnFrbkE?oc=5)
+  Source: Mashable
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic’s expansion of legal AI tools is good for lawyers, experts say](https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5)
+  Source: The Global Legal Post
+  Implication: Regulatory pressure is rising and could change shipping constraints.
+
+- [Indian government tests software vulnerabilities to Anthropic’s Mythos AI model](https://news.google.com/rss/articles/CBMigAFBVV95cUxQTkpaMFMzYWo4Z2hHSF9XSG1rVHdjcUxMdUI3Q0FkYl8wNVF5VkFMM3V3a3FSLUN1d3g0T2R0N3IzZHpUS1EwOUVpLWRGeWQ2cDEzanpaTl9oNjZhVFMwVlp3UjZEOHNWRXQ1MjQ1NDZDRTZ2Uks0cnc2dWFrSXBTVg?oc=5)
+  Source: Crypto Briefing
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [How Anthropic Aims To Expand Access To Legal AI Tools](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ1NmamJXY3lDVnpDME93MXJBYnlxM1MwZDU0U0EzMHd6TzRTbF9MNEFhYnJEendSZ2o3eUtIVS10SnlBMzU3dVgwZzhQcmpnQWdydU1FWDRDMnhkVWszWUN0Mmo1OHg5S3k5Mzk0WkwtU0FmWHBkVXo4NWc5WjVIQ1hxTW5HR21WQlJ6bmdFbDNDZkhYWnNsa9IBXkFVX3lxTE54Wm1paXBkVGtzXy1fNVZIYzVncU9SSndEcDBtNDMzUWpzRTFpc2tScGpRZm1zMzlZcFpLc2c4Vlk4aHdQbTk5NFFqQ1pfdVhVVl9Yei1veXBsTTAzR0E?oc=5)
+  Source: Law360
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
