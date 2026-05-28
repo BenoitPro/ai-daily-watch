@@ -1535,3 +1535,33 @@ Daily AI watch entries will be appended here.
 - [How Anthropic Aims To Expand Access To Legal AI Tools](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ1NmamJXY3lDVnpDME93MXJBYnlxM1MwZDU0U0EzMHd6TzRTbF9MNEFhYnJEendSZ2o3eUtIVS10SnlBMzU3dVgwZzhQcmpnQWdydU1FWDRDMnhkVWszWUN0Mmo1OHg5S3k5Mzk0WkwtU0FmWHBkVXo4NWc5WjVIQ1hxTW5HR21WQlJ6bmdFbDNDZkhYWnNsa9IBXkFVX3lxTE54Wm1paXBkVGtzXy1fNVZIYzVncU9SSndEcDBtNDMzUWpzRTFpc2tScGpRZm1zMzlZcFpLc2c4Vlk4aHdQbTk5NFFqQ1pfdVhVVl9Yei1veXBsTTAzR0E?oc=5)
   Source: Law360
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-05-28
+
+- [Anthropic Is Likely Generating at Least 35% More Revenue Than OpenAI](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1J6ZGhQeVdUUklFVXZxXzJpUWVkeVBuZzh2blhPc1JyMDBwVXJoMmQxZXZkcDNHanpRT19zdS10SDlIdG9QYnl5ZUtpWHViUlQ5WGhSdnBFT1pSdUtvVFhrOVFVZmFINjhkb1BzMERIaFNfYjRQd2ZrWUgxUDlwMVNTYjBTeUVubEtXYTJQcE1PNEoxUGk3YUZjS05mV0lmSzFwdC1pQi1sRnc?oc=5)
+  Source: The Information
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI and Anthropic dig in against each other on AI jobs apocalypse](https://news.google.com/rss/articles/CBMib0FVX3lxTE1kNmxnTW9Fc3lrMnV3RHN4WmtQV2VwRGVhdEdGd3RKX25hYXZVWVlNR0JKamFYVVFoMjhXQ1ZXME1hX0JYODUxb0dsSUpFdHBaY3BKZUJ6U0R3dllYRVRtN1R0LUlTWXgxNlo4U25NVQ?oc=5)
+  Source: Axios
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Fujitsu expands AI strategy through collaborations with OpenAI and Anthropic](https://news.google.com/rss/articles/CBMizAFBVV95cUxOZWV1N3Q3b3V5LTVsdS1WdzlBYmNDdXJhS19wLTFMbTdUMXNIOGJCc1hMWEFrT1RHN3FmeWdZWGFKRjNlR25LdDF4LXNWNk4tbjRRMXRsVklfQkY4ZG5MSXFleTU0NHVGOEpDcXZ2M3lfVzQxVW16WTJYWXJRTDZJYXhrYV8zOUVUVUtKeFBpR2lONGlCN25LTEdyb3ZOVXZBdG5GVXFTcGtscERRbVZJNHdHM0tWVUFFNEs3ZHk0MU8xODZYaERCaGJnV0M?oc=5)
+  Source: PR Newswire
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Is Microsoft ditching OpenAI for Anthropic?](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZnVQQ2VoRkpPaHZwelBQVUdHeXJZbkNqREJieHRKVUFNNThOdGRISTVka1JSUmF6S0xGTHlIUUdqR0pWVjdBU29tZFZWdHktRVM1NzJDQmc0dDFPUGVlbDhrbERSYlFGSGVWMWxJaHUtUFBibmQ2Vk9SQlRkZjEwdHNjNWp6M2wwZWJVbmVR?oc=5)
+  Source: MarketWatch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Fujitsu announces partnerships with Anthropic, and OpenAI](https://news.google.com/rss/articles/CBMilAFBVV95cUxPMkxjNWFYU013dWxFdF92ZjhubFFEbmstZHcxMkJwU0FTdHBVR0dsTHVmTk01RENRUmk3OC1yNjJMaUZGck1jZGFRcTZDQmQ0SzZlQTdITTFsaU03aHZRbDFqbUJQWm8wNHlueHROZFFmWHhYVEN6YlAwNVV3Q3hSc2hkWUhEWF9Hc2h1UzlKVmRadkIz?oc=5)
+  Source: Seeking Alpha
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [The "scriptures" being chanted by OpenAI and Anthropic might be off - key.](https://news.google.com/rss/articles/CBMiU0FVX3lxTE95ZEtxQW55VzhMOFZqN1ZyUnV3STU5T3ZsNG1YM0M2WjhVMGd2c2Y0MFZfZ0xqV3hKc2ViZXpqSXE5OW9KRHhxQjhldkR5WjRyamM4?oc=5)
+  Source: eu.36kr.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Bitcoin Falls Below $75K – SpaceX, OpenAI, Anthropic IPOs Are ‘Draining’ Liquidity From Crypto, Says Analyst](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNT2ZkQmptdTJLVXAwM3daSWxPbGlSU3hyTE5XdURxcTlyVFhFQ2xDOV9nd1J5d0t6TG1CRHVMcGV3WWtScUtFSDVQY2phZC03X2ZQTG8wUFMyZWNhTGtLVDJYMWVXbXpJYmF3STQwb2Y1bjduWnRNd2FjRGt1YlhfYmxKajBEVlQ5dURSNFViOTktU3lNMEEzR0dnXzFyMV91TTl2UmFvZ2pLZVdrR0d4WmNTd3VhM1Y4N2xOUFlxTVM5dHhFR1JmZ3RZaElBODBDN3RhT0VzOFpHYlFmTFQzZmxhVExHNEN0OVlxczlwdkZVUQ?oc=5)
+  Source: Stocktwits
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
