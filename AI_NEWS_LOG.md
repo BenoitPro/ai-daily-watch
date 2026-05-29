@@ -1565,3 +1565,33 @@ Daily AI watch entries will be appended here.
 - [Bitcoin Falls Below $75K – SpaceX, OpenAI, Anthropic IPOs Are ‘Draining’ Liquidity From Crypto, Says Analyst](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNT2ZkQmptdTJLVXAwM3daSWxPbGlSU3hyTE5XdURxcTlyVFhFQ2xDOV9nd1J5d0t6TG1CRHVMcGV3WWtScUtFSDVQY2phZC03X2ZQTG8wUFMyZWNhTGtLVDJYMWVXbXpJYmF3STQwb2Y1bjduWnRNd2FjRGt1YlhfYmxKajBEVlQ5dURSNFViOTktU3lNMEEzR0dnXzFyMV91TTl2UmFvZ2pLZVdrR0d4WmNTd3VhM1Y4N2xOUFlxTVM5dHhFR1JmZ3RZaElBODBDN3RhT0VzOFpHYlFmTFQzZmxhVExHNEN0OVlxczlwdkZVUQ?oc=5)
   Source: Stocktwits
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-05-29
+
+- [Anthropic leapfrogs OpenAI as the most valuable AI startup — and drops a new model](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXRZcVpiZVlxYV8taFN1a3B0VF9vTmZia1dyRUh1Zk9VdVcwcExBbGNta0dwNnI2SlF0Qm45MHc4QWhWNzNRZDBzYkU3Q1VDblFYSjlPazJUX1ZFWG1IbHNiNEJuNGRvUGFtWDlFQXZnWGZxSE9jeWcwODZqaFZJMHhBeUJFNnk2M2twWi12V3V0XzNtNm9nSzFnZlhhT29IRnNZ?oc=5)
+  Source: Business Insider
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic Releases Claude Opus 4.8, Surpasses Value of OpenAI](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUdNd3NSTGhudERVQU1EN2FSNlZRVkY3WHFUUGRNVHlaQWE1b1hKLXlvN1VwakNGOHJVTmJGSWl3M2JJbGdHSmFhaHNrTTk4cW16cXUtQlh1SGcta1R2Tkh0Ync3eGkwMnU1SU9JczVFV3poYW1ydkNRMmNkaXl5RVdTVHBseEJlTHVJSTNjX25RQ3pEYjhQLTJWTTNNcUk3UFNSUk9ZZjNNQQ?oc=5)
+  Source: Thurrott.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObC1qZWhMeGttVV9CZ0kycnVLZlRaOUljLU1nTlRxcUF3TTY3MkZYNjJhWWxVVFdjcEZRX2VYZjczYklJc0RETzA2cURqb2pIR2JVVFh6a0hjUkpoXzQ3VGx4cnFGcG9WLWpWaWp3MDZDT0xGT3hHbVNsazJxaFBBVTk5X0ZCcUpidXBBXzQ2ZTdJMXMzRDNTaWM5Skp4RGc0N0dibUdHVXhRVU10UmVHNUZTUFpnSkw2R0tCUHpfQVdUM3E4b09PR0hERnpNVXZfM2Nz?oc=5)
+  Source: VentureBeat
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic Rockets to $965 Billion Valuation, Topping OpenAI in AI Showdown](https://news.google.com/rss/articles/CBMicEFVX3lxTFB3a3JRY0JjY0VPalNrZTNGWFVXTmNodEVCLUZEaUFneS1Kalo5UlU0QzZJcjdYN3ZFX0tlUVlMalJ0NjNZRV82c0NjSnFVMzg5OTQyZ0JjaDk5Zk5LMjQ2NE94VnQxWnRpcWpvUlJpVVU?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up](https://news.google.com/rss/articles/CBMiigFBVV95cUxPSi1XZmpReGJ1X3dWZ0JsQ1BHXzloYm93YjV2N09HX0VlRTFDa2huRE9jX3h6cWxQSDJDdVhnR1Awc01WZDRtVW13Zk50T3dINkJvSS13RkQ3WTM3d2NhRWpZWDV5VEhwV0FQMGRwNEJCdy1idFhIZXBqR3hUX0RHOHdEOU9lZU1GNXc?oc=5)
+  Source: The New York Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic Is Now Worth More Than OpenAI—Exceeds $900 Billion Valuation](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZWUnotR1JSc1hzdVRGeE1pSWFwYTc4SjFlX1dlNF9CN1hHdUhEV1pva0pRSWpqb1NTeGJhUWxRSUtEZF9iM1RidnM1bjIwTDZkdjRCdUVUdGI2S28wYXM1Ukd4bEdJTXlWQWpacFkyamdOeUxDTU5xZmhVX0NiR2tfaFZxd182d2hEc0ZjU1lWSkROYjlLdnEzSThqRWJLTThwRjNiNDdDWV9SaVlqV2lpbE9vZw?oc=5)
+  Source: Forbes
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round](https://news.google.com/rss/articles/CBMid0FVX3lxTE55NUFBcFNtS3B3SU9zTmxpZ3hkVlE5UXZqendEb1pIcTIzeXBuSFVLX2ZKSXF5cmljZThjVmFFcW9xVDAyUE5LRHB0WEdlMWtXdEp2ZERJME9PZEV5RkRSaHkxRzBqR2J2UHRTMUR5a0RlY0dVb3ZB0gF8QVVfeXFMTzVRMWxaakV4Z3J5WFA3aERDUm1EWXZDQ2pDS0NnVEFSd0VuelBOeXd3cHdPdWFNUXVIa0dVUm94X0MyTWFNNy00eEViS0hfZlNvOS1xT3dfNmh2MjNKYzk4WnJ2bDVwUER6NmljWFg1Zzk2aTlmYW43cklYUw?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
