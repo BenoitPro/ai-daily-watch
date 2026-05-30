@@ -1595,3 +1595,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round](https://news.google.com/rss/articles/CBMid0FVX3lxTE55NUFBcFNtS3B3SU9zTmxpZ3hkVlE5UXZqendEb1pIcTIzeXBuSFVLX2ZKSXF5cmljZThjVmFFcW9xVDAyUE5LRHB0WEdlMWtXdEp2ZERJME9PZEV5RkRSaHkxRzBqR2J2UHRTMUR5a0RlY0dVb3ZB0gF8QVVfeXFMTzVRMWxaakV4Z3J5WFA3aERDUm1EWXZDQ2pDS0NnVEFSd0VuelBOeXd3cHdPdWFNUXVIa0dVUm94X0MyTWFNNy00eEViS0hfZlNvOS1xT3dfNmh2MjNKYzk4WnJ2bDVwUER6NmljWFg1Zzk2aTlmYW43cklYUw?oc=5)
   Source: CNBC
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-05-30
+
+- [Anthropic drops new Claude model as OpenAI IPO race heats up](https://news.google.com/rss/articles/CBMingFBVV95cUxPb0h6RTlkc3ZYdUk0SGJENTI2OUdBcHJZV0xSc3Z0Y2t2dFhHblhCa2pPcUNlalFOQkZYSmVnOV95dnJieVVNbmc0cmtuVjRJdmdMWm90ZTk4WXhrdFZxNlRLaXdndmQwNjJJNFVWdGVtX1Y0VGtYYUZibjFYT0syS0h6UlU5eUphZmRyLXhSdFZqajhsY2xKbnlROHNFZw?oc=5)
+  Source: thestreet.com
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic overtakes OpenAI as the most valuable AI startup](https://news.google.com/rss/articles/CBMickFVX3lxTE1PUnJYZ1V2cDA4MFFqTlFlOVdfZUFIb1JUeWZKc0d4Tm1GWWhBRlJtTXZIN0hkb3BLYkIzRmxCZFJIUE5Yak9PZDdvNE00VFhoWU1UZVMxbkdtVXFBS05SQmV4TVdpOGxaaUd3V0p6WTRuQQ?oc=5)
+  Source: Axios
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic Leapfrogs OpenAI In Valuation. But Here's One Thing To Know.](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzVtZGtuN3d3OVlxWFprajQ4YlUxamtlbUVXd3Q4dTltN25VMjY4V09hU3Z0N3FZYW1Fc2otOHEyTXZ3UEloOUJZWnpQQ25QYU85cWU2bnNFZU84VDRHMU84NmxSdDFQRHo4V05uVWhjNmlpcWhHWDFXUzRwb3dfQ1dGUUVKT1ZuTmp1VTdTRWFTU1dxLUNiUFhSemNLbVV1UEp3MnNUbzdqdw?oc=5)
+  Source: Investor's Business Daily
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round](https://news.google.com/rss/articles/CBMid0FVX3lxTE55NUFBcFNtS3B3SU9zTmxpZ3hkVlE5UXZqendEb1pIcTIzeXBuSFVLX2ZKSXF5cmljZThjVmFFcW9xVDAyUE5LRHB0WEdlMWtXdEp2ZERJME9PZEV5RkRSaHkxRzBqR2J2UHRTMUR5a0RlY0dVb3ZB0gF8QVVfeXFMTzVRMWxaakV4Z3J5WFA3aERDUm1EWXZDQ2pDS0NnVEFSd0VuelBOeXd3cHdPdWFNUXVIa0dVUm94X0MyTWFNNy00eEViS0hfZlNvOS1xT3dfNmh2MjNKYzk4WnJ2bDVwUER6NmljWFg1Zzk2aTlmYW43cklYUw?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic Rockets to $965 Billion Valuation, Topping OpenAI in AI Showdown](https://news.google.com/rss/articles/CBMicEFVX3lxTFB3a3JRY0JjY0VPalNrZTNGWFVXTmNodEVCLUZEaUFneS1Kalo5UlU0QzZJcjdYN3ZFX0tlUVlMalJ0NjNZRV82c0NjSnFVMzg5OTQyZ0JjaDk5Zk5LMjQ2NE94VnQxWnRpcWpvUlJpVVU?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [How Anthropic used its AI ethicslop to play the pope and eclipse OpenAI](https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSkVkTkcydzZmQUhCUTV0c3l0NUREM1pBZlBaXzlibFI2NWJqZThmUWpETnNZUW0tVHpSeFpFQVp0TzNZTDNhbFJsSV9nQ3VuQm00NXhkS0U3WmcwNnpZbzBRS3dmeC02NGdoZUYyNTJVZEdhNlEwOTdGRQ?oc=5)
+  Source: bloodinthemachine.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up](https://news.google.com/rss/articles/CBMiigFBVV95cUxPSi1XZmpReGJ1X3dWZ0JsQ1BHXzloYm93YjV2N09HX0VlRTFDa2huRE9jX3h6cWxQSDJDdVhnR1Awc01WZDRtVW13Zk50T3dINkJvSS13RkQ3WTM3d2NhRWpZWDV5VEhwV0FQMGRwNEJCdy1idFhIZXBqR3hUX0RHOHdEOU9lZU1GNXc?oc=5)
+  Source: The New York Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
