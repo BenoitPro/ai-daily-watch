@@ -1625,3 +1625,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up](https://news.google.com/rss/articles/CBMiigFBVV95cUxPSi1XZmpReGJ1X3dWZ0JsQ1BHXzloYm93YjV2N09HX0VlRTFDa2huRE9jX3h6cWxQSDJDdVhnR1Awc01WZDRtVW13Zk50T3dINkJvSS13RkQ3WTM3d2NhRWpZWDV5VEhwV0FQMGRwNEJCdy1idFhIZXBqR3hUX0RHOHdEOU9lZU1GNXc?oc=5)
   Source: The New York Times
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-05-31
+
+- [OpenAI and Anthropic unveil multi-agent autonomous features for enterprise use](https://news.google.com/rss/articles/CBMidkFVX3lxTE03aE14YklPdWpWWndJd2s5aWpLRXl4LXdfb3UxOUZyS3pCNmcyV045ZHZ3VUF3a1V1QzYyMk1WaEloYTNXVWJDT0lCNW5JbnlLYXM2UGhVRkszREdHUmItbUF1Q3kzVWRaQ0Z0b2VEZUVJSi1KUUE?oc=5)
+  Source: Crypto Briefing
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [How Did Anthropic Become More Valuable Than OpenAI? Here’s the Answer, in Just 1 Word](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0l1am5tSGYyenBGMENzZzV3SmRvOHN2Sm9HV2swb08xdG4tOWM0OTIxSjl2bnBPQTE4V014M0FUNWJYSWZMaDkwUUgzZVlEQWRyVkJPc1ExWE42TUJ5QTZjS0hQVklfVEFQakJ3R3B4T2xBd195NHVPVzN2eWtTWXRVbUhXV2NUYkRiUzU2R1dPSGJxT0k2eDJYUXpIWmVBdl9QSHpNcDVhdjNqbWhVSzBXT09QVDQzZXQ3LVVCaE85TkU?oc=5)
+  Source: inc.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic Leapfrogs OpenAI In Valuation. But Here's One Thing To Know.](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzVtZGtuN3d3OVlxWFprajQ4YlUxamtlbUVXd3Q4dTltN25VMjY4V09hU3Z0N3FZYW1Fc2otOHEyTXZ3UEloOUJZWnpQQ25QYU85cWU2bnNFZU84VDRHMU84NmxSdDFQRHo4V05uVWhjNmlpcWhHWDFXUzRwb3dfQ1dGUUVKT1ZuTmp1VTdTRWFTU1dxLUNiUFhSemNLbVV1UEp3MnNUbzdqdw?oc=5)
+  Source: Investor's Business Daily
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic Is Now Worth More Than OpenAI](https://news.google.com/rss/articles/CBMiekFVX3lxTE56a2Mxc3p2aDVPYmJpdGRkVHVKYzV6ZjBIUVdKejk2OFdoYktIMkRnbGFaUDBLOWpiVm50NGV1eFBGQms2VXdBRGwyOHY1ZHlCY2xzMk5DWExiUWRReVNib0QtNXNlU3gyT0FCTGJfSV8yOGc4ZDhjaUF3?oc=5)
+  Source: Gizmodo
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [How Anthropic used AI ethics slop to play the pope and eclipse OpenAI](https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSkVkTkcydzZmQUhCUTV0c3l0NUREM1pBZlBaXzlibFI2NWJqZThmUWpETnNZUW0tVHpSeFpFQVp0TzNZTDNhbFJsSV9nQ3VuQm00NXhkS0U3WmcwNnpZbzBRS3dmeC02NGdoZUYyNTJVZEdhNlEwOTdGRQ?oc=5)
+  Source: bloodinthemachine.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Rs 28 Crore Luxury Home In San Francisco Lists OpenAI, Anthropic Shares As Payment Option](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVFdiSjYtT0pQYzVYNkYtV050bkZkaWJuZmhXV1Qyd3plWEtGTUFFcEZLX1Y4SThQOGVFTWQ2TUxYTUlTMkphNUI2ZXlPelR4YTBTUGkxOHZUWTNTcmdTYW12OHA3aXJMMl92ay0zWGI2cVlPeHd2OHhZaVl6ZFBUa0NVNlE2R043TGpwVl9tbUFIUUd2MlVSeUNOcFkwMTVRdnY4bTU4SlNIZWJQN1VFZlh5MjU3ZVJwRno5RzhYdGc3QWx10gHMAUFVX3lxTE1RQ0Y2MW9hOVhJQzFvN2FGMkNXbTFEQ1BfTzdfSkszVEZ2Y09FNHhUV1lnR1FWRWRTeUZvQVlSdTBhMXprWXZTTnFsLURfQmlUR2xDOWFvVHA5b05EbVpsOGc5bnZla2FhWEtYdnVLUzFqOEphT2Q3RFM3M2ZZUE5FMGh0N0VLODlEUDlMYmw3TDRRNkRXeFpIaEI3cjFKbHF3RTJCcU1peGlDVTNWbXphci1zY0NQWENHQ05VNHZYd2NGUG9XMmZTSlgtTQ?oc=5)
+  Source: NDTV
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic overtakes OpenAI to become world's most valuable AI company](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHlVcWp1VmwwY0VOTDJqRm45Ymo0Qy1ZYzQweElNOUtTOTh1LWpJTVJVb2NBRFpMTXBjcTZXR01TRFAyNzJ2dHlCa0RDMld2aGJVaHR5ZWJ1TnVUUEJONGZyel9WZUdqWjZ5VjYwWkJ5eGpkM2JoYjk5WVFxQ0V4dGdDSU41M2RT?oc=5)
+  Source: Mashable
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
