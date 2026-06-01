@@ -1655,3 +1655,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic overtakes OpenAI to become world's most valuable AI company](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHlVcWp1VmwwY0VOTDJqRm45Ymo0Qy1ZYzQweElNOUtTOTh1LWpJTVJVb2NBRFpMTXBjcTZXR01TRFAyNzJ2dHlCa0RDMld2aGJVaHR5ZWJ1TnVUUEJONGZyel9WZUdqWjZ5VjYwWkJ5eGpkM2JoYjk5WVFxQ0V4dGdDSU41M2RT?oc=5)
   Source: Mashable
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-06-01
+
+- [My guide to the IPOs of SpaceX, OpenAI and Anthropic — including the one I really want to buy](https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1NLN3hPS0JaNjlkWXlQQUpMY1JveVRxTDRnQk5CdG9MS2Qyc0dKUjNkNjRJaE1ST3dSeEJxcFZ1clE5UGxuOEl2TFNNLUFpd29QcGVOaDNFOXNXWUw0NkltaEo4cEZEM3U1T093WldEelJTVGRsOHpnNFAzQzduOGdXT0E1eHdzREt1YXNhYzJiX3BWMjhvR3Z1MzVuem1ROWNMT3ZiQl81Yk5vbWtoeVViTGxKTGhzbUhuSTlqamZtanVKYlE?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Nvidia Says Anthropic, OpenAI Among Users of New Vera Chip](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3ZmeXE5cy0zbU1fZ1dTMjhSZWoxZkVGZHVpbDd0NVAzejJ1Nk9teTZWWExPQ3dkTlNUd2xMQW94djRHOGVta3ByS3ZHMkVxeUZaemFJQmRJa2gxanpySFlxN2l6LWxsZHlacEZmdlZCNVR1RjBmZkx5S0N0OHZRNVA4YjFiWjU4V3dvZDNFbTM4dlRGd2N4YjYzYi1EZ0lGeE45YWgzWGJCWTlKQUdKWEh3?oc=5)
+  Source: Bloomberg.com
+  Implication: Compute access remains a strategic constraint in the AI stack.
+
+- [How Did Anthropic Become More Valuable Than OpenAI? Here’s the Answer, in Just 1 Word](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0l1am5tSGYyenBGMENzZzV3SmRvOHN2Sm9HV2swb08xdG4tOWM0OTIxSjl2bnBPQTE4V014M0FUNWJYSWZMaDkwUUgzZVlEQWRyVkJPc1ExWE42TUJ5QTZjS0hQVklfVEFQakJ3R3B4T2xBd195NHVPVzN2eWtTWXRVbUhXV2NUYkRiUzU2R1dPSGJxT0k2eDJYUXpIWmVBdl9QSHpNcDVhdjNqbWhVSzBXT09QVDQzZXQ3LVVCaE85TkU?oc=5)
+  Source: inc.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic raises $65bn, lifting valuation past OpenAI as alternative managers deepen ties](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZmh5b2RXSmRsNGwtRlA1UGZ4Q0lNTHJKSGtrNzNFUHNySElXYUtST0ZkLU02WUZWcWhDUDRKSmNYaC1DRHBJei0zQ1l5ekllTDJOeXB4U1JkTzhBNTBJOExIeWRxTlZkenFZZ0ZXZkJFLTR2TGhKM3dKdFNFcVN5ZmoxSnZtTVdnMFBFYUk5TUpXeXR5eDVvUUpHZlF3NHB0amt0V0s3eVJ5eFFIcC1B?oc=5)
+  Source: Alternatives Watch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Nvidia Delivers Vera CPUs to Anthropic and OpenAI](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVFpuUDFPYXg5MXdvT1NuSXVQUkVVcnctdFl2YzBla1Fwc3Bxc2R5YnZsVnJlNTNaaU1iU0Y2eGJVNThUY2tpRFJhN0VlUXZVX185UU1Ia2RvVk9CZ1NQTWpJUngxbXR4VjRBN2FHLVBkcENycGxmamdlenVqMW9xNFNtUGxsVDU4cncwNzI4RHctdHBPR3c?oc=5)
+  Source: Let's Data Science
+  Implication: Compute access remains a strategic constraint in the AI stack.
+
+- [Anthropic Is Now Worth More Than OpenAI](https://news.google.com/rss/articles/CBMiekFVX3lxTE56a2Mxc3p2aDVPYmJpdGRkVHVKYzV6ZjBIUVdKejk2OFdoYktIMkRnbGFaUDBLOWpiVm50NGV1eFBGQms2VXdBRGwyOHY1ZHlCY2xzMk5DWExiUWRReVNib0QtNXNlU3gyT0FCTGJfSV8yOGc4ZDhjaUF3?oc=5)
+  Source: Gizmodo
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic overtakes OpenAI with $965 billion valuation after $65 billion funding round](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdWYwMV9YT0hTMnJrLWIwVHRkMjNWdjZMTGRIS3hLWUZSS3ZxLTBaMjNjVUVkOFREdXlacFlIOEhrc0cycTVrWlN3T1dMTjBqdVVnUDBpdnRSV3BoYXlDTlJySkl1MEF4OG1jS01FY3BjN0NKWkpfdGgyeVd5Y2RXWGcwdXdSbGh1TFBEZWtQMXBBMHMxUTdVTHZhcE5MOTFzU2s0ay1USUNzdUhTQU04c0lEN1FmUnVQQnk1VTBfSV9BWVUtMG1MNVlQVGhGenhq0gHQAUFVX3lxTE91ZjAxX1hPSFMycmstYjBUdGQyM1Z2NkxMZEhLeEtZRlJLdnEtMFoyM2NVRWQ4VER1eVpwWUg4SGtzRzJxNWtaU3dPV0xOMGp1VWdQMGl2dFJXcGhheUNOUnJKSXUwQXg4bWNLTUVjcGM3Q0paSl90aDJ5V3ljZFdYZzB1d1JsaHVMUERla1AxcEEwczFRN1VMdmFwTkw5MXNTazRrLVRJQ3N1SFNBTThzSUQ3UWZSdVBCeTVVMF9JX0FZVS0wbUw1WVBUaEZ6eGo?oc=5)
+  Source: Storyboard18
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
