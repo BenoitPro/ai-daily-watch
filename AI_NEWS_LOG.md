@@ -1685,3 +1685,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic overtakes OpenAI with $965 billion valuation after $65 billion funding round](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdWYwMV9YT0hTMnJrLWIwVHRkMjNWdjZMTGRIS3hLWUZSS3ZxLTBaMjNjVUVkOFREdXlacFlIOEhrc0cycTVrWlN3T1dMTjBqdVVnUDBpdnRSV3BoYXlDTlJySkl1MEF4OG1jS01FY3BjN0NKWkpfdGgyeVd5Y2RXWGcwdXdSbGh1TFBEZWtQMXBBMHMxUTdVTHZhcE5MOTFzU2s0ay1USUNzdUhTQU04c0lEN1FmUnVQQnk1VTBfSV9BWVUtMG1MNVlQVGhGenhq0gHQAUFVX3lxTE91ZjAxX1hPSFMycmstYjBUdGQyM1Z2NkxMZEhLeEtZRlJLdnEtMFoyM2NVRWQ4VER1eVpwWUg4SGtzRzJxNWtaU3dPV0xOMGp1VWdQMGl2dFJXcGhheUNOUnJKSXUwQXg4bWNLTUVjcGM3Q0paSl90aDJ5V3ljZFdYZzB1d1JsaHVMUERla1AxcEEwczFRN1VMdmFwTkw5MXNTazRrLVRJQ3N1SFNBTThzSUQ3UWZSdVBCeTVVMF9JX0FZVS0wbUw1WVBUaEZ6eGo?oc=5)
   Source: Storyboard18
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-06-02
+
+- [The Middle East money behind OpenAI, Anthropic & xAI](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXk5a0IweUhOTmlzVUxNNnRSbDJlZlVOaU94bWVOWVFYc1lwNjc3YlYzUjI1WjQzcHhNZGJLTXUyODZINUVVaHprS2VPcGJRMk9kdGQ5bnFDc2Z6M0NYckxxRlJVVDlNVXFzODc5UEl2bjg0UTg2N0tWTUFaN2NJWHAtZ2F4aHdpXzB6TFhycGRPS3ozWWln?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic edges ahead of OpenAI with confidential IPO filing](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcktPQXlwZDR5bnFTV1U5bWZCd1NFcmpvelBtTE0wR0JyQ0ZCX2xwWEdxMUszYm1wMllMdS0tR082RTA5d2hJWHY1VHlfazhBX3RIUzM2LXlLNERJUWs0TDJMVHhNOWFLX1gyd2c1cXdpSzh0bVhVUFRHa2VnZnBLMWg3SllCQ1F0dUhJOGZYT0lPMHhzTFJhSzlUTnF2QUlMSDlQSUFYTWtIdDZmdllVWS1LVzR1WG1J?oc=5)
+  Source: Gulf Business
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Why It Matters if OpenAI or Anthropic Wins the IPO Race](https://news.google.com/rss/articles/CBMieEFVX3lxTE8wY0x4bjdLN01XZklMLTBaUTk4b3hvNF83ZHdtaGVNWmNPR0NCdkMwYUNBa2FlRlRvNU9uVXRzUmlrcmpFVEV6QXBkb0d2LXBNeE1fUU5ydnpCa3FIc2RNam5aeVBPREVNdFdVVThZVFYzeFgxUG4wZg?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXV1V1dYOXpYcXRReFp1MWp5UHVvWE96T0luRlRIRWxielVHZ211OG1FR2lGa0NYV2JUSTFQV3NJYVJ4cEYzMGt2ZnlsZUhTZHhZNk9OTGd1THJHdmI3dTd0VWdvVFZzbmxsZTczT2VZNW5wejNLZmVCX3hzcThuTlBJRVFnVVJkM3VkSkdoTVBES0h4SHNBQ25GZHZ1UE1jbEtwVERWa0dHeWZtYnZNQXRIYmM?oc=5)
+  Source: The Economist
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic files for IPO before OpenAI as trillion-dollar startups race to go public](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdkcyb3ptMkVkTVREMWdpLWR5YlJTOHlJbHUxYkRVNzQ5VEhGU3FOZmFuX2YzN3lIVkcxelhMV3RjM2ctb2pVYTdERHZaRjVOV0hOM0p1Zks5Nm03QmJ1WDM3d0d4aVQ5Z00wZGVqRWRQMTVnUzNFcGhHc2VuRXdyTUJuU0c2aGdaMDZJ?oc=5)
+  Source: NBC News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic Files for IPO, Jumping Ahead of Rival OpenAI](https://news.google.com/rss/articles/CBMid0FVX3lxTFBaVjhLV2w2Vk5LLXhjWmxLUVNnSWlqRlliblROZUlSa0NYelFCc1pZb1RweDM4YW1FM1JjcjdZTTBIMldyaWZiY1huVVY4c2o4NVQyNV9ZSy1qSHZqbGh2TnFSYThZdkQtcTQzN0Y5MV9FcjNCWmdR?oc=5)
+  Source: Barron's
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic moves toward IPO, stepping up race with OpenAI](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlMzZlRMZHRFRVJRSUNpZWJMTTkwdnhmeDZFRmtOUWFlamZOMy00ejR2ZS1aMlVROEVHZzlnX1UxVDBvQTBkOVpJTVh3MHFpRDJISV9TRlR5bWhQRWIxUzktRlp6d0dKcUYxeFlmc0dKYTRyQWQ0UDE2dHk1UnJ6d3NvWVZoUnJfdGFmSzh0QmFQbVE4eWc?oc=5)
+  Source: Reuters
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
