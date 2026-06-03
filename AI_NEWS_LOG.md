@@ -1715,3 +1715,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic moves toward IPO, stepping up race with OpenAI](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlMzZlRMZHRFRVJRSUNpZWJMTTkwdnhmeDZFRmtOUWFlamZOMy00ejR2ZS1aMlVROEVHZzlnX1UxVDBvQTBkOVpJTVh3MHFpRDJISV9TRlR5bWhQRWIxUzktRlp6d0dKcUYxeFlmc0dKYTRyQWQ0UDE2dHk1UnJ6d3NvWVZoUnJfdGFmSzh0QmFQbVE4eWc?oc=5)
   Source: Reuters
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-06-03
+
+- [OpenAI Plans AI Tools for Finance, Legal in Race With Anthropic](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTC0zQWd6cVEtaW1tYzVpWW1scXBPOVJ6ZFNXLVJVYm4ybnZjS1Y4NnNsS0h0UjRfZjVqVmdyMnZESGw5WjhHYlRzb2R1eEFObG1LdHpIUUFzUUw5T1p3VzlKd0pEODNuYzF4cWM5b3NOTEFVaHQ1Vjc0Q2hIYlBYdXlfQWc0V2g0TkNXaTBpZUhmazFhY1RZaUZzTnJWS2lBNjBIdWlPSmJJTE9OTE1rWFRWWQ?oc=5)
+  Source: Bloomberg.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Why It Matters if OpenAI or Anthropic Wins the IPO Race](https://news.google.com/rss/articles/CBMieEFVX3lxTE8wY0x4bjdLN01XZklMLTBaUTk4b3hvNF83ZHdtaGVNWmNPR0NCdkMwYUNBa2FlRlRvNU9uVXRzUmlrcmpFVEV6QXBkb0d2LXBNeE1fUU5ydnpCa3FIc2RNam5aeVBPREVNdFdVVThZVFYzeFgxUG4wZg?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXV1V1dYOXpYcXRReFp1MWp5UHVvWE96T0luRlRIRWxielVHZ211OG1FR2lGa0NYV2JUSTFQV3NJYVJ4cEYzMGt2ZnlsZUhTZHhZNk9OTGd1THJHdmI3dTd0VWdvVFZzbmxsZTczT2VZNW5wejNLZmVCX3hzcThuTlBJRVFnVVJkM3VkSkdoTVBES0h4SHNBQ25GZHZ1UE1jbEtwVERWa0dHeWZtYnZNQXRIYmM?oc=5)
+  Source: The Economist
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic confidentially files its S-1 first—but the IPO race with OpenAI is just beginning](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NMEhLVDZVMy1vdkNCR1NHdGZUbGtOSnR6NkdmQ0ZFVWc3ZS1qQ1V0N3ZYUEFFSUF2ekNrbmdDam5NSlhQVkRFZXJGdDZwaWJQQlFSUWpVckMwTU5QeXk4NFV0ZG5VclNj?oc=5)
+  Source: Fortune
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic files for IPO before OpenAI as trillion-dollar startups race to go public](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdkcyb3ptMkVkTVREMWdpLWR5YlJTOHlJbHUxYkRVNzQ5VEhGU3FOZmFuX2YzN3lIVkcxelhMV3RjM2ctb2pVYTdERHZaRjVOV0hOM0p1Zks5Nm03QmJ1WDM3d0d4aVQ5Z00wZGVqRWRQMTVnUzNFcGhHc2VuRXdyTUJuU0c2aGdaMDZJ?oc=5)
+  Source: NBC News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Ed Zitron: Anthropic and OpenAI Shouldn't IPO](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjd0WjhiWlFreF9jQW9XSGdocjdRR1B1NDduaTV0MmVxV3dMWW5Zd3dyWTlFQXF2N3dWNThsa01XREtsWThIeXZoLWNhQlB1ZTVoMTctWWRnbUtyNUs5ckYzN2RNSzA2bzRkdk9YVFlCa092NjNrRjg5aHBYTlJKbXFkZXo1UG1UVG40emx0Zy1GUjlnT3dBa1JUZ2JDN0N5eXZwbU5FbW9tbDg?oc=5)
+  Source: StartupHub.ai
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic moves toward IPO, stepping up race with OpenAI](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlMzZlRMZHRFRVJRSUNpZWJMTTkwdnhmeDZFRmtOUWFlamZOMy00ejR2ZS1aMlVROEVHZzlnX1UxVDBvQTBkOVpJTVh3MHFpRDJISV9TRlR5bWhQRWIxUzktRlp6d0dKcUYxeFlmc0dKYTRyQWQ0UDE2dHk1UnJ6d3NvWVZoUnJfdGFmSzh0QmFQbVE4eWc?oc=5)
+  Source: Reuters
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
