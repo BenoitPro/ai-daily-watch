@@ -1751,3 +1751,33 @@ Daily AI watch entries will be appended here.
 - [Low signal day for AI news](https://github.com)
   Source: Internal fallback
   Implication: No strong signal surfaced today, but the daily log still captures continuity.
+
+## 2026-06-05
+
+- [When Will SpaceX, Anthropic, and OpenAI Join the S&P 500 Index?](https://news.google.com/rss/articles/CBMilgFBVV95cUxQckxielVwQUxSc0ZmWm1yWkFCTzVtVU5uX3FoVHd4TjhnbWtZd2EwM1ZDTmVhT0tPRjZGR3dPRzdnR2ZqcWRpcDN4cElWTnlRZGx3NVVtdFlZZkVESnI4WnZ0ZzlPQ1hLY0xXS0VEVm11aEd2cnlmdWk4MnptdF9aZnJZZ2UzNFByNVZBRjRnSWs1MmZFZmc?oc=5)
+  Source: The Motley Fool
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons](https://news.google.com/rss/articles/CBMif0FVX3lxTE1vTDZrcUlKWDFEeVBkTDNUQ096SHhvVVVQTmRvTjI0X0lqMFhJcHhTYlh5YU9oWktjOTVqVjBfMFY0TkxPV05mZFkyT0REY1RuUHVpN0JGZnpZUWZuVmhMdGhhdE5hTnkwZ3YwZXI3M0Z4b3NFdDBLbzZiQmh1ZkU?oc=5)
+  Source: WIRED
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [‘A landmark moment for homebuying’: A San Francisco seller wants OpenAI or Anthropic stock for their $3 million home](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWEhQc1JqRmRrUlEzU3dBeTlLTGRHWWRzTDloMU9RcV9wRWZYZ1N4bkF2dy16SUJCZWY1d1l2Nld1LTUxeHRwM2NSdDlyQXIxTEZRUnh6ZnZHRU5adGxGY3NfLTNpUVhzM1FVczdWN2JMdVI2UTh3OVd0T3lTMjQ1YWZRcDlCbEFtYzhSUlgzM250aWcwNXVCYnJQUkllblJ1ODR0VkxfSW42OHdtcmFv?oc=5)
+  Source: Fortune
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDdLYTJTa05SMzlRTFlZR0hJdldabVl0Wm5teU0yd3ZGWTRJVVlWQm1SUm1yWjVsQVhnSFFTUENMZUU4YlZOeXlGV19weUdRdkprdkdpZnJzRnZaQVJQNmtCaXFsNl9hNkVlaUx6NHNQVEhQX01jWHY3b3dVZjlFcXhjeXR0MmlESS1NcU5rZTlqM1JYVDFPYw?oc=5)
+  Source: Fortune
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [This Cheap Foreign AI Is Stealing US Business from OpenAI and Anthropic](https://news.google.com/rss/articles/CBMijwFBVV95cUxQcWN1cUU2MDljSVNFNTBHY3ZCcDNIUFRQTUhyRVFKS0VILWVyVVZKWWFWcFZfSmE3Wm56Y2txQVR3TURtTk5DZl9za1gxZzM5bjZ6VExDUEpBeW05ZGc2bmNnc2ZjREUwcXZpUnNrSVFOZ0t1aW9DTHEtQzl6dEpmTHhMdVZfUGdCRW1JSThTbw?oc=5)
+  Source: BeInCrypto
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Want to Invest in the Hottest Upcoming IPOs Now, Including SpaceX, Anthropic, and OpenAI? This Is the Fund for You.](https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUVDVEdCeGF0TXYyOFl3S2kwbFo2UHI5Tk9JM25ROWZ2Tzc0WW5xbHIwZllzamJGaXpETkVWTFM2S0s3TnVBdkVwbUhGVmFNYlJPU1NYQW9IWjJkc09ZaXVzZ3hlblFpcnZOSkpIRGZvT0lVdG1VZmRfVmkteFktQUowZzRvZTJYelVPTDFsTUg?oc=5)
+  Source: The Motley Fool
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI, Anthropic CEOs back AI biothreat safeguards](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGJ5MjgxVEh1cnBMTTVBMEhQbXpYVGFMbWQyNkUzQ0x5VzVqVk5GMVItT3laR3BaMDVSdkZNcDZQWVJOd055X0tDbzBNRDl4OXh6eDRpdC1uWGNOYzVPY0c2amhpbzdHU0szdE9reTk2U01HbWhub1pocDF6VHVWX09pSFJ5MlUtQjNlNG5HSFhRWWpBUnRCOUtDMER0NUFkcnc?oc=5)
+  Source: Yahoo Finance UK
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
