@@ -1781,3 +1781,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI, Anthropic CEOs back AI biothreat safeguards](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGJ5MjgxVEh1cnBMTTVBMEhQbXpYVGFMbWQyNkUzQ0x5VzVqVk5GMVItT3laR3BaMDVSdkZNcDZQWVJOd055X0tDbzBNRDl4OXh6eDRpdC1uWGNOYzVPY0c2amhpbzdHU0szdE9reTk2U01HbWhub1pocDF6VHVWX09pSFJ5MlUtQjNlNG5HSFhRWWpBUnRCOUtDMER0NUFkcnc?oc=5)
   Source: Yahoo Finance UK
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-06-06
+
+- [Model routing is a fix for AI overspending. That's a problem for OpenAI and Anthropic](https://news.google.com/rss/articles/CBMimgFBVV95cUxOM09LX2p4QkFZQ1FSTHc5c1hoQmlEcDQxVXpoTzhRQUVDMDNxMmc0cWo0bHZmeGtUM3ZFby1SZk5XWlBqZkRIdFotUDhHc0xhTmROM2Rrb1JTMnBqc3d1WG83LWxfVkYzUmZob0p3eUVCeFhoYWpkZ2FZYl80T3I0Y3gzM0FFaDFCYnhkUXJsU1c0WGRPOXlqcld30gGfAUFVX3lxTE5CRC1RQkRvRGlUc1VadzdQeHdKSFU5Ykl3MXZFel9yR0pBQ0lmWTl6VTFzaWZtOUlhNjk4RzhibnkwYjEtZnUyaURQSEFCLXZGUmxyX2J0WFVnMFhlalBMM3BiSVE1dnRXX1Z3QXQ5YmxhWExfaTRQNXgxcll5WXdpRHZ3WWxFMGIzLUNFOFFhUWJsTFJxMlhEQWZxX0xCUQ?oc=5)
+  Source: CNBC
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI and Anthropic's next lock-in play: Databases of coding intent](https://news.google.com/rss/articles/CBMipwFBVV95cUxONjB3V2JjZUZodnhackZiVUVYb1BXck05RzFjV0xmQnJMNVhFdTlDWFgwejFpTjZodGlkbGtpeGtCWmdqVTN0UHNEQmhYM09TVmdhdFRtTmFxZng3Y2JKRm54Y0tfSVpWdVgybXo0OEhCVTZ1UWduRHFnME1VZktVYXp4cURYNDFXdjhNQlEtVHFjdHhIQm5QSjhQMEtuTEVydEx6SUpYTQ?oc=5)
+  Source: Business Insider
+  Implication: Developer tooling keeps getting more automated and competitive.
+
+- [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGFDb3M2ejdac21uTFBYTGNfaFJzemNtU01NaHJiRlFHV2gzV3RhczJYUkJaOGhldUxORkU5c1BCMFNZNGlvaWN2dDBaUUFWZ1pxcXZ4Y05oc1VjX1hVUUtXdW1FUjFYeE5oQ19teWJTcXo4aUNtdnJ3NGFTc2ROaUEzdmd1OGh0QmRPRDF3Q3ZqcVBpQm9abXB2UFNMT0NQMUN6R0dDdEhsSk5zQWc4aUh0N0pBc1U5amc?oc=5)
+  Source: Ars Technica
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [How startups can compete in the age of Anthropic and OpenAI](https://news.google.com/rss/articles/CBMilgFBVV95cUxOekc3VXItS1dpRmVrV0xQVzc1OE5aa29STFNOMzZFSTdaS1hJZGNDRzNmSjBRTlNHSmRmX0VMVGl5V2xMOERybnpzbmNKLVBIWmdnblpWdUw2Uzlnby0za29WekNUbkZ1Mi1oWi0zbjBUcF9KZm5VRy1fRjQtcTFXOGtSWlQtb0FTV3NiTndzV1RkSzRrQXc?oc=5)
+  Source: LinkedIn
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [When Will SpaceX, Anthropic, and OpenAI Join the S&P 500 Index?](https://news.google.com/rss/articles/CBMilgFBVV95cUxQckxielVwQUxSc0ZmWm1yWkFCTzVtVU5uX3FoVHd4TjhnbWtZd2EwM1ZDTmVhT0tPRjZGR3dPRzdnR2ZqcWRpcDN4cElWTnlRZGx3NVVtdFlZZkVESnI4WnZ0ZzlPQ1hLY0xXS0VEVm11aEd2cnlmdWk4MnptdF9aZnJZZ2UzNFByNVZBRjRnSWs1MmZFZmc?oc=5)
+  Source: The Motley Fool
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic vs. OpenAI: Who ya got?](https://news.google.com/rss/articles/CBMia0FVX3lxTE93TmpReVpoXzNpek91LWxGbzBDSl9jMWZUSVNCdGx6VDhza2ZQNHgybjVuZFF5VDFwSEtESVJCaXVhcjRROXVIQk5BYVNERjFKbGNCY0xrYzJVQTJHdThpOWM0SHBERTFvX0N3?oc=5)
+  Source: Kalshi
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Claude Becomes The Enterprise Favorite As Anthropic Passes OpenAI](https://news.google.com/rss/articles/CBMiugFBVV95cUxQa0VfTUI4bUZvd3pYM1JJcVdjWk53eW83enVmclNOYXpINGxPYlhkTUNYbjlNWFR6LWsxeHhxbjRRM19IcDY4UnF5bHMyMVFWTVdQeDVBWDlGVzkxRlhLT2l6MThDLTNOSWMyVU0wZ3FxR3lwVGV0Rkp2ZVdiRjBXR2xVd3JhemJ6MHBmYXZHdU9Lcm4tZFhhRWRoYnBoa2t0UmY1S0REcnF1T0oxdWJoa2xmNnJQbE52Z1E?oc=5)
+  Source: Forbes
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
