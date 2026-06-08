@@ -1811,3 +1811,33 @@ Daily AI watch entries will be appended here.
 - [Claude Becomes The Enterprise Favorite As Anthropic Passes OpenAI](https://news.google.com/rss/articles/CBMiugFBVV95cUxQa0VfTUI4bUZvd3pYM1JJcVdjWk53eW83enVmclNOYXpINGxPYlhkTUNYbjlNWFR6LWsxeHhxbjRRM19IcDY4UnF5bHMyMVFWTVdQeDVBWDlGVzkxRlhLT2l6MThDLTNOSWMyVU0wZ3FxR3lwVGV0Rkp2ZVdiRjBXR2xVd3JhemJ6MHBmYXZHdU9Lcm4tZFhhRWRoYnBoa2t0UmY1S0REcnF1T0oxdWJoa2xmNnJQbE52Z1E?oc=5)
   Source: Forbes
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-06-08
+
+- [Meta wants to take on OpenAI and Anthropic with Hatch AI agent, here is how much it may cost](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMUpLeWp2akFGNXlMRzZnQ2FtSjBmUmJEOE5TNFJPQ2lnRHJwalM4TENFZ1lpYl9rYTQ2dlV4bkNIUWRfMmo0emRzSVhfRTM3VnNvem5XMWxXam9fazZCOHAwTGJLVzRJU0NxN1lfUms2RU9GMVZ4SUpQbm91RkhlLUw2bGg1dUFyY2VieFZXMDVvRnEwMElNQUF5TE56MFlHci00MXF5aG84dkxHTmRjaENVdHp1QXp1UGF2X0ZubGN6alJaZFJjWHA4UEFNLVQtZEd1MW52NEVKdV9aOG96RUZHN0w1VWg0WjlKRWtVWdIB9AFBVV95cUxQMWJ2R0tzQmlQREVnUEdVMlI4dEZ1WmIzY21QTHBzb3NHMkNLbDkzQjBwLWJER1VlQ3NWUkpDUVZkbnFrTVpwZThRNWIxM3NTVlY1MzUySDRqUUQ1eDZuLV94QW9JcWRsT3UyV0JzWGxfU3U3RS1WcUNPQlY4cnN4RG5jYWFvbnlaeThHbHlINTZsVk93TXlSRkRXenlyRWhaX1VTb1ppY1F1TDA5RkFYeWVmbTFNdWxsdEEyczUtb3EtcTBkTWNrMTg4NlMtZzFaU1dKSzVVQVdXTmJpLVI0aTB5N296Q3VsbHZDN0c0TDNsQXh1?oc=5)
+  Source: India Today
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Investors: This Might Be the Easiest Way to Buy SpaceX, OpenAI, and Anthropic After Their IPOs](https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVdFQ1RoSkpHcUNDUVZsOVRDWFdKS01KenVNM01MNVV0bVpxSlNqWVlXSV90WDg5TlN3NnNwWjFxQVBuQ3YtQWlTempzSjNCcjBsT2w4bTlzOVZlNDZOM29NRlcwRDVRN3RSOWdOVUpuUVVheG85YUhnYnFIbk0zRzlZSGtveUJFY01QbjZYSEJwUWtKaUVmcA?oc=5)
+  Source: The Motley Fool
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Model routing is a fix for AI overspending. That's a problem for OpenAI and Anthropic](https://news.google.com/rss/articles/CBMimgFBVV95cUxOM09LX2p4QkFZQ1FSTHc5c1hoQmlEcDQxVXpoTzhRQUVDMDNxMmc0cWo0bHZmeGtUM3ZFby1SZk5XWlBqZkRIdFotUDhHc0xhTmROM2Rrb1JTMnBqc3d1WG83LWxfVkYzUmZob0p3eUVCeFhoYWpkZ2FZYl80T3I0Y3gzM0FFaDFCYnhkUXJsU1c0WGRPOXlqcld30gGfAUFVX3lxTE5CRC1RQkRvRGlUc1VadzdQeHdKSFU5Ykl3MXZFel9yR0pBQ0lmWTl6VTFzaWZtOUlhNjk4RzhibnkwYjEtZnUyaURQSEFCLXZGUmxyX2J0WFVnMFhlalBMM3BiSVE1dnRXX1Z3QXQ5YmxhWExfaTRQNXgxcll5WXdpRHZ3WWxFMGIzLUNFOFFhUWJsTFJxMlhEQWZxX0xCUQ?oc=5)
+  Source: CNBC
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property.](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkpHektOZ2NyRXdPYm9pdHc3Sjg1ZlBINWpmeE00M2tNdU0wUjRmdVdpbHowQ1NnWUNGN1RvdUZJS2hfWTVsWXg3OXQzUExyRWdjMUVMZGRUbW9aMmVWbVBDelpfU3BkdUNYLS0wdHlBSkNSTVZSOWZWb2FVMzZoXzVSTmZud1FTUklGTjRyWjZYdW9FLWZqTWFUeFhQZUY0NFZCelNSTXdRNElh?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI Or Anthropic—Who Will Make Their Public Debut First?](https://news.google.com/rss/articles/CBMixAFBVV95cUxNUF9hdlNGbTk3eEhHUzRvX3FZVW1TOXdELXJDSGVvMjNJcFAtS3o4X3dSU0tPZWFPRlhJX2J4RFAyVmdWcnkxWUR3d2h6RWpRUmVNQlJ2MmpCM0lKWkpBZE0xTkpoRmhiNTBLUXFTMHViTG9JY04teERtbENzeEtoRzlhZ3BOanBhN2c0LURjTk8zN2VBQ091REhtTEp1REVkMk9NWWZveDlxaWcxLXVsN0R4akV5RHVncVpkcFh3QmtvaXZW?oc=5)
+  Source: Benzinga
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [This realtor is betting big on the AI IPO boom, but OpenAI and Anthropic have to approve first](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUGpRQUxGVGhvYnpzc2RtT0VKT1d0SnFzQk55cXFtOGhNSjRDZHEyV1ZPeWFhRnVqemI3ZmlEeEJjUW82U2hrNDJzc1Atb3FIaDJPVGZnRVRtVUdROE1HZW9vQzljSDQ0ckNTblVFUnJHTmh3QXBiRlMzRC1Nb2Rxb1E4bTR6d0FjcXFtNHZOWkR5d01ETnVsNU1rbDRPSGlRckFSS3Nvb2ExbnRmdmc?oc=5)
+  Source: Fortune
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Sam Altman Plots Major OpenAI Upgrade As Anthropic Battle Intensifies](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRGRhTXU0Y0p2NWJlZXdVdk9seDc5T0RjSDRPYlVyNW54ZTNzWDN6c3ZfSVRMM0ozV2RwZWJ6NGNPSFgyN2dwZFUzZ19QSEJURzh6bThrWFE3Wk4zQUtnV2IyV2dLLV9mU1Nzd0sxOW5zQ1RqMGg4d1NGTldLdENvY2FUQTh0Q2J0UWw3ZXYxaE5tQVhtZ0I4aUl4R013N3U2ZmUwWUZqakdVc25VX3ZfTFhCTlQ0MDhBSFJyMVJtUQ?oc=5)
+  Source: Benzinga
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
