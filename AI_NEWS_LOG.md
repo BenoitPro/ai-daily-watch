@@ -1841,3 +1841,33 @@ Daily AI watch entries will be appended here.
 - [Sam Altman Plots Major OpenAI Upgrade As Anthropic Battle Intensifies](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRGRhTXU0Y0p2NWJlZXdVdk9seDc5T0RjSDRPYlVyNW54ZTNzWDN6c3ZfSVRMM0ozV2RwZWJ6NGNPSFgyN2dwZFUzZ19QSEJURzh6bThrWFE3Wk4zQUtnV2IyV2dLLV9mU1Nzd0sxOW5zQ1RqMGg4d1NGTldLdENvY2FUQTh0Q2J0UWw3ZXYxaE5tQVhtZ0I4aUl4R013N3U2ZmUwWUZqakdVc25VX3ZfTFhCTlQ0MDhBSFJyMVJtUQ?oc=5)
   Source: Benzinga
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-06-09
+
+- [Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTFVa0JiVVVhTlRkNFdnSlc3OVBkSmtnVGZndmxMeWFuaWdNOUs4NUFuMUJlREtmcU5xaVlYazh4cFlPMGY0UkhtTG03TlREUm1SYUYtejBNRUR0VmZkYjhrM3dlOUxYZ0FxQTFRdm5ZSUl5QTlHNXlkZUduZEVNRURLQS02c2JxbVphOUNpWlNKWWRmY09BV9IBngFBVV95cUxOT2w2WUNKUmNudkNiNEZPNGEzcHBVSTdPRFFFX3N2WFIwd1RrcW13RUpSVThvVkozNzZGV1RpNERjTUp5X2RTNWRZZWJCRGVRRmFPa2FRbTV2QjQxSjMtU2NnYkZfYUx5emhvSTVjdGMxLWZBNThibHNrT1hKZVhPLXlNcDNFWUJIMkphSzBUaWk0bVRYYVdILUpZT0ZSZw?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare](https://news.google.com/rss/articles/CBMipwFBVV95cUxQR283cjVzZTFwSzl4OXRqTVctUWxBcG1rSDVJbHdiaWphWngzUXdZZmJhOTVXWjhpbWdjSDBybGQwNnNyUDlVTEFTeUt1SW0zUTVabkNKZFZmbmdmS3JSbGxSWVhYUE1aVTl2SWNyUmlrZFJ6Rld4NjluXzRidUg0NjJ3ZEh4Um9GMmZQbG1LcFFsY3FBbWJmWGQtWEQtSFlrOVVYU2I5Zw?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports](https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkJnaFFVYnBCYzlxazFaZ1hqUkZuaVExZ0xlU1h3clhYX0NRSHVFMGJDenJlajFjVVFTREI1aTJkQm1WQVZJLUFCWmpVTmxXSHNXdmozLVFiVVp5SllHSkNfRkcwbjI2RXVKYzkzU2hPOGMyc3dKUFBRWV83X0p0R2FwWTRoTGxlWlZqdUpTb2lkWHN4Z2t6VDBObTJDMTY1RmhOR09hVzZNREpvaG1RVGFkUElGWkJoU1JkZnRn?oc=5)
+  Source: Reuters
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzRKTmg2VkVwcU1vQlg2ODI1RFViWWZDVmFKYWtETGU5VGhBR2o0MS0xVzNGcFh0MHdmU2ZYSnJiek1XMzR2aXF1WWNhOEMwUnNZM1RKTEtWWmV3RV9xSzduenJrNHZSTmVIeVpUSld3dlhiMHNjVjNZa2Zsbkp3MGxDNXNQUHhFcklZcXZ5cnB3cDJyQ3FXR2tMVEJGTUNKbERDTUFVZ3lmbEk0alRjd241YXBETUpJMXc?oc=5)
+  Source: Seeking Alpha
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Perplexity planning IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC By Reuters](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ0hNWkQyaXRCOXNPRV9FT3pDS2E4RXdGNlc4MmlXd3FVTk1WS1ZILUhQSm1TUF9Hbk9UMDNKelpYVGM2YmpYTnVjR3ZLQkQwZUJFRk91cGt3d2ZMM3JFVTdmWjF0YS0yTkpDRG9hU1dDajM2anR0TU9xdjg0S01xQ0VfeTJjLUpKTFEwM1MzaWZPSlVzZ2E5bmxDc05mQ2ZFT3QyRkFUakhZUDRzVVBJZFZERmZySHVJOHZ2NGVidW5Yek5PM0VDV0VsNi1WcDkzTUpnSUZTQjlodzhHdWpwcThNamc4U3d4?oc=5)
+  Source: Investing.com
+  Implication: Regulatory pressure is rising and could change shipping constraints.
+
+- [OpenAI plans to go public setting up new race with Anthropic](https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ZFNfSG9fbUdOYjh4RllpYlZpT1poMExmVHBsWndaMHlZaHpSSG4zalhSeFJNRDc0bms0MjdYa3JaZk9ubzVPaThLNjdRNjJRdlQwNDY2RUNiZw?oc=5)
+  Source: BBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI files confidentially for IPO, following Anthropic](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVzF3NWZodWRLaDFmR0s2Vm9XOXFERVVxaFVxTmJEUGZ4ZkJfRjRMSDRuUzROMmdSTWk4OXlENnRvVG1URzlUM0UwZHFVR3R2ekw1SW5mOEpUWlJCYVpya095b1BOTWV2dUl3OU5iRGhYVE5zSGtoN2RuUFlRYnJMVVRVWjJvN2FnTFhnbUtqZndMblVj?oc=5)
+  Source: TechCrunch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
