@@ -1877,3 +1877,33 @@ Daily AI watch entries will be appended here.
 - [Low signal day for AI news](https://github.com)
   Source: Internal fallback
   Implication: No strong signal surfaced today, but the daily log still captures continuity.
+
+## 2026-06-11
+
+- [Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTFVa0JiVVVhTlRkNFdnSlc3OVBkSmtnVGZndmxMeWFuaWdNOUs4NUFuMUJlREtmcU5xaVlYazh4cFlPMGY0UkhtTG03TlREUm1SYUYtejBNRUR0VmZkYjhrM3dlOUxYZ0FxQTFRdm5ZSUl5QTlHNXlkZUduZEVNRURLQS02c2JxbVphOUNpWlNKWWRmY09BV9IBngFBVV95cUxOT2w2WUNKUmNudkNiNEZPNGEzcHBVSTdPRFFFX3N2WFIwd1RrcW13RUpSVThvVkozNzZGV1RpNERjTUp5X2RTNWRZZWJCRGVRRmFPa2FRbTV2QjQxSjMtU2NnYkZfYUx5emhvSTVjdGMxLWZBNThibHNrT1hKZVhPLXlNcDNFWUJIMkphSzBUaWk0bVRYYVdILUpZT0ZSZw?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Agentic Engineering Handbook – 115 official OpenAI/Anthropic articles](https://github.com/keyuchen21/agentic-engineering-handbook)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Model routing is a fix for AI overspending, a problem for OpenAI and Anthropic](https://www.cnbc.com/2026/06/05/model-routing-on-ai-is-a-problem-for-openai-and-anthropic.html)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnFqNTRNQ3kyTnVCSTY1Z1V2QXEzUUd4MndFc2dNLWJqSWNHWTIxa19CelFzT3IzTFVsTEdiY2xJOU52OW1qVERrLTFfSlptTV83cmxtYkYyX3lIRzJjT2xScENLeGdyeEdTaGdFRHp1aGQxRGd4Tm5YS3RWRGlibWJtYXRVeVlXUEtvLUVOM3ZqZlJTTEh5eDJlWVRpRm9PNThFbTNNUXdPRFB3Q2tGa19na0M?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTVaQ2JmSTJ2dG1yVC1nSHpNbWJqOVlUV2dmMW1vZ2d6VmlFN1ZDRTFOVS04SDZQM01CcDZIRS1WWDluTE5hYzJBV25NZlBKMndtTmRHRG5DZmphLWEydEhmM0g5cEVHcjlvNTBueWpZRmFpcDNPekV2OU9hWV9BMzJsd3NLNWEwcFpydDFQX1JZc0I2Xy1ZcktIZDlxV2RramNQT1F5WnXSAa4BQVVfeXFMTTA0akxwVmdMa0RybEpINXVxTUxTSkJWRWNnY3pDUXN2ZDAyaW53dkRvVG1QM3hQSWt4aFlQTnJwWkVoYUdzd3F3cWFybHA5cE9feHQyTlhHc0pDaFhlMVVTWTBRU3hLRHlWamFsQldzTnpHOWRXcjREbG9UcTRTRGZsLTFhYTlnQWQ4OFpUTEZkR21mR3VsdGpRbmloN01vT0ZxTGl6dEtkM09fZS1n?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUxaR1RVaTY0U3FJVnhLNzIyR3Zwb041R0pRT29YelJzRi1YOWhvYUlQNVV5RDBDZm9RQ1diaEFuV2x6MmFfUlNkc2lTYUFoSzI2ZFlUNDc4RXN0Sjk2bXpoU2xEeU5lS3lSRTZJTHo4MlctVV9ZRTUtd1U4MTgzZEN5Wm4zQnJtMHV5aTAwQ1FVYnotZ1ZSdVdIaGU3emRxdjNoQWM5S1dnYUh1c213UFd6Z2ZVMjltazRBS2FuZFM4QQ?oc=5)
+  Source: Reuters
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic has caught up to OpenAI in image understanding](https://news.google.com/rss/articles/CBMidkFVX3lxTFBoR202UGp3cWcyRFZYeEdMbGs2Y01aZi03eE1QRnBmS0VvaVd6Szh0SGRBUjJydFZCbzJ3QkVUVngzby01c2g1dlR0RDMzZ3RfaVh2d0h2Q0VsTWRLeEU4RUxrYkVNZjJqRzlqSGtZWEFES1FzdWc?oc=5)
+  Source: understandingai.org
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
