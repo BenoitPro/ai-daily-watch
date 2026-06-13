@@ -1937,3 +1937,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTVaQ2JmSTJ2dG1yVC1nSHpNbWJqOVlUV2dmMW1vZ2d6VmlFN1ZDRTFOVS04SDZQM01CcDZIRS1WWDluTE5hYzJBV25NZlBKMndtTmRHRG5DZmphLWEydEhmM0g5cEVHcjlvNTBueWpZRmFpcDNPekV2OU9hWV9BMzJsd3NLNWEwcFpydDFQX1JZc0I2Xy1ZcktIZDlxV2RramNQT1F5WnXSAa4BQVVfeXFMTTA0akxwVmdMa0RybEpINXVxTUxTSkJWRWNnY3pDUXN2ZDAyaW53dkRvVG1QM3hQSWt4aFlQTnJwWkVoYUdzd3F3cWFybHA5cE9feHQyTlhHc0pDaFhlMVVTWTBRU3hLRHlWamFsQldzTnpHOWRXcjREbG9UcTRTRGZsLTFhYTlnQWQ4OFpUTEZkR21mR3VsdGpRbmloN01vT0ZxTGl6dEtkM09fZS1n?oc=5)
   Source: CNBC
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-06-13
+
+- [Agentic Engineering Handbook – 115 official OpenAI/Anthropic articles](https://github.com/keyuchen21/agentic-engineering-handbook)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [What the SpaceX I.P.O. Means for OpenAI and Anthropic](https://news.google.com/rss/articles/CBMihAFBVV95cUxQV19JRTlzVG02X0M5VnFRMUtNX243OWpaX3hDWkRtOS1Ldk5JdEN0X2tEdDUtcFlmZnhhUDlnbl9MT0JvUDI4NmZPbU92d2tyNlZZOEFvbnVhdGhDVmFFT1RiM1BTaW9aNDRSOXJJMTNwV0pRMTFxUVpFVFhQMzJocFV2a24?oc=5)
+  Source: The New York Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [The AI Price War Is Here, Piling Pressure on OpenAI and Anthropic](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaFNHOHZlXzY4dFkxQk12LXlQRHVMeVZULWhpaFI3cHRxX3kxVjl5ejZ1WDFrdkNwTFdhSDlkZTItZVB6am42Y1dZZEJIbEhnU3hKdzJqdzdicVZ1R0ZoWk9ZS2ozUGFkbmVmUDc2aUo5SVctOVlIOC1LME0taUo1cnJRYVZpWHdxZjczdDY0SDVZWkJRUUJ1aHh4V0dyQU1XUDRV?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [SpaceX-Anthropic-OpenAI Is a Cocktail With a Hangover](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNl9FLTdYYTMwQ0k2X2xtTTdaZ2ZqbDlqZFk1Ujd2OFk3VVhwYXpfQ1cweXJHT09ZYjRFUmdFTmFnSU5JbmVUTG1lWUN4alNQYkx1S1ZCZUljYTVUUkE0MTlLdzZoNjZTdlBXeVJxZm1xX2kxd1J0Vzhrd2hwSDFlOFR0aEYzdEdqZG55QjlHYms3SFFZMXVtTUd6SHNuVXBSOXhMVHVkY1NEUlEwdUtZcGNNR192cGhDM3pCRGYwUTM?oc=5)
+  Source: Bloomberg.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Model routing is a fix for AI overspending, a problem for OpenAI and Anthropic](https://www.cnbc.com/2026/06/05/model-routing-on-ai-is-a-problem-for-openai-and-anthropic.html)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTVaQ2JmSTJ2dG1yVC1nSHpNbWJqOVlUV2dmMW1vZ2d6VmlFN1ZDRTFOVS04SDZQM01CcDZIRS1WWDluTE5hYzJBV25NZlBKMndtTmRHRG5DZmphLWEydEhmM0g5cEVHcjlvNTBueWpZRmFpcDNPekV2OU9hWV9BMzJsd3NLNWEwcFpydDFQX1JZc0I2Xy1ZcktIZDlxV2RramNQT1F5WnXSAa4BQVVfeXFMTTA0akxwVmdMa0RybEpINXVxTUxTSkJWRWNnY3pDUXN2ZDAyaW53dkRvVG1QM3hQSWt4aFlQTnJwWkVoYUdzd3F3cWFybHA5cE9feHQyTlhHc0pDaFhlMVVTWTBRU3hLRHlWamFsQldzTnpHOWRXcjREbG9UcTRTRGZsLTFhYTlnQWQ4OFpUTEZkR21mR3VsdGpRbmloN01vT0ZxTGl6dEtkM09fZS1n?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnFqNTRNQ3kyTnVCSTY1Z1V2QXEzUUd4MndFc2dNLWJqSWNHWTIxa19CelFzT3IzTFVsTEdiY2xJOU52OW1qVERrLTFfSlptTV83cmxtYkYyX3lIRzJjT2xScENLeGdyeEdTaGdFRHp1aGQxRGd4Tm5YS3RWRGlibWJtYXRVeVlXUEtvLUVOM3ZqZlJTTEh5eDJlWVRpRm9PNThFbTNNUXdPRFB3Q2tGa19na0M?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
