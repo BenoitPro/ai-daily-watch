@@ -1997,3 +1997,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI mulls slashing prices as it competes with Anthropic for users](https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html)
   Source: Hacker News
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-06-15
+
+- [Odds of Anthropic, OpenAI going public dip after SpaceX IPO](https://news.google.com/rss/articles/CBMinAFBVV95cUxNMU9meHc4WEdhMTBST21iTEZNejZsa2d0d0YtMVFrdWNZeVdvLUp0Y3pXRjRvV2d3eDRtRXU2azlST1BaR0pYblQtR0F4S0dsc3ZGMXBvMlo2REVQczk5N0x3YTBVSGNLZ1NiSmdMNXZJb1A0SURsMFJORkJLd1JqZ1BaU1pBVDBHM3VNYmtHbFBlZkNJZjRPd1IySkw?oc=5)
+  Source: Seeking Alpha
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Agentic Engineering Handbook – 115 official OpenAI/Anthropic articles](https://github.com/keyuchen21/agentic-engineering-handbook)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [What the SpaceX I.P.O. Means for OpenAI and Anthropic](https://news.google.com/rss/articles/CBMihAFBVV95cUxQV19JRTlzVG02X0M5VnFRMUtNX243OWpaX3hDWkRtOS1Ldk5JdEN0X2tEdDUtcFlmZnhhUDlnbl9MT0JvUDI4NmZPbU92d2tyNlZZOEFvbnVhdGhDVmFFT1RiM1BTaW9aNDRSOXJJMTNwV0pRMTFxUVpFVFhQMzJocFV2a24?oc=5)
+  Source: The New York Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [The AI Price War Is Here, Piling Pressure on OpenAI and Anthropic](https://news.google.com/rss/articles/CBMiowFBVV95cUxNaFNHOHZlXzY4dFkxQk12LXlQRHVMeVZULWhpaFI3cHRxX3kxVjl5ejZ1WDFrdkNwTFdhSDlkZTItZVB6am42Y1dZZEJIbEhnU3hKdzJqdzdicVZ1R0ZoWk9ZS2ozUGFkbmVmUDc2aUo5SVctOVlIOC1LME0taUo1cnJRYVZpWHdxZjczdDY0SDVZWkJRUUJ1aHh4V0dyQU1XUDRV?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [These 4 Artificial Intelligence Stocks Have Room to Run Thanks to Anthropic's New Fable Model](https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFJJajJBODVxWmRkSGRXVHQyZjlieURWQXJKYUNKN0VWUUo2cXN6d2JhQnc2R3FhZ1lQcmhhNE9OX21STWJEOEF0SWgxQlVKOWdTSW9yRkthTUNRcnpPdG9tNEdEdWl0M19KeldZb3d6VDE0V21udm1RQnJmLUtDQ2lsdjBSb1ZCa0M3QkNiQzR4QkZzZTNvcQ?oc=5)
+  Source: The Motley Fool
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Visa (V) to Integrate Payments into OpenAI for AI Agent Transaction](https://news.google.com/rss/articles/CBMingFBVV95cUxQX3hCRFhtVFBiY2dXYTNCSmprUTBrNFlkMENnVlh2TW9WbS0wVzhhNVZRMjE5VjZNMTM3OUZBWEIxSnBxQXRNMGk5QkZPblJOWGFNYTAwTzdkNjhTQzVzcXJIRXhtNjNaWEJjOFVJV0hhXzNiS2s1NTNhX2o0OHRiUVRSeGIxVHg0c2g5WVYtSWQzWlM4eXc5ZVhFcm9Fdw?oc=5)
+  Source: Yahoo Finance
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Anthropic has caught up to OpenAI in image understanding](https://news.google.com/rss/articles/CBMidkFVX3lxTFBoR202UGp3cWcyRFZYeEdMbGs2Y01aZi03eE1QRnBmS0VvaVd6Szh0SGRBUjJydFZCbzJ3QkVUVngzby01c2g1dlR0RDMzZ3RfaVh2d0h2Q0VsTWRLeEU4RUxrYkVNZjJqRzlqSGtZWEFES1FzdWc?oc=5)
+  Source: understandingai.org
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
