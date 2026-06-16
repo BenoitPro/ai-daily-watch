@@ -2027,3 +2027,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic has caught up to OpenAI in image understanding](https://news.google.com/rss/articles/CBMidkFVX3lxTFBoR202UGp3cWcyRFZYeEdMbGs2Y01aZi03eE1QRnBmS0VvaVd6Szh0SGRBUjJydFZCbzJ3QkVUVngzby01c2g1dlR0RDMzZ3RfaVh2d0h2Q0VsTWRLeEU4RUxrYkVNZjJqRzlqSGtZWEFES1FzdWc?oc=5)
   Source: understandingai.org
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-06-16
+
+- [These ETFs Already Own Anthropic and OpenAI](https://news.google.com/rss/articles/CBMif0FVX3lxTE5ianQ2RkRGX0JYWllkbjBKUWUwd19iN2c2MUdOdExMcG9ncEdYaXE5UmR1dFpiN3k1WTJUR0Q2VjNtcG1iMmxDN0MxQmY4dVY5SDN4eTMya3V4ZWFTV2ZYSHNNQUt4SzhlaGFxckVrRnJTTUJybzhBVDFRd2lVMTQ?oc=5)
+  Source: Barron's
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYUJGVVY2bjhkckZTM1NyWnVMS0tIeHhDeERqYzN0cTNEYkotSTBMZEU4T3MxME1jMHZYbkN2UzNnOTVpVXFrem1sbzY2VG5YWEZ0Sy1EQjhXQlNuaVduUkR3a1B6cGVNbTN1MjZDbmkwNXZmbzFwTXM2Q2V1QUU5b2hON1p4OV9UVVZSRnBnNTctSGJ6bzQxbkJhTWtBb01ITFZRWHhHWDdpQ09EaFk2NklwQlg0Y2Ns?oc=5)
+  Source: CoinDesk
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI Financials Leaked Ahead Of IPO? ChatGPT Maker Said To Have Lost $39B Last Year: Here's How That Compares To Anthropic, SpaceX](https://news.google.com/rss/articles/CBMiogJBVV95cUxQUU5IcS1zSnYtRUFqY1BvcHpBNWlLMEV3cm9sMmdTNnNtLVRyQ2tyT0dUXzBWNG9CYXNQVW5mMGN0eGc3aXJqRm9oWm5hRzBMLWt1d2d4SXVaQ2Z1aTZWWjlXQkJNeFNzamxkTkkwLUYtN3hROWRqM0hWUFhXZFNVbDBQMmVjM1FRSEtKOXh6YTl0WktrY0Z0SDlmZ3p5dHg5U1Z1V05kdVNCbDJyODhzNVFrdjI0dHd6U0FHNzBGb2w0cnY4SnpLd1dVUERGSXJoeEUwYjUxTFJJODVKRHY5MFc4ZXZKazZSbjZhV3RqX1pWZXNBXzVnOFBLcTFuNmE3S19ES1ZIVE52ekFmLTdkb0JHT3hDTjFCUmlIbWdidUxkUQ?oc=5)
+  Source: Stocktwits
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Odds of Anthropic, OpenAI going public dip after SpaceX IPO](https://news.google.com/rss/articles/CBMinAFBVV95cUxNMU9meHc4WEdhMTBST21iTEZNejZsa2d0d0YtMVFrdWNZeVdvLUp0Y3pXRjRvV2d3eDRtRXU2azlST1BaR0pYblQtR0F4S0dsc3ZGMXBvMlo2REVQczk5N0x3YTBVSGNLZ1NiSmdMNXZJb1A0SURsMFJORkJLd1JqZ1BaU1pBVDBHM3VNYmtHbFBlZkNJZjRPd1IySkw?oc=5)
+  Source: Seeking Alpha
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Agentic Engineering Handbook – 115 official OpenAI/Anthropic articles](https://github.com/keyuchen21/agentic-engineering-handbook)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [US judge dismisses Musk's xAI trade secret lawsuit against OpenAI](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjI5TFljaGFyWUJMSjZRNHg3WWFkcm02R2dtbzRhYXBtdmw4Rmptc1JraTgwdWc2V1F5b21wQmlGaExzdlh6eExTNkVSUHkzQWx6Z3BUT1hNTnluSEd0Z2JHLVY5cXViM3lZN3B1UldWOEFJRFRHNWVLQ29oc2xxN2VSSmsxT1h1dUZMX3FiTkFpVUpKR2luUGdjclhid3JOREZFbTB3YXVjUDN6?oc=5)
+  Source: Reuters
+  Implication: Regulatory pressure is rising and could change shipping constraints.
+
+- [Judge Dismisses Elon Musk’s xAI Trade-Secret Lawsuit Against OpenAI](https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1lYTENrN0UtaklQMDRqWXp5cTBmTUYxOW1kbzNPaEd4M3h1OXZvN09nb2VvZnJZYVRzY2MxRTJoNDNZS285ZmFXVHVHdmNWaGZ6ell3bGk3bVlBWVJDam11U1J1NEZRemY2ZkVCZ0ZRU3hTVTh0SkFHMy1JZUVZbzRiZzNzdXZ0blRWWkVHZ3ByeGsyVGUzYnFYQzJzendTUHc?oc=5)
+  Source: WSJ
+  Implication: Regulatory pressure is rising and could change shipping constraints.
