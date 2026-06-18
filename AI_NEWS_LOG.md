@@ -2087,3 +2087,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI defeats xAI trade secrets case over recruiting presentation](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDhHTXhtNVdUdmdmWEl4VHJVSEZuSEEwRk5UTGFEeWlCNWdGbDZFSnNKZlpjRVdOLWQ5SllXb3I3alpoQXB3OXhGLVZWeHM3MDNmZ2t0S1FlN2M5N1pZYnJMUjVXd0ZWT0QxT2JORURCTzNzS0FhZm5UX3FmbXpxWkpvd0JiRWUyQTRRODk4NFhmMjdrSk9HNjVpSG5uZ1FPb09HcjVfaExKb1JwYl9N?oc=5)
   Source: Daily Journal
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-06-18
+
+- [Which AI agent spent the money on your OpenAI/Anthropic bill](https://github.com/Nu11P01nt3r3xc3pt10n/spaturzu-sdks)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [As G7 wraps, OpenAI and Anthropic meet with world leaders to discuss the future of AI](https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1pGbW9vQkF5ZzZrQWN4RGR3d3hzcDg0UTF1cW9RbTVtWkdFMFRNTmVlQmFBUThRU0dJOXB4aVVoR3Y1am5vbUw5WEpNamNpVjFxNGQ3aElnaHI4UEE5SUFwcTlURzRLcVNrQzUxdjR5cnduY1ZtSFhDWU5pWVdaajJKRmozcEJrUm9mZXo2WE5MQThScTJSQjA1QWEyUElV?oc=5)
+  Source: Fast Company
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI and Anthropic Tap Salesforce Talent](https://news.google.com/rss/articles/CBMihAFBVV95cUxPeDZ6RURCMDY4Q05HOWN6Nmo5WGV1ZGFtbXI5MXRCdEZiRGE1WmdWekNKVW5PWUh2ZnJyMEM4QVUwM3hNaHdqX1FfQnRJdXN0a1FnTXc3c1lwWWJ5TG1BcVQyeTdpajdJbm1hTDVSYlZiOGRCdkotaFFuSHhER21yOF9wY28?oc=5)
+  Source: The Information
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic's Dario Amodei and OpenAI's Sam Altman are attending the same CEO lunch today](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWx0QktwY3pOVS1uZDRlanJUZE1WTW9aM0NqTERMdWVUTDE3bUxXWXllZDZfNExJNlUwVm0zYUtYd1duQng3UWZrSkJHdjBmVWdVQkNtV3NZLUhocEtmUWtBN0tUdF9WYThLLWx2UkVvX0k3VGNKemJ1YXVKTHVXMHg2VFVjekpsVEFZWXF2bmxBbUt3d1JZMkNmNW9mejF5MEYyVlhn?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Amazon has lagged OpenAI and Anthropic, but AI chief sees path to catch up in 'coming year'](https://news.google.com/rss/articles/CBMifEFVX3lxTE9PeFlpRW95XzQ0ZVpFRTFrWE5YXzNIMEVSVVRCZkhSRC1TTWc4UmoyMENFVDU2aXFQV1dQcENHQTlnU2kyblN1OWxxNFNzN0FVdms1X2EwV2dqMWlSTnluUU1jRm1IQm8tNHdlVE9nWEdWN3Z0Z01nQmUzUEHSAYIBQVVfeXFMT3VBMGd0SVdDamhmcFA3NldrclZqSU9aYW5NZHNISkJkQ3VpOVd6RE5pSDJ1WkZuMGY1M09rNUpUdUo1Mlo1T3FMS3BrWmVoa044eXYzNjBORDBKV1ZQVklxV0puTld1OVEtZ2xCNmVncUNUOHV6OWhLOEtjVmtSaVQ1dw?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- ['A signal of where power sits': Trump and world leaders joined by OpenAI, Anthropic, Google at G7](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZE9yRkF4ZWRCUXlTM3JoR0RKVDE4Q1VfS2xNdHBZODdUTjNrcF9OVVFlMXpvZHg5REFaYy1IdGxvSkhGTGlkcWU2WjNZWEY4N0VZZWdyNWtDMG5BN3RaamlfcXlEYzl0M1Npc1ZZN0dkYXphQzVrU1RGMFk3ZE92eGZsSkJVMDd3bUJMRUhB0gGTAUFVX3lxTE9QVktTTi1feHFDS21EU2ozTTV1UTdoNS1JdEVJMURhQWxjdVVudnVMZUplWGQ5N21Yd0ZfcFZsTE9JOWxNVWNnT3JlLXRkWTU5T2R2cFdaREgwUlg2MTd3TDJjTXctRVdJRVhsX1h3NHhTYldvUzFRZUh2RUR2THpKcmJndXl1c0hWNHZRblRFVG14UQ?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7](https://news.google.com/rss/articles/CBMikgFBVV95cUxOczZWRGpYQXhGYmg3QmtZbkVSMnZPLWRHakVnZXBsXzhCcmtxY0ZGLVpVWEl4V1haODV3dTB2Y2o2UWw0OWRPdFVJV0JheWFxRTdGUjdhRVYyVFZmdTNaSFd3Q2FOaE85T0FkSmFTUEJxanVDcU5RYVdOVkxUTTBNeWF5MGt6YmZrVXh1dTRtZzEwd9IBlwFBVV95cUxOMHFmaGFVQV9mXzcwVm9UazlpRkNMQllyRDJTdFBvQUJTZEpRZXFRTXBrWTlCMTNIMG13VWR2T1JBU1V3Mkx1c3d3VFV2aEI1ZjhHbkNmZEhjQTI5cmgyRzBKRld0NVNyM2tlVTV6NnhZRlFLWl9YWVdydjNEVDhlNnR0ckNoRTEwbmF4TDNlQklrZkdvZllj?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
