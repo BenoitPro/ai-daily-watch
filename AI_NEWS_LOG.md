@@ -2117,3 +2117,33 @@ Daily AI watch entries will be appended here.
 - [CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7](https://news.google.com/rss/articles/CBMikgFBVV95cUxOczZWRGpYQXhGYmg3QmtZbkVSMnZPLWRHakVnZXBsXzhCcmtxY0ZGLVpVWEl4V1haODV3dTB2Y2o2UWw0OWRPdFVJV0JheWFxRTdGUjdhRVYyVFZmdTNaSFd3Q2FOaE85T0FkSmFTUEJxanVDcU5RYVdOVkxUTTBNeWF5MGt6YmZrVXh1dTRtZzEwd9IBlwFBVV95cUxOMHFmaGFVQV9mXzcwVm9UazlpRkNMQllyRDJTdFBvQUJTZEpRZXFRTXBrWTlCMTNIMG13VWR2T1JBU1V3Mkx1c3d3VFV2aEI1ZjhHbkNmZEhjQTI5cmgyRzBKRld0NVNyM2tlVTV6NnhZRlFLWl9YWVdydjNEVDhlNnR0ckNoRTEwbmF4TDNlQklrZkdvZllj?oc=5)
   Source: CNBC
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-06-19
+
+- [OpenAI, Anthropic artificial intelligence IPO boom set to transform San Francisco, starting with soaring real estate prices](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb2pEWGQwOHBZc2J4MWZwenF3TVA1TWI3RjRTVXBjUkZFQ05LVXFuNUoyc0dRM3JwMlpoc1p1N0tQTTlnOEh2elhNdldtcmhWelR4amV4OGdKbW0wTnQ4NXEyTlJzSTZkRHNHU052aTZFUUhCVzlXclRiNDE1MVl0Ti1GWDRweHNfMTR2UXJ5bzhSN2ZLSjdjTzVEZGFzWGlVSVNKOFlPdDFGNnJPWkZOd2ZBemlld01uSTk4YVNucG1PQ2FKQW9ER2gtdTlOSEdEMndMaEl5cXZ6QWRzLXNWMHNoY9IB6AFBVV95cUxONTl1Z2Z6Sl9VcDVTVDF4NS1UZHFvV0IwYnJKQ2tsQVhLOXoxUmNhOHZKbnRKMFVoTE1FdnplekQ0RWhBWlRWTk9jZTRjZGJhLXVTR1BfWkRXS2VGalRuSGdWcHZSYVJ5VU9BZk5nU2tSb0tGZXdyQjVmVHJ3d0w3UXFKMG50QzZabV8tRTB6bWx1OFR1QmNScVRLakM2emMzaHZncTVnTkkyMUFiSVFmdmhLNFBXVS00R1J4M1Z4T0JDR0RLaVJuNU9hUzREVjVfNFlza1J2UVpiYTByTm5Md1FOWE5LTl80?oc=5)
+  Source: ABC7 Bay Area
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Which AI agent spent the money on your OpenAI/Anthropic bill](https://github.com/Nu11P01nt3r3xc3pt10n/spaturzu-sdks)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Exclusive | The $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic](https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXJ4bWdVcDZ5RHZmbEtLa0NJUGxCdWl5a0U2NWx1SnNaOEJyZTU0VmNaY0VOTGRSRTdOVnlKdHNrUzlqblFKRGdvX3Q3T0ZGVlkxbVNoVk9XWUh2bUtqWVFldWlnR3RETmxVczJULU5WMDN4b0pfak4zUl9nSGpUaXZxVlVqNzBVRzBUNGc3ZldHQU1WRFBkanBSVl8zWnpMcDh4ckVYc2hHOHdJbWNqQW5YaTc?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [AI: OpenAI & Anthropic Accelerate Experienced Enterprise Sales Hires. AI-RTZ #1122](https://news.google.com/rss/articles/CBMie0FVX3lxTE9kUkdRcklVZGlveXZNbXA3bk13YlY0WkN0WnBTWnhaZ0stck1ycTAxZFRTNFlRY3dWc01zU1pQaFpxUUlfZXJsSWNYNk9TVGlPRVNJX1VUVk81QWhKUXFkX3U5YlFJcGE4VFNLdzJZa2FkVWdCdncwVUd4dw?oc=5)
+  Source: AI: Reset to Zero
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- ['A signal of where power sits': Trump and world leaders joined by OpenAI, Anthropic, Google at G7](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZE9yRkF4ZWRCUXlTM3JoR0RKVDE4Q1VfS2xNdHBZODdUTjNrcF9OVVFlMXpvZHg5REFaYy1IdGxvSkhGTGlkcWU2WjNZWEY4N0VZZWdyNWtDMG5BN3RaamlfcXlEYzl0M1Npc1ZZN0dkYXphQzVrU1RGMFk3ZE92eGZsSkJVMDd3bUJMRUhB0gGTAUFVX3lxTE9QVktTTi1feHFDS21EU2ozTTV1UTdoNS1JdEVJMURhQWxjdVVudnVMZUplWGQ5N21Yd0ZfcFZsTE9JOWxNVWNnT3JlLXRkWTU5T2R2cFdaREgwUlg2MTd3TDJjTXctRVdJRVhsX1h3NHhTYldvUzFRZUh2RUR2THpKcmJndXl1c0hWNHZRblRFVG14UQ?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Google and Microsoft Team Up to Beat Back Anthropic and OpenAI](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl0VXE5WDJsUnU1MHlpZW11S3lqVXh4cDNtY2Y0SUhzTjRKYjFGZl9iZ0tVY1NENWdTbU5oNHZuaHNXbTdwMjJZdUZjWTdGckNfeDY0NUJvSlZfcUxGWnF2YjF0aGgyNE5LY2JIOVowSjN3eEM3Ylhhdi1Wb1ltbW5qd3MxUFljR0tjV2NiVlotbkFyR0dheWtyZ1JYVF95RU5ZTw?oc=5)
+  Source: The Information
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI, Anthropic secure room and money to grow in S.F. - San Francisco Business Times](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbGM5eDhZNWUyUWtRWVlMcXdUQ2JoVmwydi1HbjgtWWl3NTRQV1lxdVZTSUFrVXlHclVYaFBLMlAxbUJScktGQ3NlaEg3bHVFRldrMmlFZFEycy1GWC10dVRMYkZrTWdVLXJjRW9UNlM0ak9zRlVhUThJNG1aR0ZrcS0wd3JVa3RxNGIzMmZjV2ZDMUhfMmVIOUozU0JkUHM1?oc=5)
+  Source: The Business Journals
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
