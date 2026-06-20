@@ -2147,3 +2147,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI, Anthropic secure room and money to grow in S.F. - San Francisco Business Times](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbGM5eDhZNWUyUWtRWVlMcXdUQ2JoVmwydi1HbjgtWWl3NTRQV1lxdVZTSUFrVXlHclVYaFBLMlAxbUJScktGQ3NlaEg3bHVFRldrMmlFZFEycy1GWC10dVRMYkZrTWdVLXJjRW9UNlM0ak9zRlVhUThJNG1aR0ZrcS0wd3JVa3RxNGIzMmZjV2ZDMUhfMmVIOUozU0JkUHM1?oc=5)
   Source: The Business Journals
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-06-20
+
+- [OpenAI, Anthropic artificial intelligence IPO boom set to transform San Francisco, starting with soaring real estate prices](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb2pEWGQwOHBZc2J4MWZwenF3TVA1TWI3RjRTVXBjUkZFQ05LVXFuNUoyc0dRM3JwMlpoc1p1N0tQTTlnOEh2elhNdldtcmhWelR4amV4OGdKbW0wTnQ4NXEyTlJzSTZkRHNHU052aTZFUUhCVzlXclRiNDE1MVl0Ti1GWDRweHNfMTR2UXJ5bzhSN2ZLSjdjTzVEZGFzWGlVSVNKOFlPdDFGNnJPWkZOd2ZBemlld01uSTk4YVNucG1PQ2FKQW9ER2gtdTlOSEdEMndMaEl5cXZ6QWRzLXNWMHNoY9IB6AFBVV95cUxONTl1Z2Z6Sl9VcDVTVDF4NS1UZHFvV0IwYnJKQ2tsQVhLOXoxUmNhOHZKbnRKMFVoTE1FdnplekQ0RWhBWlRWTk9jZTRjZGJhLXVTR1BfWkRXS2VGalRuSGdWcHZSYVJ5VU9BZk5nU2tSb0tGZXdyQjVmVHJ3d0w3UXFKMG50QzZabV8tRTB6bWx1OFR1QmNScVRLakM2emMzaHZncTVnTkkyMUFiSVFmdmhLNFBXVS00R1J4M1Z4T0JDR0RLaVJuNU9hUzREVjVfNFlza1J2UVpiYTByTm5Md1FOWE5LTl80?oc=5)
+  Source: ABC7 Bay Area
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Which AI agent spent the money on your OpenAI/Anthropic bill](https://github.com/Nu11P01nt3r3xc3pt10n/spaturzu-sdks)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [As OpenAI and Anthropic Race Toward IPOs, Trust Becomes the Real Product](https://news.google.com/rss/articles/CBMifEFVX3lxTFBMWDZxdF96Rm84S2ZNd3BNQ1FjUmlnYndpLXYybUV2dTJSR05FOTAwc3lfTXpEYzdZMW9rTTVhbi0xY01MMl81S2p0TEV3WDJnOHZkc0FwQ0Z1Qnd6YzBYbzBVd2RlRkNFMXRBTzRhYTVuUFZJaDNxOFgxZEE?oc=5)
+  Source: observer.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Exclusive | The $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic](https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXJ4bWdVcDZ5RHZmbEtLa0NJUGxCdWl5a0U2NWx1SnNaOEJyZTU0VmNaY0VOTGRSRTdOVnlKdHNrUzlqblFKRGdvX3Q3T0ZGVlkxbVNoVk9XWUh2bUtqWVFldWlnR3RETmxVczJULU5WMDN4b0pfak4zUl9nSGpUaXZxVlVqNzBVRzBUNGc3ZldHQU1WRFBkanBSVl8zWnpMcDh4ckVYc2hHOHdJbWNqQW5YaTc?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Google and Microsoft Team Up to Beat Back Anthropic and OpenAI](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl0VXE5WDJsUnU1MHlpZW11S3lqVXh4cDNtY2Y0SUhzTjRKYjFGZl9iZ0tVY1NENWdTbU5oNHZuaHNXbTdwMjJZdUZjWTdGckNfeDY0NUJvSlZfcUxGWnF2YjF0aGgyNE5LY2JIOVowSjN3eEM3Ylhhdi1Wb1ltbW5qd3MxUFljR0tjV2NiVlotbkFyR0dheWtyZ1JYVF95RU5ZTw?oc=5)
+  Source: The Information
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Broadcom Builds Custom Chips for Google, Meta, Anthropic, and OpenAI. At 25 Times Forward Earnings, It's the Cheapest Mega-Cap AI Stock Nobody Talks About.](https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ3F4cHNvZTRUM0stSlkwVlB4YkxLaW1qNVFWbl9iSll6N21xbC1SQjNmYldDbXdNaUN3NWRZbTFoYVNFSGxJa0piUHJXZkxzb3lzeTBYT25FdDFBZUYtcEUwR3pSdGN1Ui1HMlRLdzR6SWJmT1NTYU1UNHRjQXZjelJnQWNjWnUzSFc3NTYzaWJKekp3bFFuZw?oc=5)
+  Source: The Motley Fool
+  Implication: Compute access remains a strategic constraint in the AI stack.
+
+- [SpaceX, OpenAI And Anthropic: The S&P 500 Inclusion Question And Investment Consequences](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnFtVjVzWFh6TGN3X2tiRzJibkNlUVgxdmZqUnlwMmNsT244d25vcExBRHdMaEZibGRsa25rZllFOHMzMXAtZkx2cDlxRHVINXNmMnpPdVQyNHFoaDFndnU3Um9rakt1czhDZEFLa2xTZEllXzByTGNSb3ljc2tWeHozbkxWdXhReGJLR2d1TGJHWERHNkJTUC0wMXZGd0t5UXdDakQwUlFPaXRibzBjSEZNWGxSVGp4?oc=5)
+  Source: Seeking Alpha
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
