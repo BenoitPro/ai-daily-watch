@@ -2177,3 +2177,63 @@ Daily AI watch entries will be appended here.
 - [SpaceX, OpenAI And Anthropic: The S&P 500 Inclusion Question And Investment Consequences](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnFtVjVzWFh6TGN3X2tiRzJibkNlUVgxdmZqUnlwMmNsT244d25vcExBRHdMaEZibGRsa25rZllFOHMzMXAtZkx2cDlxRHVINXNmMnpPdVQyNHFoaDFndnU3Um9rakt1czhDZEFLa2xTZEllXzByTGNSb3ljc2tWeHozbkxWdXhReGJLR2d1TGJHWERHNkJTUC0wMXZGd0t5UXdDakQwUlFPaXRibzBjSEZNWGxSVGp4?oc=5)
   Source: Seeking Alpha
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-06-21
+
+- [OpenAI, Anthropic artificial intelligence IPO boom set to transform San Francisco, starting with soaring real estate prices](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb2pEWGQwOHBZc2J4MWZwenF3TVA1TWI3RjRTVXBjUkZFQ05LVXFuNUoyc0dRM3JwMlpoc1p1N0tQTTlnOEh2elhNdldtcmhWelR4amV4OGdKbW0wTnQ4NXEyTlJzSTZkRHNHU052aTZFUUhCVzlXclRiNDE1MVl0Ti1GWDRweHNfMTR2UXJ5bzhSN2ZLSjdjTzVEZGFzWGlVSVNKOFlPdDFGNnJPWkZOd2ZBemlld01uSTk4YVNucG1PQ2FKQW9ER2gtdTlOSEdEMndMaEl5cXZ6QWRzLXNWMHNoY9IB6AFBVV95cUxONTl1Z2Z6Sl9VcDVTVDF4NS1UZHFvV0IwYnJKQ2tsQVhLOXoxUmNhOHZKbnRKMFVoTE1FdnplekQ0RWhBWlRWTk9jZTRjZGJhLXVTR1BfWkRXS2VGalRuSGdWcHZSYVJ5VU9BZk5nU2tSb0tGZXdyQjVmVHJ3d0w3UXFKMG50QzZabV8tRTB6bWx1OFR1QmNScVRLakM2emMzaHZncTVnTkkyMUFiSVFmdmhLNFBXVS00R1J4M1Z4T0JDR0RLaVJuNU9hUzREVjVfNFlza1J2UVpiYTByTm5Md1FOWE5LTl80?oc=5)
+  Source: ABC7 Bay Area
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Which AI agent spent the money on your OpenAI/Anthropic bill](https://github.com/Nu11P01nt3r3xc3pt10n/spaturzu-sdks)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [As OpenAI and Anthropic Race Toward IPOs, Trust Becomes the Real Product](https://news.google.com/rss/articles/CBMifEFVX3lxTFBMWDZxdF96Rm84S2ZNd3BNQ1FjUmlnYndpLXYybUV2dTJSR05FOTAwc3lfTXpEYzdZMW9rTTVhbi0xY01MMl81S2p0TEV3WDJnOHZkc0FwQ0Z1Qnd6YzBYbzBVd2RlRkNFMXRBTzRhYTVuUFZJaDNxOFgxZEE?oc=5)
+  Source: observer.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Hyperliquid loses Anthropic, OpenAI markets](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN3RUQzEyamMwbURqLUs0VC0xWFlnZWs0NFdVZmpCRDBBUnR6QU9Dd0Zuc1BfY205ckZTckhGby1QZ1I4SXgtQTFiaGNOVEVmajNJMjVVbVB6MjktQzFRWGpCRW1uOXBCQ3NaWWlTM25ib0xPWDBxWVZwWnc5SDFrbmEwcVNnY1lORnBv?oc=5)
+  Source: thestreet.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Agentic Engineering Handbook – 115 official OpenAI/Anthropic articles](https://github.com/keyuchen21/agentic-engineering-handbook)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Exclusive | Baseten, the $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic](https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXJ4bWdVcDZ5RHZmbEtLa0NJUGxCdWl5a0U2NWx1SnNaOEJyZTU0VmNaY0VOTGRSRTdOVnlKdHNrUzlqblFKRGdvX3Q3T0ZGVlkxbVNoVk9XWUh2bUtqWVFldWlnR3RETmxVczJULU5WMDN4b0pfak4zUl9nSGpUaXZxVlVqNzBVRzBUNGc3ZldHQU1WRFBkanBSVl8zWnpMcDh4ckVYc2hHOHdJbWNqQW5YaTc?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Google and Microsoft Team Up to Beat Back Anthropic and OpenAI](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl0VXE5WDJsUnU1MHlpZW11S3lqVXh4cDNtY2Y0SUhzTjRKYjFGZl9iZ0tVY1NENWdTbU5oNHZuaHNXbTdwMjJZdUZjWTdGckNfeDY0NUJvSlZfcUxGWnF2YjF0aGgyNE5LY2JIOVowSjN3eEM3Ylhhdi1Wb1ltbW5qd3MxUFljR0tjV2NiVlotbkFyR0dheWtyZ1JYVF95RU5ZTw?oc=5)
+  Source: The Information
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-06-22
+
+- [AI: OpenAI & Anthropic's tight IPO clock to match Elon's SpaceX/xAI. AI-RTZ #1125](https://news.google.com/rss/articles/CBMie0FVX3lxTE41Vk5GQWxreFNoVzh6SS1sU0F4ZEtrMzFLS1ZFc0ZXWVJPTDBhWTY0MWZJVm1zWjQ4SnFHcXZFRmRrZlhJb1hoVE1TSjVyLUpjN1N1RVk1bHBVVU5yWi11cnkwRllVYW12YVpWTExscE5NU18xa3BIMlF0VQ?oc=5)
+  Source: AI: Reset to Zero
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI, Anthropic artificial intelligence IPO boom set to transform San Francisco, starting with soaring real estate prices](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb2pEWGQwOHBZc2J4MWZwenF3TVA1TWI3RjRTVXBjUkZFQ05LVXFuNUoyc0dRM3JwMlpoc1p1N0tQTTlnOEh2elhNdldtcmhWelR4amV4OGdKbW0wTnQ4NXEyTlJzSTZkRHNHU052aTZFUUhCVzlXclRiNDE1MVl0Ti1GWDRweHNfMTR2UXJ5bzhSN2ZLSjdjTzVEZGFzWGlVSVNKOFlPdDFGNnJPWkZOd2ZBemlld01uSTk4YVNucG1PQ2FKQW9ER2gtdTlOSEdEMndMaEl5cXZ6QWRzLXNWMHNoY9IB6AFBVV95cUxONTl1Z2Z6Sl9VcDVTVDF4NS1UZHFvV0IwYnJKQ2tsQVhLOXoxUmNhOHZKbnRKMFVoTE1FdnplekQ0RWhBWlRWTk9jZTRjZGJhLXVTR1BfWkRXS2VGalRuSGdWcHZSYVJ5VU9BZk5nU2tSb0tGZXdyQjVmVHJ3d0w3UXFKMG50QzZabV8tRTB6bWx1OFR1QmNScVRLakM2emMzaHZncTVnTkkyMUFiSVFmdmhLNFBXVS00R1J4M1Z4T0JDR0RLaVJuNU9hUzREVjVfNFlza1J2UVpiYTByTm5Md1FOWE5LTl80?oc=5)
+  Source: ABC7 Bay Area
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [3 Lessons From the SpaceX IPO Every Investor Should Know Before Anthropic and OpenAI Hit the Market](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHgwLVA2cGgtQmVERGY3VW84V0ptMG1IMWxFQklrRy0zOGg3Wi0tV3NpNFBueU5IUHJtb05zSXVNVVktclYyYUQ5N1diLWhKWjE2T2txQk5PWjk1OXQzQXRRbGhSZkZGT1BnbVNtYWZTRE1NaXpfU0gwQnd1TmhXbTI1RGdrVzVCZVBfUlFyWVVVNE9TTFlmcQ?oc=5)
+  Source: The Motley Fool
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Nadella Names OpenAI and Anthropic: AI Giants Must Earn Societal Permission](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWW11ZWk0OEllelAwd2pXMGZuMl9rbzYwa2Qzanp3b1JyVFB6a2FPa3RtMXFlWnBsbE5ONk9RQnlSSk96N2hweTRSdFU2eW96OGJ4bGdQNDhnVVh5UkhUQjVBZjFERzhuUVcyRm1iUjBmWTFmSDRTYlNJWEVBQnRmQWtmZnlhZVZ2MWJGYW9mVXNsbWprQksyWk5NTGNoS2ZBLWxfV0VCWUpBdm1GelRQbG95RE1lQi1zY1Y2X29oMk9tVHc?oc=5)
+  Source: Tech Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [What the SpaceX IPO Teaches Investors About the Coming Anthropic and OpenAI Offerings](https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3J5eW9SdERXdFBRSGd3R0dDektSb1BFb005bVgyODl2YU40NDJDMTRLdG9jOFBaNWg4VDBrNEdVanFKVjF0azBldjJQYnY4RmJfMkdnZjZ5OVdYTDBtRVl2a1RoWi1FdXhkTXN1alJabE1kbUxzNDlfZ0NsZWgxbzJuNFBGajhtcVVtdFcxdnh3VExtTWQyWDczbGdpWDU2TFdzTFU2MnBBZm55WVgwUGhfcnRPcGQ0akE?oc=5)
+  Source: NAI500
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Which AI agent spent the money on your OpenAI/Anthropic bill](https://github.com/Nu11P01nt3r3xc3pt10n/spaturzu-sdks)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [OpenAI's Massive Losses Strengthen the Bull Case for These 2 Artificial Intelligence (AI) Stocks](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZm5FTHVHZGZHSXhNUjB4c25vMFZJdGRrOWdrbWR1cTRuZlctdEw3Z21BYzgzRk5hUnpqLTNaSW1pb1kycGZ0YzBxOFFmQTRLQVF3a3Rrdms4dTJtdW96Vll6d01PSkVMUlQzME1aZkc4OGtNSUFNVGd3eFFmQjdXTGtVMWM0MVAxemx2RDdDejJLSjJ6ZWJ1Vg?oc=5)
+  Source: The Motley Fool
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
