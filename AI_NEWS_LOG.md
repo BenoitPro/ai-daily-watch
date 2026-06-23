@@ -2237,3 +2237,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI's Massive Losses Strengthen the Bull Case for These 2 Artificial Intelligence (AI) Stocks](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZm5FTHVHZGZHSXhNUjB4c25vMFZJdGRrOWdrbWR1cTRuZlctdEw3Z21BYzgzRk5hUnpqLTNaSW1pb1kycGZ0YzBxOFFmQTRLQVF3a3Rrdms4dTJtdW96Vll6d01PSkVMUlQzME1aZkc4OGtNSUFNVGd3eFFmQjdXTGtVMWM0MVAxemx2RDdDejJLSjJ6ZWJ1Vg?oc=5)
   Source: The Motley Fool
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-06-23
+
+- [OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVVQa0VKYk5fX0llNEFqWkd6eUxPNi1vc1Q5MG9ZMG9OVkY1M2lWVXpSa3dmU2wwVS00eWM2V0hMVFVUU2tYUThyMzZ6bDh2RE14STd4azV0T05iaGdPT1Q0YnZ3NEEzNVY4R2cxcW1XaHhXU29HeFRtN1VhVWd1RHlYYU1WbzZzYW8zNEpPTHA1VmN4Wkc5dno0UDk0UHhNMGd1UUFRbkdJWVVjZF96elVkQW1WSUJ6d0x6eHhR?oc=5)
+  Source: WIRED
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI and Anthropic workers are about to learn the hidden challenge of becoming overnight millionaires](https://news.google.com/rss/articles/CBMimgFBVV95cUxQeFJGTVNiNXR5a0F0Z2c2MU9RdkJ0a3hrNXczUEpCcWFHX2d6WENjN2M5UGV6djh2N2lrSXBoODNjZXFyNUJxNXdXR05VSld2Z0Z1WmF3NlRYYmJMb2dWUFE3WGozUDZpbUxNUnlNNFRrd0xhZFBDT2VxX29hTmEwYzdkQVc4NVl6VnJqeURyUDZRSHFmaTlJTVBn?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Selling a House for OpenAI or Anthropic Shares—How Does That Even Work?](https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkl6OHhLcTAyT00wTUxFQ3FKYnZ5SHpNRFN2OURheFhXdi1QX3d5b2ZBUmxuN0NHSXVPYU9DQlBiRXJQMWk3NVl3RzRVOW1ZUzFyOFQwellpUThDUFBjSU1CN0ZrdDRteVRYMmpGVVA1YS1VaEZNb3pQTjFoRy1ReHdrS0dkaVJhaHZoejR3YUlNVXVxa003WDBNdV9YbFJUZ09hdG9lS21NZDJo?oc=5)
+  Source: Investopedia
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [COIN Stock Breaks Three-Day Losing Streak: Coinbase Challenges Binance With OpenAI, Anthropic Pre-IPO Futures](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUEowbzNSazNnUTZURklGY1FUWE9UYnhoSDB3TW1kemJyQ212cnF6Rk5kdlN4T29ESDg0WlhvelctYTFycjR2MmdGd3ZhdmdMZEhwenpwcDdPMkY1V1Ruc0VXRm9tWWw2dFpvVzFSNTVNb09Udkc2QTFpdy1UdHJWajdHZ19ETG1EWVRTZ2ZlV083alJfbkJ5SVRENzl0SWtlZzBfWWhiUExoT0pFaHd1UmxMVnRlTmNod1hVTmx4NDdJRnVVRFhFaWdwODM1YjQzVlg4Qw?oc=5)
+  Source: Stocktwits
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Which AI agent spent the money on your OpenAI/Anthropic bill](https://github.com/Nu11P01nt3r3xc3pt10n/spaturzu-sdks)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [US judge dismisses Musk’s xAI trade secret lawsuit against OpenAI](https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1dGMkNLRHdYVEN1N3JKN1JBOGRLLTJSREJ3Ykx3ZWhBTU9vTW54X0Y4ODRiNWt6VVFESDdWbEUxUV9xUWp5N0N2Mjh4QXFHVVZwMGREZk90VFotQTh3UlNEMEN4dnc1TkdpSjZtU3AwSElxS19jWWtqOHdLZzl3UEljV3dsekRvemUtMHQyOHFUbWJKWURmcy02UWREUzBsZ1RJ?oc=5)
+  Source: Arizona Digital Free Press
+  Implication: Regulatory pressure is rising and could change shipping constraints.
+
+- [NYT CEO confident in legal battles against OpenAI/Microsoft, Perplexity](https://news.google.com/rss/articles/CBMia0FVX3lxTE5EaFowTTgwVWloS1h4V0NPckFaaHBxVmRtM2pDVHYzek5fNEdqc2tDYVZ0YkxJRHhzS2hTMnpqODhJUEh2VVY1VEZqMEVyQXRzd2ZIZ2FCMF92MUhaMVBwNzVBVXFQaUUyMnZZ?oc=5)
+  Source: Axios
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
