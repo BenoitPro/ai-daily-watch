@@ -2267,3 +2267,81 @@ Daily AI watch entries will be appended here.
 - [NYT CEO confident in legal battles against OpenAI/Microsoft, Perplexity](https://news.google.com/rss/articles/CBMia0FVX3lxTE5EaFowTTgwVWloS1h4V0NPckFaaHBxVmRtM2pDVHYzek5fNEdqc2tDYVZ0YkxJRHhzS2hTMnpqODhJUEh2VVY1VEZqMEVyQXRzd2ZIZ2FCMF92MUhaMVBwNzVBVXFQaUUyMnZZ?oc=5)
   Source: Axios
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-06-24
+
+- [OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVVQa0VKYk5fX0llNEFqWkd6eUxPNi1vc1Q5MG9ZMG9OVkY1M2lWVXpSa3dmU2wwVS00eWM2V0hMVFVUU2tYUThyMzZ6bDh2RE14STd4azV0T05iaGdPT1Q0YnZ3NEEzNVY4R2cxcW1XaHhXU29HeFRtN1VhVWd1RHlYYU1WbzZzYW8zNEpPTHA1VmN4Wkc5dno0UDk0UHhNMGd1UUFRbkdJWVVjZF96elVkQW1WSUJ6d0x6eHhR?oc=5)
+  Source: WIRED
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic and OpenAI’s Killer App Might Not Be Enough](https://news.google.com/rss/articles/CBMiywFBVV95cUxOT0NnUzNDODB4Y28tODA1XzBEVUsyLWFfdThfMjNJWEJzS0pwMXpBSjNQOUk1WjRWdmx4ZV9BVlB5VWdlRkpxSmJ4U0ZhaG9QUzRBWlRSbTZ6SDRzVGN4bkxhaWh6bHVjbDBOTURkTTQ1RDQ5RV9uODVUSWY5UkowZFR4dnFQbHozSTk5ZXhiLVFITmZRSXhqN2tNUC1tVU5McjdlT0hZTGFScm1NNlA2cEUtUnIzSTgtbEsxbkFrY09PMkkycGdoLXNnZw?oc=5)
+  Source: Bloomberg.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Alphabet (GOOGL) Stock Falls Again as Anthropic Poaches DeepMind Nobel Winner](https://news.google.com/rss/articles/CBMiigFBVV95cUxNSTc2Y1FPQno3bHpCdFJ5VXlzV0lzWFpsNFlKam5Hc2RnU1RxcXBmOWhpRUVISnJaXzh5Xzd4empiT3BKWFMxUlNOa2xSeVFxdTlyM21GVFdJcUZUU1hWd1VNekgtVU5JN3Rqak1mZFMtdXpaVjFkTXpuMi1KLU1RTHRQaFhSc0k3OFE?oc=5)
+  Source: Barron's
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Which AI agent spent the money on your OpenAI/Anthropic bill](https://github.com/Nu11P01nt3r3xc3pt10n/spaturzu-sdks)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Anthropic launches Claude Tag AI agent in Slack for teams](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XbHRKM2tJTHpER1Q0a1I1aTRJQzkzbTM5OEtiUWJVVDJPcm5JVFVWMW9PUktLMWlmcEtZeEpxc0tEbU8takdPakNNR0UwVmFaN0FaTEJ0MHJLQ1N1T3pHeENwSjJhQWt4?oc=5)
+  Source: qz.com
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Anthropic launches Claude Tag enterprise collaborative tool for agentic workflows](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMlEtc1NLbFotV1FWOW5VSHBrakJBZmpfc3VPdE9Qcm5sR0YybkNzNWtmTmlZajU4QkJZR1Y5eF81VjdIUTVuVFNhbzNpN29fNTEyLWVpdWhBZjE1YW54bTY1d2hoRnBMUXhVdUdWWkZGaW1qc1h2RmF3cnpWTEdMeWNjdHBtaWF5ZUxUeTRZRk1qcUk4SFp6NHBsSVRfZVNicjdZaG53VkVQQU1zMnNRWW1kVQ?oc=5)
+  Source: 9to5Mac
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [How Anthropic’s new AI agent works like a real coworker](https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0J2aUFuTVNjR1pGTXRpTmdFTS1jM2VKNk94NThFbjJDZXZWUHp2QXd2Mm91Tm52TTR5YlNPbW9ZUEdoNmtDdjJ5elRtc3VPZFo0MDU0MUVWWTNOakJEZHQ5QmN2dWd6NEtZd3hNYm9QcDlVNFpYazlBUUZIc0F0eg?oc=5)
+  Source: Latest news from Azerbaijan
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-06-25
+
+- [Low signal day for AI news](https://github.com)
+  Source: Internal fallback
+  Implication: No strong signal surfaced today, but the daily log still captures continuity.
+
+## 2026-06-28
+
+- [Reid Hoffman: SpaceX ‘isn’t an AI company,’ xAI is a ‘train wreck’—and there’s room for OpenAI, Anthropic](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXlNQWNfMzV5UDlIb3FFa19PaXM2VmJmYlNhQ2U4MTFBOWtCOE9iSzNOdjFoTXFTQjltTkNKeHYtWTQycEFEOVNVbXZHOWhfWENOV1kxLTh4NFhlNnA0UjdxRk5nRHJmcjg0R25JOFVTS0prME10Z2hpazZEMnJMZ3g3eUZlN1BGWGUzWVNETHo?oc=5)
+  Source: Fortune
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back](https://news.google.com/rss/articles/CBMiigFBVV95cUxPSFBiWXhDV3VHdk83TGVfaWRuem1fODFCeUg2ckJFcGlXZzJFYUJKTzFQb0FKQ1BJLUZZN0Z3VkxKOW5Yb0lEQkw4WXB5cTRsenFGdnZLUURTeW1KdWZGakFWdlV0dFNRVkdpcElQS3lRNDhSN2x4R2xQT0FCT1Yxa01SbDdkNFdFM2fSAY8BQVVfeXFMTkFzUHpXWjJ3dGkybjdSLXBaNTEyX1Uyek4zU2ROMDRBbU5MdkV5Y3BwRm9PNEx5dzYyRDF5Y0ItMVNPZEVEZ1QzVWFRZHRhbVBJQ2FMRm01Wl9NMkxfbVVzaWcyMmh5bTczQy05MWtSeFRUWUxyeFZoekV2S0kzQXA3Si1xb2ltNVRNQXpXZWs?oc=5)
+  Source: CNBC
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI and Anthropic limit new AI models to Trump-approved customers during cybersecurity review](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0ppQzZqQ1MxQjYzWExCQ3Y1LWlpeXdDV1o2dFhocUpRRWlnSnNxQ3Q1aGNZdXVobmVkeUU5Zm14WXlsaDVuMjM4b0d6X3ZMVUVVVDJxRmpGZEN6eDBabFRHLXc2V1NmWmNXd0UyWENiU1VWaXd0NGVITzRDS1l5TjhQTGZjMGU2VXQ2NFVxZ2QwTllWT3BuR3gxRmxLb3dhMGlibWxrRnRBQ2k2YmtyWEVsOGRtV081bW91akYxSmp5MHlDNTJYeU1Pd2RRbElJSkd6UmdWaTY?oc=5)
+  Source: Anchorage Daily News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI Eyes 2027 IPO Delay As Washington Clears Anthropic's Mythos 5](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXlobjR6ZFFkOWFvNWZfUHhTdFFzc0w0SVJCVHNtOUt4SkFETEstSWZuV1FfRHN0ZFk1YmxSSU1XaC1zQ2QxYzFRMlI4Y3ppRFFSeUVLVzdjLWY5MEhXX0hxanpBVVBqN2hWOXBYM2RVdDNyaFJLSWwyYkU1MUo3RmF4QU4zdV9PRUg3U3FRQnMzUFliMDJWY2hiZlZXU0l6U1VTdjJkNjJCdk84MWd6eXpyZGM4UHpFMF9vTw?oc=5)
+  Source: Forbes
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMF8taEF1Z1U2WElGXzIwUWt0LXpIUVNQSWhGblA4c1NGdmZDNjRqc2tnZ0pLYlYyMzdhVkplOG83b1FpRkFHRkJKMDR6WmtQQkoxVVRFc0hJRV84WGUwUjNFNFhYNk81aWR4MUpyNkdFcFRIbk9TSU0zNjJtaGZQdFowVW9IaGdlMG5vc0tIUTVaOVdEUkVvMi1aQXBiSEpSQ2xWQmRZVnpYd9IBrwFBVV95cUxOaC1qYUpwNng0bktoMjVCOG9qTTZOcW83SDNEY0hHX1cwdER0VElycDNnVFZSaXZ0ZDVMSm5PX1RQT3J0eEZHVFJBLXpZVG5oWmxtWWtFN3p5dXdvY2Nud09BSnlVVWktX1Z4MmV5TjdMZENMY2pRTVBVVFVnaC10NlZlRnVfWTI1TWpqNDVwbmk5WkEtREpzVTZuX0xkclFXS1Iyd1RsXzlPTy1aRFE4?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [It’s not about Anthropic vs. OpenAI anymore](https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2xMaWJzRW1BNGxvdk5VNEQ3aTdabGVKTk9KVFo2bW5ydjNUamQ4S3A1Ny04d2JORjhGUm4zekN2VnNkYjUwa3Bick1uQTZMdXNOdE5laE5lV2tRemhvcldSV3gwUkI1XzE0MUctNzZKMG8zelFrcHFVeUF0R2VUSWNB?oc=5)
+  Source: TechCrunch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Chinese A.I. Models Close the Gap With Anthropic and OpenAI](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5)
+  Source: The New York Times
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+## 2026-06-29
+
+- [Low signal day for AI news](https://github.com)
+  Source: Internal fallback
+  Implication: No strong signal surfaced today, but the daily log still captures continuity.
+
+## 2026-06-30
+
+- [Low signal day for AI news](https://github.com)
+  Source: Internal fallback
+  Implication: No strong signal surfaced today, but the daily log still captures continuity.
