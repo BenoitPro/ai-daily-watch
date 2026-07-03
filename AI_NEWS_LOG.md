@@ -2357,3 +2357,33 @@ Daily AI watch entries will be appended here.
 - [Low signal day for AI news](https://github.com)
   Source: Internal fallback
   Implication: No strong signal surfaced today, but the daily log still captures continuity.
+
+## 2026-07-03
+
+- [A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHN2T0NPR3ZJMWZheVBDbUxxS1pBbHpfSjBmSTNseVFEU0FUcnc1OFJJNzNGZVB1M1ZIdExGb0NfTWpKYnhTSm8xRUhzbm14RWRNRWJyaWctbjVLWmdRM0d1UjFBalpyNDJoTDNwVldrRGxGN1U0aUtUcEp3a2t1aDYxdFpfRFMzZDZodUNNdEJpMkoyOWFYakZLb1NrZ0M4a01qQW9HTkFUQkltaGNjWk9CcXYxUGdndmNPclNEOVlxVFk?oc=5)
+  Source: Reuters
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjY0UDRiMHluV01ZaDgzU0plUVI3NFdhSjdncmhKZXdHQTNDSXBLRHdOMEVjVU9nNXJzcjN2TFozRTJwVTQxVVM0SU1kcUlGZE9mZEVpT0tuWTk0anBzYnJjdXJ3bGRfb0RISFd5c1N3SjMyaG5SMUVjWFFfTlVpdTlHc0dOX3c?oc=5)
+  Source: WIRED
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFFfb2FXMUNJVDQ2MnBIS0l3MHRiTFN2MUlxelFrc01rakRIeWRMaUktQlRwczl2UWZpdXEwWWRLMlFSQXBNQVh4UFJla0gzbUVNVkV2VXlLdW9mZGlOdVl3ak9Sc2lOdUNiLWlkNkNMWUhwOXNpUXdxd000bmVRR9IBhgFBVV95cUxPTHlva1FyR0F0anlNZjNRd2c4bDYxWXhTNEJUUHhUYkpNQm9qV3UtX3BLMFlWZ2NEc2dheWloeU9Jd3dNekpQMEswY0NwT1pUcTFTeC1kOW83UmluenZoT21kbk5jbTFhQ3NBNUxnQi12TU9QUWdpSml5UWxnTDQzSEN6UnRXdw?oc=5)
+  Source: CNBC
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI](https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Palantir's Karp bashes OpenAI, Anthropic token model as completely wrong](https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Chinese A.I. Models Close the Gap With Anthropic and OpenAI](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5)
+  Source: The New York Times
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Palantir Stock Gets Analyst Upgrade Amid Anthropic, OpenAI Rivalry](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSHlxT1dHRG9zR3JxTy1JcTY1UktXQnp3OFFrREZtYjFHeGdZRFh1SDZhV2VVcmttSUpSY1BhWGsyV3FyVW1BNXZRRDRDZXMzNmtULUJLRWpwUEZWSHNMUnE3ZHJwUUd1ODl5TVYxZ25JZkNaTXQzTi1aYWdoYUJTWGpyNTJ4ZW1oZzJxci12S0U1NVdoRXA5eU1lWTg?oc=5)
+  Source: Investor's Business Daily
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
