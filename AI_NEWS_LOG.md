@@ -2399,3 +2399,33 @@ Daily AI watch entries will be appended here.
 - [Low signal day for AI news](https://github.com)
   Source: Internal fallback
   Implication: No strong signal surfaced today, but the daily log still captures continuity.
+
+## 2026-07-06
+
+- [OpenAI, Anthropic Speed Toward IPOs Amid Growing Scrutiny of Token Payments](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOG9DZG5LNENteFpPaUxudUYtQk11bC00bHFUaW5rai1kcVU2WGh3cFROaEJRWTloTFRSVnVMTXpDMzZtWVhJN1pXZl9FMEJqV2QwYkc0RFJIMlhpV0ZvUmVQQWM1bkRwU0w1b0xxdDNUZEJiaFZWVHNqckFZRUdqYmxUVmdFMC1ZRmNxLWFYVksxdkxJMVJVTDBYcUl3aGF0SFRUQ054bnNwRklhS3k5djZncHRrTjZCSjc2SGRmdEdEc2twT2JMV1ZXd2x0SExUdVhsMHNWTzBIRHdPUkE?oc=5)
+  Source: The Daily Upside
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHN2T0NPR3ZJMWZheVBDbUxxS1pBbHpfSjBmSTNseVFEU0FUcnc1OFJJNzNGZVB1M1ZIdExGb0NfTWpKYnhTSm8xRUhzbm14RWRNRWJyaWctbjVLWmdRM0d1UjFBalpyNDJoTDNwVldrRGxGN1U0aUtUcEp3a2t1aDYxdFpfRFMzZDZodUNNdEJpMkoyOWFYakZLb1NrZ0M4a01qQW9HTkFUQkltaGNjWk9CcXYxUGdndmNPclNEOVlxVFk?oc=5)
+  Source: Reuters
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Meta Platforms restricts engineers from using Anthropic’s Claude and OpenAI’s Codex](https://news.google.com/rss/articles/CBMifEFVX3lxTE9jODJrQ1hpZUFHWHRTSDd5eXlFZGlpWnlWd0t2TG5scnZHZEtwUmVlZ1RURng5bTJhNUNDQUVJck1MeTRKVzg5NTl4czJtaFBFRERwZ05LajRpaTdveVF0eklFVElqRzZLRmxXdG9STXRQUDMyUE1NY3RVTlI?oc=5)
+  Source: Crypto Briefing
+  Implication: Developer tooling keeps getting more automated and competitive.
+
+- [Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjY0UDRiMHluV01ZaDgzU0plUVI3NFdhSjdncmhKZXdHQTNDSXBLRHdOMEVjVU9nNXJzcjN2TFozRTJwVTQxVVM0SU1kcUlGZE9mZEVpT0tuWTk0anBzYnJjdXJ3bGRfb0RISFd5c1N3SjMyaG5SMUVjWFFfTlVpdTlHc0dOX3c?oc=5)
+  Source: WIRED
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI offers feds a stake, Anthropic gets out of AI model jail and Meta wants to be a neocloud](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVZtZkV3M21iYVRWZHFQS1VBVHFJUF8zM2NXWkhaMzl6NlNIN1p3R0c4NUY4U1ZsbHo2YmtDMlNIUmRpNkNzZ0pWN2pmb2VnQ18wUy1GX2k4SzQxVzdDZWE1Z0Yyd0FFY204V0FtcGM4eXlmYlJJem93NGdMQmpMTVlGbmJsRDBnbXk3WHJNRFk3UzhyU3RrMkdvby1hb0lzang0TTN4MUM3UElBRkNv?oc=5)
+  Source: SiliconANGLE
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI](https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGFMWVRTUTB1Mm9LMFJBUFQ1RjZ1ckJRSi1JMmtQQWxEVFZNOUlPYW5NYkJmeF9BNU0zaERVdmh1TDVBVGhSZXMwaG5HR0dPeTlmOEt4VE5uNl8weFR4OHlwdlRjNlJBUzd4cWItNGxNWEx5ZHJzc0lUOEcwWmpKbXhpTWlWUENFNVk1akJ1M05hWVhWcUQ2NDZEeXhaaWY5dEE?oc=5)
+  Source: TechCrunch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
