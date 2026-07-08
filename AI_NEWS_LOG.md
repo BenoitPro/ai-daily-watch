@@ -2459,3 +2459,33 @@ Daily AI watch entries will be appended here.
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGFMWVRTUTB1Mm9LMFJBUFQ1RjZ1ckJRSi1JMmtQQWxEVFZNOUlPYW5NYkJmeF9BNU0zaERVdmh1TDVBVGhSZXMwaG5HR0dPeTlmOEt4VE5uNl8weFR4OHlwdlRjNlJBUzd4cWItNGxNWEx5ZHJzc0lUOEcwWmpKbXhpTWlWUENFNVk1akJ1M05hWVhWcUQ2NDZEeXhaaWY5dEE?oc=5)
   Source: TechCrunch
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-07-08
+
+- [Microsoft is reportedly ditching OpenAI's and Anthropic's AI models in favor of its own to cut costs](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnFtZlpHSlF3bm0zbWR1S3B5amdoYXVoNG04TndpYmc1SGctSzRJOW5lUzJCbkgzalZZSzhFM3h1T0hoMld0S3NaM0xoOThSVGgtVHlRMzgtbWJyb2tjbzB4OV81TW40dUtvRHQ5bUJRNlpPQ1ZyN2ZiV2dLVzdFOVM5SHVsTGlUSTBGaUJmYW1SSTJjRzB5YWcwbnRkU0NkSjZlbTZvZkZpWkNQYjdfLQ?oc=5)
+  Source: SiliconANGLE
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge](https://news.google.com/rss/articles/CBMihwFBVV95cUxQempzVHpGakNndDQtVHVKbUhnbWJZTFVyaTJYRXc4dEFrbVVVVG91aWVPWmlabXJyNWpiQjZWdFdzbkl0a0JrR25SYjIzM2dlNDhZU3NQN3djZ0txSGp4NVBTTmZfNjVzdHNralJwc2VMRTlxd0FFcmNJU1YxTHY2d0Z1TnpGeDTSAYwBQVVfeXFMTWNWajVVa1E4LUFmSkxieEhfOGhPNHFDamRRUmRma0xOYzNVXzBKTThOSnVBS2RkY2JydlNoU1dQcHR4UU9qNmlINmptaXJnOTdhbWh5QXlwbDk4SzBXcUVYZUUtYy1YTG11bjREQ2xMMmNkelFMSDFJQjA0ZlJjajlxWGFpNGZQaGpnbXM?oc=5)
+  Source: CNBC
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs](https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWFDTlgwWnhTVWt4Tkp6aEN0TXV6dGUyNU14bnppNjlkOUlUYWlISVdLUDl3TTB0bjVzNTRGSElwZ19mVVZBamR0X0RWazVzd2xPS1R4bTItZW9DNzg3RmNZUVJJWVdjUDdYUHlPZ21wQWZDeXFPckltVGhZM3lpTXB1Vi15YnZsQmU2UUt4QVM1NExLT05TeTI1endXVndBZmptbGE2ZXVjcU1I?oc=5)
+  Source: the-decoder.com
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Microsoft Starts Replacing OpenAI Anthropic Models in Office Apps](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbGVfeXR1aHpzZnRtSm0zRnZRQlFRTm1sV2hxVEFMdzdZZUxELW5nbHlGS1BHWHhEVHdJb1Z2THQ4OUZXYi1FZUNUSUozM0t5SE80dUdIZjFtNl9tbUpFLTBDU1VpakM5ME1JbjJ5UGNMLXJsa2dmYjRqemNwTzJxNm01QzhLTUpqWm91UGJOMHZCU3JCLWQzMzdMT2haYUwzQVRuUg?oc=5)
+  Source: Let's Data Science
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlNxT0NESlRpNlEyQnN6ZXIwQU5Rb3JQY2RZNS1WOEVrQkxfUHRhWk9XMTRPQlFfM09QOGdlX3B4S091WThRdlN1emh3OENOTEw5QkdhZ1dkcERmdDJjemU3a0VJYUhLWDNzeHFweDUzbWxuT0FjUGNPdEhTREhMa2FldEpJelE1SnZoUjJTSnQyMlc0MldoZF80SHE0d3BrUlBDeUVFT3Bsa3VoUTF1Tg?oc=5)
+  Source: Bloomberg.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic and OpenAI Face a New Threat from China](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGFXU3Q0TDd3WERsRnF6dEZvSW1KN0o0YVc2TUptU2YzWmpBZFRvNVpKR0E0WmZHdzZVbVpGaS1ycTIyZmtOY1Y0SGpsY2Z4WWo4eVB1M2NMMzRzZ1ZmdEdhbnhlNHdOc3ptakgtU0tDSHpqbjFyU2lTMHZtbDQ1R3duNGhfY19RLXlKcUtUWHB4Y2xYWWpYSjhXUXdyY0tPYlJPUms4dUx2X0dQYkl2bzV3ZXg?oc=5)
+  Source: Bloomberg.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [SpaceX Is Quickly Entering Index Funds. Will OpenAI and Anthropic do the Same After Their IPOs?](https://news.google.com/rss/articles/CBMimAFBVV95cUxONHlZUFZ2bXJGTHJ0OEJ6Ul8xOFlVc1htSDE0OFpwSEdxTGJMRTBoUXQwb2ZqTDJ3di1jWDBlZTU5TG9ubW1LMGZEY2VTdUZNdEhxREJIdVktS195ZXZyQk5xMFdHWnJfSjYxWXlZTFpMZ2JULTFhWkRzcldGMVpMVW85MklBX2d3bmJVTFlLcnlBTnNId2REdA?oc=5)
+  Source: The Motley Fool
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
