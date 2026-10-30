@@ -2489,3 +2489,63 @@ Daily AI watch entries will be appended here.
 - [SpaceX Is Quickly Entering Index Funds. Will OpenAI and Anthropic do the Same After Their IPOs?](https://news.google.com/rss/articles/CBMimAFBVV95cUxONHlZUFZ2bXJGTHJ0OEJ6Ul8xOFlVc1htSDE0OFpwSEdxTGJMRTBoUXQwb2ZqTDJ3di1jWDBlZTU5TG9ubW1LMGZEY2VTdUZNdEhxREJIdVktS195ZXZyQk5xMFdHWnJfSjYxWXlZTFpMZ2JULTFhWkRzcldGMVpMVW85MklBX2d3bmJVTFlLcnlBTnNId2REdA?oc=5)
   Source: The Motley Fool
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-10-29
+
+- [Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT)](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0t1WGo1ZEJfVnRkMUUzbzJUdVdJRG5BYVVRdDRBa2xNbFpIand2MGt1Qng1VHBLbGlfMEVxLXhlN2F5dG5FVWpfdFRvVFh2NE0wLThDQVFtV3ZyODJ6Ui00end4TWVTdmdJcFNKYUJWbGlEZ2dVMGdPanotM2lwUU1XamsteTdLbFFObFlrZHRqaTA1a1lVSVM1Vy1SZ3o0eHZOYUxLQVp2RTNZU3hrbGJCYw?oc=5)
+  Source: Benzinga
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development](https://news.google.com/rss/articles/CBMilgJBVV95cUxOTmJmZ3lwWmpKMlowZmpaNEx4ZlJWbW9YTjZDZU1MUDEzZnJYVzhlS0g4emQxdVFxZXJGWWRDTnlIdGRMT0lNOElxWjBNUjZ5UWFTQ2l5RVFCWG1ScEVTYi1sY0dtbnhNME9YMktSYmFmR1dtcWVISHhqakhyRGlBbnU1aFpTOTRpczRaMHh5SjVGV2piQ3pXdFNPVjcyU1ZtcXl5RkxtRG55M0F6bnhTek50YzdPc1p5V3FPREVfSm9ncmxzZ2NKUXAyRThBTEstUWpKVjlic0w2bE5ZdXVtcS1aV2Zkc1RwRml5V1pLbzRLMXVKYXdaelpYTlpkVjhsZmdFdHpsLTBVSUJZMjgyOEdyX3dtUQ?oc=5)
+  Source: ServiceNow Newsroom
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Anthropic just launched tools to show companies what their AI spending is buying](https://news.google.com/rss/articles/CBMitgFBVV95cUxORDlBbXhmcEdpSXhaQ1YyY0llV1JaU29fZzFvZ2xBdDZzdlEyVWhuR3k4QWpSQ196MXI1SUVVVlBzMER5ZUZHOUF6bVJYZVg5cXh1TTlOdWJWc2I4N0laSmpRNGg1Um1qQ05obkVPRDJiUm9lQks1WFdQdUp1SldtVV9PMnVicVRJcTlUMWQzZDFjbXZqS2lVU3hNeVBCb2FKdXV5YWNjZGdpUmY2TWs0ckxXdHgzZw?oc=5)
+  Source: TechCrunch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits](https://news.google.com/rss/articles/CBMiggFBVV95cUxQbzh3WHRfc1NZQVJFS1ZaWURuVmhrV0hhS3d0UEpYeTQ5WE5pYVFLa3RrcWNaTmVmT0ZMaXBZWHE4cERGVmg4OFdRZzVtTnFFWFotNWRhb2hhYTloOXlpV3pSYnlBU1pVQnFfc1J6WE45WUFPSjZkRWZvRm9VTzZOUExn?oc=5)
+  Source: The Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [How AI agents shape experts’ judgment calls](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IaTRIX2lBc1kwcDRXenZsRXRxcy1vZWVQVlBGdlJsS1p1bkpOQzBpblRRU0l6elhUa0Z3a0RmOVlaV1NmUlgxU3pQWjE2UTVNcEdMdDBBQ0VobFBMS2k5MS1yQ3dQMzQ?oc=5)
+  Source: Anthropic
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Inside Anthropic’s IPO + How AI Agents Spy on Your Messages : Machine Gods](https://news.google.com/rss/articles/CBMiowFBVV95cUxPTzZmaWlydTRmOXk1ODN0ZTVZc0lJMVd5cHpBMVVJVlhrZzUxNnlGNWJGRHRTQ2pWSXNFc2Y5bWU5UWZWczJfUjJqMUV6MmxHblhtVHoyNFFreTF2UEFZMFNiX3l0Y3BvTm1GVW5WYXZnXzI0YmdkRHV0QXc5azBqLThySm0zalBxVkszeHQ0emkyZDMxeWdOcFRsT01GeHVPalc4?oc=5)
+  Source: NPR
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Rogue OpenAI agents targeted three separate US Government websites](https://www.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-10-30
+
+- [ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development](https://news.google.com/rss/articles/CBMilgJBVV95cUxOTmJmZ3lwWmpKMlowZmpaNEx4ZlJWbW9YTjZDZU1MUDEzZnJYVzhlS0g4emQxdVFxZXJGWWRDTnlIdGRMT0lNOElxWjBNUjZ5UWFTQ2l5RVFCWG1ScEVTYi1sY0dtbnhNME9YMktSYmFmR1dtcWVISHhqakhyRGlBbnU1aFpTOTRpczRaMHh5SjVGV2piQ3pXdFNPVjcyU1ZtcXl5RkxtRG55M0F6bnhTek50YzdPc1p5V3FPREVfSm9ncmxzZ2NKUXAyRThBTEstUWpKVjlic0w2bE5ZdXVtcS1aV2Zkc1RwRml5V1pLbzRLMXVKYXdaelpYTlpkVjhsZmdFdHpsLTBVSUJZMjgyOEdyX3dtUQ?oc=5)
+  Source: ServiceNow Newsroom
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits](https://news.google.com/rss/articles/CBMiggFBVV95cUxQbzh3WHRfc1NZQVJFS1ZaWURuVmhrV0hhS3d0UEpYeTQ5WE5pYVFLa3RrcWNaTmVmT0ZMaXBZWHE4cERGVmg4OFdRZzVtTnFFWFotNWRhb2hhYTloOXlpV3pSYnlBU1pVQnFfc1J6WE45WUFPSjZkRWZvRm9VTzZOUExn?oc=5)
+  Source: The Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic just launched tools to show companies what their AI spending is buying](https://news.google.com/rss/articles/CBMitgFBVV95cUxORDlBbXhmcEdpSXhaQ1YyY0llV1JaU29fZzFvZ2xBdDZzdlEyVWhuR3k4QWpSQ196MXI1SUVVVlBzMER5ZUZHOUF6bVJYZVg5cXh1TTlOdWJWc2I4N0laSmpRNGg1Um1qQ05obkVPRDJiUm9lQks1WFdQdUp1SldtVV9PMnVicVRJcTlUMWQzZDFjbXZqS2lVU3hNeVBCb2FKdXV5YWNjZGdpUmY2TWs0ckxXdHgzZw?oc=5)
+  Source: TechCrunch
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeXBXT2w3eVBYWFF4b1M4Y25UeUcyVTlfQjZhaFhHVnpwSHZpYjQyaW1mWjgyZXpiazRETFdsWC1zSndpQzF6dGZRVmszRU5NN1h3ZFM4NmJEc1d6MjZwWlJaSHRiNm0wMkFGVDJ0czdyaWtRV1dweTNuMFpmUnc1Mkp0NlVMNzdGVXJHTzBxWU1GR084aktYQnMydkpBRmFPaTN1T2ZxN0F6Wk1TeGJ1ajlRMA?oc=5)
+  Source: The Decoder
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjNidjZYcnoxeE9Gc3NzX05BMlFMeDVwRjF2eWNNQ0FZTWR2amRmYm9YVzFKbmJteUR1TEZpallEUXBoeFVKeDBQemNhd3ExckNJUzYxMmFIXy1NNEhqNUdHeW1OVWdyVVRMa2ItV2pxOWhEdzlXRU80NVhOd1FPRFdGSDh0VHRTLWFXamJJUlNabTQyMlVNNjBqc3FMQkg1enB3TlBQcW1ESmhJa1lrcVRpeHJWRFNjdjhB?oc=5)
+  Source: TechCrunch
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Rogue OpenAI agents targeted three separate US Government websites](https://www.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [An updated Model Spec for more capable and beneficial AI](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xNEEzYVdFemd2ZlNTclVaYVZ4M0JlcTBSODQ2ODlQRWpkc05hWk5sMDIxVG00OEJCbm8wX284VFBTTm1kUEktV0VlemVUQzI2WWFBNTlOWQ?oc=5)
+  Source: OpenAI
+  Implication: Model quality and capability shifts are worth watching for product planning.
