@@ -2579,3 +2579,33 @@ Daily AI watch entries will be appended here.
 - [Negotiate an AI Agent Model Swap Clause Before Your Vendor Switches the LLM](https://news.google.com/rss/articles/CBMipgFBVV95cUxPal9mY01Qd3BCSEVOWTBnNnp0c1lLTVFCZk1XcktjYllCdG8yNElRQWFHV3Fic29CWGRjQkEwdHAtRWJldjlfd0xUS3U3RVJkQTBlZV9Gbkh3WUZmOHRmZ0ZWRnNIUVBwMGxZdzFpbko4aEZuNS1NZkxoOWRjNGRsLTltTXNJdXN3dnd4ZDZ2bTYyLU1IZkJMV0dnVGNxdnBOXzlyRnZ3?oc=5)
   Source: Startup Fortune
   Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-11-01
+
+- [Why Google, Microsoft, Anthropic and OpenAI need their own AI detection tools](https://news.ycombinator.com/item?id=50314217)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [AI: OpenAI’s ‘Trillion AIs’ Future, as Anthropic Goes Public. AI-RTZ #1257](https://news.google.com/rss/articles/CBMiekFVX3lxTE4zM0gwNjRmU3Q2b3pFTUhlTHhXNWFmOElPN3Y0NDJJOEZsX1U0U1l3UUpRT010ei1jUEk2dFNvanJYTDBlall5S2ZUZ01FOHVoSHgtVDRYTElCeW1maDV6bExEakVyTDV2ZWppR1BvSUl2cERZbXh1c3VR?oc=5)
+  Source: AI: Reset to Zero
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Show HN: Convert Anthropic and OpenAI bill exports to FinOps FOCUS (open source)](https://github.com/mandarvshinde/ai-bill-to-focus)
+  Source: Hacker News
+  Implication: Open models continue lowering adoption costs and increasing optionality.
+
+- [DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGJoZUdrNzFHTjRVcm9OOVZ5a1Z4dVB4ME1aNjlmYmdjX1ZOTXNWTFJTNFFFUkQ2UUxxTGV4UDlOS0RjMnRlWlFUZ04yemVtQU9zU3FZbHlWY1YxMi1YSVBGb3k5cGszYnptNnZVZk1mR1NmS0RvLUhOeS1QUmxZamtoNGgzR21CR2tmY0JUd1c3YXBBMlc0SDhkZm9kOFRtZ3NvQ2RLNVZOYnFaV2x5Vy1ra3ZNUQ?oc=5)
+  Source: Bloomberg.com
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [DeepSeek launches autonomous coding agent to challenge Anthropic’s Claude Code](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU3ZjNTJLaFEza3NuN1FnWVJkSjNzVXdsLW1VMjFrZDVsOTFzVGd6S1BvU2VMRkNBVlpHU2huZzBIU0xTZ0VtcWVMSnFGZHFhazJKLU1BUU5VQXNEejUzbXVrRHZDS2dnTG5jSFdmTjEydU4yaExlRk1Ed1VHelJ1aVFMeDhfSnNjZGVYVFNsd1VsS0owbGxJQ0stVThkdmlmaHFqMGdpOUwwOTJfOFlpTFpEd0pCN1VSVmVsdVd4NHJuZExjSVJweg?oc=5)
+  Source: Investing.com
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet-controlled motorized surgery rig — Opus 5.5 refused to conduct biological experiment, Sonnet given free rein to treat epilepsy with a range of gene therapy vectors after](https://news.google.com/rss/articles/CBMixgNBVV95cUxPRzRlX1FTdGl2RVpEQnROZ1pSYTJ6dEZweEZDemRUNl9lcEd4eUxHS3hGNUlqUk5JcEEtNmhYOFdOQU1ZNHYzcTlDb0xkdUo1N0t4TEMzWkpBaENGTlNNbDhmNjNONlk1aEM2TUdyclFEVEtjcGMtY0U0YVZ2TVBVUC1IX2M4b3huWlU0WGwtLTRBSEVKNS0teGU4d1FuV1ZmOE5sSmxTbTFZX3Z4TzhvQ0N3TGdJQWVKVjNqU2dWSnIwQTFyMEFYN3dia2FMQ3JieElERXhYYS1PcExrSk4zSDd4anlHYUttR2pJdkttTG94WDVaemw5VWllc21KeFZIY1ZGc0FTRDN6THdQMV9xV0ZrYnRIRTZxS1dOWUNGQVE3Q0V2RDcyZi1nSVRCRWg2cE4xY3R6TGpmWC1ua2RMdEw5cDN1S1o1Vnh5R2s3NVlzU2c5MmxETEZOazM5WGJBREVCa0p6VF9OQmxKdVdMY0ZyNGZCMWxHTTh6TURyYXlFMEN5TTM1dGZ3djRxM0pCQl9zRWRwNjdzTmVhN0NtUmpDWC1qUjM5Q0hPSDdhb0xJNnI3WW5CSktiRF92YWI5UE5vaWdB?oc=5)
+  Source: Tom's Hardware
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWDMzWm02MGN6RVlDODUtYURnZ3JVWndvZE1BUGdSUko4TXN0amw1aEZZMGpYRFVGcjg2NDBNRXhMam5KTzktWDdVZW1uWkY5dEJfekpjSlJXcWZyUl9KNjdDV2ZQRkZlbks5OEtOclZiWXJUdERTMl9zNWxhUTg1enE2TGRmeG5VLWhZSmpHeUxUbUZYcmkw?oc=5)
+  Source: Yahoo Tech
+  Implication: AI agents are becoming more practical for day-to-day workflows.
