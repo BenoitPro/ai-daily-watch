@@ -2615,3 +2615,33 @@ Daily AI watch entries will be appended here.
 - [Low signal day for AI news](https://github.com)
   Source: Internal fallback
   Implication: No strong signal surfaced today, but the daily log still captures continuity.
+
+## 2026-11-03
+
+- [OpenAI, Anthropic Expose Gaps in AI Agent Monitoring](https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2pDckVXb2RqNy14RzFFeGo5MzJESUlFNlp0cmdkY3ByMGtfWDVqWVFpbElkYnlRcmN6QkVtYXVFa2tyN3JmZDdobzVUZ1RieVV6d3QxWVo0VWJZN2VvaFpmT3dJWXE5R3hIZHBHajdHWm5tRmJkNHVDNHFOdnBzVmZNSlliT0xHOFlLTHFEUDVKT1ByVW00?oc=5)
+  Source: BankInfoSecurity
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [How Open Models Win Against OpenAI and Anthropic [video]](https://www.youtube.com/watch?v=zsO5RktNB7k)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI, Anthropic Seek 1 Narrow Copyright Path [2026]](https://news.google.com/rss/articles/CBMijwFBVV95cUxNNHFTZUJyZDBFYUxScGhaOFdsMFlvbWE4RHl3NEJPWS1vNnB4cFhTRXZxa0gwNHdqMHB4OFdwVjBtbi1CNHI2OFBKTDczejFDM0dxclFHVDItQjBONjBncWlMZjYtcEk2aEN4UkdTTGh6bmpJWDhTQlZXVGxoREpSYXBkVVFxOUQ1ZmxSV3ZONA?oc=5)
+  Source: tech-insider.org
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Opinion | The Great AI Rift: Why Meta, Palantir Are Fighting Against OpenAI, Anthropic, Google](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSFExQTlEX2Y3NG5jaXFRdmFLY1FZLWhRQVAxZVViTFgyZTZVbXY3SjVfLXdmMXhNSFFZS2ZmQk9CbmVUeEI2Zk5NQWpVNGFJbHpqTWhfYTljTjF2ZlhSN3U3ekFfcGQ5c0JnOTR4R2l2UWZXMU80M1ZlcjNxdWFGZGtBQmoyVUNWYlJvX0tXZXFVS29zeTJaUnR3UzdtMVZyRnlvRnk2SlN1b2FPNU5rbkthVFMwUjBQYVE?oc=5)
+  Source: NDTV
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Why Google, Microsoft, Anthropic and OpenAI need their own AI detection tools](https://news.ycombinator.com/item?id=50314217)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Show HN: Convert Anthropic and OpenAI bill exports to FinOps FOCUS (open source)](https://github.com/mandarvshinde/ai-bill-to-focus)
+  Source: Hacker News
+  Implication: Open models continue lowering adoption costs and increasing optionality.
+
+- [Anthropic Enables EDR Monitoring in Claude Cowork to Detect Hidden AI Agent Activity](https://news.google.com/rss/articles/CBMicEFVX3lxTE45OFMtMFVaZlRnaTU1WkZyQ05HVFlJWkdUR1RWRFBwTHNvQUpyT0k3c0lxM0tEc0pyWHYtTTktMWdEYmUyYmtPNDk0Z3FEYXlWc1NzVTc2WHZ5cEdxMGNXRmJWWnVEcGxNb0FTSGFaVUjSAXZBVV95cUxOM3ZuNEVrUDk3eFFJbHBOVUxjeHpiNUVGT1JqUEFJeWRhdVVRakhlZTdsSzY3V2hHT1VVR2FqYlR5YXRscktTQ2tFbTBLOHZkendvRFN6TDF4MzA0cW9HNDh4ZUFQbDFUN2RIN0VQRlk1TlUxUUZB?oc=5)
+  Source: CyberSecurityNews
+  Implication: AI agents are becoming more practical for day-to-day workflows.
