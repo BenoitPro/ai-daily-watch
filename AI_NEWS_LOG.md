@@ -2645,3 +2645,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic Enables EDR Monitoring in Claude Cowork to Detect Hidden AI Agent Activity](https://news.google.com/rss/articles/CBMicEFVX3lxTE45OFMtMFVaZlRnaTU1WkZyQ05HVFlJWkdUR1RWRFBwTHNvQUpyT0k3c0lxM0tEc0pyWHYtTTktMWdEYmUyYmtPNDk0Z3FEYXlWc1NzVTc2WHZ5cEdxMGNXRmJWWnVEcGxNb0FTSGFaVUjSAXZBVV95cUxOM3ZuNEVrUDk3eFFJbHBOVUxjeHpiNUVGT1JqUEFJeWRhdVVRakhlZTdsSzY3V2hHT1VVR2FqYlR5YXRscktTQ2tFbTBLOHZkendvRFN6TDF4MzA0cW9HNDh4ZUFQbDFUN2RIN0VQRlk1TlUxUUZB?oc=5)
   Source: CyberSecurityNews
   Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-11-04
+
+- [Irregular Says Human Error Allowed OpenAI and Anthropic AI Model Escapes](https://news.google.com/rss/articles/CBMiygFBVV95cUxNNEloZHhzMVU5bVlmaUZRbndTcmItWTFwQS1hV0RBZmdjcF80d1pnYksyUWRCeG83VTVoWURZR3BDb0RhMGlrbTZHYVR1OC1Lc3pJS3FKVlFLdDU4NjRJa290aFF0T1hRUzhLUEVBZHNma0dXRnNMb2tSY0RFTjRNSDZ0dlU4dWtXaFd2Nm5zZVVGdWc2LVRaajIzX3lCdy1VdzJlc2JWVlU3SE9sb2Ezd18xZEU1R29VcEozNkQ5My1va2w4TDZLOFVn?oc=5)
+  Source: PYMNTS.com
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEZ5UW1FNFkxcXk5Y2pzN1hqR3dPZWdRRm9PT0phR3Y1cVg1N1E2RDk1ZWFCM2tCUnhvbVBHRVI0X2tfNEh6aFVmd3lxSGVvQ2s4SzRqQUFPMXJuUG5Sb19VMkpud1dBVVQ2VVBSMnM2WnhPLWVBTXFUZTlKcEJXRC1CcHdoUFZNWU5j?oc=5)
+  Source: The New York Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Firm Tied to Some OpenAI, Anthropic AI Hacks Blames ‘Error’](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUklSbXZLcFF2c2hDTjFvTWprbnRVd2hBOUhwTlhuTDNIRVhicU92c1NBNG1hVXFMVm1PczFqQW5fWFN2TFpNWXhvWlM1cG4xYkxRdFZyLXpnc3dMR3VyR0plYTFxOV9zUFhwNElqWHc2NEJ0SnE3MG9lTnY0djliOC1scERac1NkRGxaSVlWYVZxa1RGaW5KdXVPNnF5UTdaWGhUWTBYaEwwWlplUGNFNQ?oc=5)
+  Source: Bloomberg.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI Hires DOGE Alumni Who Hacked Into Anthropic to Strengthen Security](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUhrSGxaV2NYak9yUHU4Sk1yalo3QmJYOVAzV2dtRm5leGdwc2tpekRZYjlWTWVlUUtuWmszNFpmcF9rN0tzZDllQ01QdHhzVktYRnUwMlViYUYzenZuOXNZLUdFQnBiYTg3cXUxak9hZUFwa2s5MjMtdGc5VmVsRkZrVFVJX3JIc3lEV2xZOFVLV1BTVklnN256YjJ5NUE1RUVOdURJTQ?oc=5)
+  Source: Gizmodo
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Why Google, Microsoft, Anthropic and OpenAI need their own AI detection tools](https://news.ycombinator.com/item?id=50314217)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Show HN: Kubernetes Operator for the OpenAI Managed Agents API](https://github.com/softcane/codex-session-operator)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Show HN: Convert Anthropic and OpenAI bill exports to FinOps FOCUS (open source)](https://github.com/mandarvshinde/ai-bill-to-focus)
+  Source: Hacker News
+  Implication: Open models continue lowering adoption costs and increasing optionality.
