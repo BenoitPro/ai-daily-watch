@@ -2675,3 +2675,33 @@ Daily AI watch entries will be appended here.
 - [Show HN: Convert Anthropic and OpenAI bill exports to FinOps FOCUS (open source)](https://github.com/mandarvshinde/ai-bill-to-focus)
   Source: Hacker News
   Implication: Open models continue lowering adoption costs and increasing optionality.
+
+## 2026-11-05
+
+- [A top Anthropic product leader has been poached by OpenAI](https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmtsUnhTLUhSSnp4Q09CcWhMcS1lSGhSOUZKdUtWYUJxeW9YdHBRUTV6WW9LNUZ2RlRVWl9tUG02dkRMSzdtMk5NbENYVVhfczJMQ1lkV012RnFiTXRNUFhGdktjakpRcGlKWDRvQzFsNEZ1cnJDcTg2UlZpQWZ4WGpHVWdPejdlQ0E2QjZtNXRVLWRqdXBB?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEZ5UW1FNFkxcXk5Y2pzN1hqR3dPZWdRRm9PT0phR3Y1cVg1N1E2RDk1ZWFCM2tCUnhvbVBHRVI0X2tfNEh6aFVmd3lxSGVvQ2s4SzRqQUFPMXJuUG5Sb19VMkpud1dBVVQ2VVBSMnM2WnhPLWVBTXFUZTlKcEJXRC1CcHdoUFZNWU5j?oc=5)
+  Source: The New York Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Latest Fundraising Efforts Show OpenAI & Anthropic on Divergent Paths](https://news.google.com/rss/articles/CBMickFVX3lxTE1kYTllN19OWlNXeVRtYUpaUW9HZ01HWXl1NUt2V3oyeGJTZm9McGZTMWE0VWcya0FkRGFCR2tBZWlqRWxQUWtUb0k3QXFOWW5xUmR0RklWenJid1FsbkVfWUdnOU1jMTZVSWRMM0QtMjBIUQ?oc=5)
+  Source: Newcomer | Substack
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Cat Wu, Former Head Of Product For Claude Code At Anthropic, Joins OpenAI To Lead Product Management For Core Products - X Post](https://news.google.com/rss/articles/CBMingJBVV95cUxQYjQ1dWpBVzVnOGo3NEMyc0I3Y0hlcS0wamVISmZFZkQ5WXdkWEhBYVVmdlp4endVOEI1aHo4MlkyOWZacW9zUW9SZGM0d19KWnNYbmxtZWNKNFFJUm1XX2hud2VtcmhsOTBOZGoxRnZEdGZnQV9QY3ZyRWdESW5tM1Y3eHNHYWU4V2NFLVZUSVA4V1Ytai1idE51dDVMeW03NkthbU1sMlB0WTVtOERzNzNQZ3p3dEdKWFJfbEJ3bDYyQWRyLVFzN3NlWjFkN3BvZVR4MzJwTHFxdUQzU0huVUtUMFh3UkFnQTZlanFOWXZvWV9kRFhhdTRfUm5DNmZuWXZITGczaldaRF95Y0xHbzZFNVFfZnRWVDFuNl93?oc=5)
+  Source: TradingView
+  Implication: Developer tooling keeps getting more automated and competitive.
+
+- [One Wall Street Analyst Says This Stock Is the Best Way to Invest in Anthropic and OpenAI. He's Right.](https://news.google.com/rss/articles/CBMimAFBVV95cUxQd21NUnNic0o5UE95R1BvMmt3VG1UTF8tT1BWR2JfLUFydG42U0lZdHZPaG9yN0lmaGRLQzdCWEUyS2FvRXVTcUx4bWdyelc2bEd5bHdZNW5jTjYwNlpibDZsVnExeUxPYnp4LUJwb21TWnRLQkVSamZMcVJDWGxQdlZ2ZW1sNHFPbHI4dHZ3TlZoWWFkb1dRbw?oc=5)
+  Source: The Motley Fool
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [How Open Models Win Against OpenAI and Anthropic [video]](https://www.youtube.com/watch?v=zsO5RktNB7k)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Why Google, Microsoft, Anthropic and OpenAI need their own AI detection tools](https://news.ycombinator.com/item?id=50314217)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
