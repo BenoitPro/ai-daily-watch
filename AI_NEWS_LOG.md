@@ -2705,3 +2705,33 @@ Daily AI watch entries will be appended here.
 - [Why Google, Microsoft, Anthropic and OpenAI need their own AI detection tools](https://news.ycombinator.com/item?id=50314217)
   Source: Hacker News
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-11-06
+
+- [20VC x SaaStr: OpenAI Cuts to $1.25 Trillion, Anthropic’s Growth Goes From 12x to 2x, and Why Agents Are an Existential Risk to DoorDash](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT0JyMms0N2JaVnVOWTBXTjhjXzlJSlJNRGN2Wndrcm11U0Q0cmRWczh6aF9Fc1VCYjdFODFuV3E2X21tTDg1VmJVREs4Z3QyTnNPUWliSGJsbEJOSXgxTGZtY1lobGJ5NnNZQU9JZDVsWU83MEZ0UjBsZEVrdjNUaGpycHRmU0VkVTNsMGdONE1jV2tyV2RVTXU0bVVzZG1kRXMwdWlFcFZCQ2hUNlo1Z0FsakQ4YWlCdlByTHdwTms5WDI2V01JSkE0WmpSZnQ4SkhRMk5mNl9EdGdPSm05djJ5ekZ3RC0xUzFF?oc=5)
+  Source: saastr.com
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [OpenAI launches GPT-6 Cyber with stronger exploit research and higher API price than Anthropic and Google](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeTB2WEJJVjRiTUJBZmRvTHd1dkphUWRJRmJBcXlzZDNicWhqZWQxUkNMQ3E0TV9DNllQWHNZTFo5QWNiNTM5NEtOdUFjdDMtb3FDZ3FhTnpGS1liWnVPVTFWdjhuWkM3MExXTnVjMTZ1Umw5U3BRTHoycHdaNUNNNXlJS2o2MVBfNHBlQWRFV2IzbVRLZ3lIRGZiSzRwWmJhbUxKLVlMb3M0cGcwSEdXRHVtcUZHSmQxUFNlSXJKc3FZRThFaEg1aDg5WjJ2R29rbFFHaVZ1MA?oc=5)
+  Source: VentureBeat
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [A top Anthropic product leader has been poached by OpenAI](https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmtsUnhTLUhSSnp4Q09CcWhMcS1lSGhSOUZKdUtWYUJxeW9YdHBRUTV6WW9LNUZ2RlRVWl9tUG02dkRMSzdtMk5NbENYVVhfczJMQ1lkV012RnFiTXRNUFhGdktjakpRcGlKWDRvQzFsNEZ1cnJDcTg2UlZpQWZ4WGpHVWdPejdlQ0E2QjZtNXRVLWRqdXBB?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [How Open Models Win Against OpenAI and Anthropic [video]](https://www.youtube.com/watch?v=zsO5RktNB7k)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Why Google, Microsoft, Anthropic and OpenAI need their own AI detection tools](https://news.ycombinator.com/item?id=50314217)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [3 Artificial Intelligence (AI) Stocks That Are Better and Safer Buys Than Anthropic](https://news.google.com/rss/articles/CBMioAFBVV95cUxOaFVJeFdjdzJqeUZwR1o3bnREcEtRRUtvd3FXcG5jdUQ5ZDNKYzY1SWNVTzR3VXpIdVl5X3BYUVVSdGl4MFhqbFUwaFN2azFHbll2Y3o0NG9CbGQ1R2NINDZqYUlVd3FxSFh4TktONVdRQkdYV3c3U0VXckZTejdXNHZGelRLNXJpOWUwU3haY1kzS09fbFRnYWc1XzdKc1kx?oc=5)
+  Source: Yahoo Finance
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI released a new cybersecurity model. Is that enough?](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUlwVjFGWDNxSTg2dVVfRjA4bmJkcUVjMUtobXpBV00xU2FqWEpQNUxrM0JmejZiTTBnX3NfUTBCMWIzbkVpc1NjMFdSbDJ3eWgzODQzVU1uRXJpRThTWTdfQmM2Wjh1WkZaUDFseURTTFdTSVVmRDJUdnFYam1Db1c0bWhlTmNLSi1FTmFzTGt3TTNkU1E?oc=5)
+  Source: TechCrunch
+  Implication: Model quality and capability shifts are worth watching for product planning.
