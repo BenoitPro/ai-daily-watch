@@ -2741,3 +2741,33 @@ Daily AI watch entries will be appended here.
 - [Low signal day for AI news](https://github.com)
   Source: Internal fallback
   Implication: No strong signal surfaced today, but the daily log still captures continuity.
+
+## 2026-11-08
+
+- [Chamath Palihapitiya Warns AI Data Center Slowdown Could Be A ‘Disproportionate’ Blow To Anthropic And OpenAI](https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWVqZFhYQXo1R3pfbXlpRHVRLUpsdEkwSnFPX0IyYmFYdEFYUHBnY04wbE5qSGM3WGMtYThzOWgybmhmQkVCNzkxeDI5ajVUYkRqWFdRLU05Q3dMMzd2U3IyNEFya21GWFdmWXAyanBSQmNHS080a1RYdjhvd1RTY253QUZ1a2tPbjIwd3VWdV92OXhVbWJRLW5hT2tWS3U4MEczbTBaRXVPbXdZS2syQkFhZUx0S2otNVZkbjFVYTNWdjh0ZlZj?oc=5)
+  Source: Stocktwits
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [A top Anthropic product leader has been poached by OpenAI](https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmtsUnhTLUhSSnp4Q09CcWhMcS1lSGhSOUZKdUtWYUJxeW9YdHBRUTV6WW9LNUZ2RlRVWl9tUG02dkRMSzdtMk5NbENYVVhfczJMQ1lkV012RnFiTXRNUFhGdktjakpRcGlKWDRvQzFsNEZ1cnJDcTg2UlZpQWZ4WGpHVWdPejdlQ0E2QjZtNXRVLWRqdXBB?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Why Google, Microsoft, Anthropic and OpenAI need their own AI detection tools](https://news.ycombinator.com/item?id=50314217)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [How Open Models Win Against OpenAI and Anthropic [video]](https://www.youtube.com/watch?v=zsO5RktNB7k)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [What the OpenAI–Hugging Face incident says about AI agent access](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNXBtRmo3cWdPTkJtbFZVLXlVWHUyekQ5ODc1NkhrUTFoQzRoLUZINzFKOXhBY0VjVmZVaGp4QVhCZjRDTHpWMGp2MERJa3laeW1OTm1fQ2F1dW9RSHlZZzI0TWVoT1NxXzgzWlZoMHZQTHZmQU5BTV9OaU53Umh2eFJNMGNzbmI2SjJGaFY1SkYwU3hPLWk1OHBNUW1XUTFxOUE?oc=5)
+  Source: SC Media
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [OpenAI’s Fabbri and Steffmann: The Bank AI Agent Won’t Be a New App—It’ll Live Inside ChatGPT and Codex](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYNmRLWU90UG5pTVQ5OXZaNWM4RlFKTjc5S1F5VVBQSE1nNUM5VUVYUXhnd0JpeHpUMFFxOTFwZVhUOXZSMkl2T01TZ24xSFg3YU82R2hDeVdqaG8?oc=5)
+  Source: BigGo Finance
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Measuring how AI agents handle everyday wet-lab science](https://news.google.com/rss/articles/CBMifEFVX3lxTE0xR2JJZ0FQU2ptTi1UcE9reDg3aGdRZ2lHM0d3NHYxcS1KbDhacDJ4RWlKM2R6ZHpEdFh4TTdmVm82VkZ2enhZOWFjanZfQzR2aUcyS3FkbjRoOHFTcXlfaVI0YTd4aFVyMFQ5SFVtelhjVmtTVE11R2k2LUI?oc=5)
+  Source: OpenAI
+  Implication: AI agents are becoming more practical for day-to-day workflows.
