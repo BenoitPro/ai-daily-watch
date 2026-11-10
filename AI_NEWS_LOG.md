@@ -2771,3 +2771,33 @@ Daily AI watch entries will be appended here.
 - [Measuring how AI agents handle everyday wet-lab science](https://news.google.com/rss/articles/CBMifEFVX3lxTE0xR2JJZ0FQU2ptTi1UcE9reDg3aGdRZ2lHM0d3NHYxcS1KbDhacDJ4RWlKM2R6ZHpEdFh4TTdmVm82VkZ2enhZOWFjanZfQzR2aUcyS3FkbjRoOHFTcXlfaVI0YTd4aFVyMFQ5SFVtelhjVmtTVE11R2k2LUI?oc=5)
   Source: OpenAI
   Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-11-10
+
+- [Can DeepSeek Challenge OpenAI, Anthropic in AI Agents](https://www.scmp.com/tech/big-tech/article/3373757/can-deepseek-challenge-openai-anthropic-ai-agents-harness-adoption-takes)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Anthropic debuts Claude Fable, Mythos 5.2 models, priced 20% below OpenAI’s GPT-6 Astra](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZXh5WWJvWmxMbkZBakNhNWhkR3R2YnFvS2Uwc3JuOFlPOGh0aU1mbWZXZEJJU0xuRDZ2TW1nLXdyMWxnWllFcnRnRGlHWDJBdWUxdHJaR1NIZDc5Y0djdEliTUhGTDlxazlFbER1cmZyTk9udlJ1eHJxRHo1cmlKV2QtMW0yVTFaVk55dFJJVE9DRVYyM21nMXl0eEVzVEVxR1lVVGJWb2lzNDl1MmJONWVsc2ZET2VST3dEUUxGQWdIeFFkQjB6TnlKY0M5WmFqck80Q1VaSHQ?oc=5)
+  Source: Fortune
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [How Open Models Win Against OpenAI and Anthropic [video]](https://www.youtube.com/watch?v=zsO5RktNB7k)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnBiX0Z2cUluNEtMVUJhSG83U09OQUo0ZzVxSUQtTXpxa2FMOWNvN1JZNVdMT1FUbW9tenFYOGNIWmxuLWZpOFc1bkFSN1d6Nk9kaklCczUwYjZXNkktT3NkX2hDOTRzT1prb0pmWWlObm9nbGJVa0NmWlZ4dU5NRS1XNXNHMkFLbDFreGxmd05EY3BZczR5NS1aYkdtSTAyQXl2eA?oc=5)
+  Source: The Guardian
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Australia plans new regulator for artificial intelligence after OpenAI hack](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2V1VXBUemdrc3RZUEVkdWhqN1paUkN0bzBhQ3BXZUQ3RU95ZFh0VExqMnM2VTg1TUtob0MyNXZpdGJyRTZhZkpzNTIxal9DTFVFUC0xUHVBUUJvd056VDhtZlZRSnl2RFNpN3p0OW83SldCVHhZZ3dscTdUeHg5eGpMMjJnUTZWYzNCSURtT0psY2I1dldZWllVRkNldEp1bFU0Y0Q2ZXAxVzVTUFVrSWJfc25jeVdJbHdqSFVvTk9uSlFsdm85YlBJTE4xWDY0cV8tLVJtdGpqbGc?oc=5)
+  Source: Nikkei Asia
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Australia to launch AI safety regulator after OpenAI’s breach of a government portal](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlo5Tlc2MlJSQWdPVkpWSUw3UFlUMnUxX05wUk5QZ3lrV0ZRT1MyQUY1WHlJV3BHdnhJeDZueGNEWGFlMC11ckd6WDBPZ0Jud1FfOXhIWVFPem5XdllSUFplQWdiaGI2ZmRUUEtjeDZwSnlyVC16d2thVlJESkZDb0RRVHdySUxfeENLd1dsWk1uRTNybmw2Zm0yMmp3VDBZMXJmS2o0ZUN2d3FyaXlNNEo3LVE4Zw?oc=5)
+  Source: WTOP News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds](https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZ19OSTNSY1dhR3hRS1h5MWdBMnQtbDBZRG9lNUl6c2Z3Sy1hYlh2LUY2elVFd1BzbUVrYkdHcC1XQVBuTFZ3d2p3ME9uTkRRb0k5NE1OdjB1eU5XNFFWb3pTcTd1OUw0cTF2Ynd4M25tSGFQaHdhVFFoZVZyR1U?oc=5)
+  Source: CNBC
+  Implication: Model quality and capability shifts are worth watching for product planning.
