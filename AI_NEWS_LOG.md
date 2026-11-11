@@ -2801,3 +2801,33 @@ Daily AI watch entries will be appended here.
 - [Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds](https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZ19OSTNSY1dhR3hRS1h5MWdBMnQtbDBZRG9lNUl6c2Z3Sy1hYlh2LUY2elVFd1BzbUVrYkdHcC1XQVBuTFZ3d2p3ME9uTkRRb0k5NE1OdjB1eU5XNFFWb3pTcTd1OUw0cTF2Ynd4M25tSGFQaHdhVFFoZVZyR1U?oc=5)
   Source: CNBC
   Implication: Model quality and capability shifts are worth watching for product planning.
+
+## 2026-11-11
+
+- [Can DeepSeek Challenge OpenAI, Anthropic in AI Agents](https://www.scmp.com/tech/big-tech/article/3373757/can-deepseek-challenge-openai-anthropic-ai-agents-harness-adoption-takes)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [TSMC to invest up to $1 billion in Anthropic, OpenAI](https://news.google.com/rss/articles/CBMikwFBVV95cUxPY2I3VHRfaEF6T19qN28tZEVhN0piNERjTFpJRVlDMFdTLXJUZTlNdGJXblVLTVpEY0QzUVdvay1IazlCNTBmbGFWQ3NlNkIxRzBZSTIwSEJGUnJKTjl2YkZrUVdLVzB3T1V2WkRhRVAzcmVCVFJ6RjRfUEJveDZnWTlFYTBRZl9sMFlIUGZZaXlibmc?oc=5)
+  Source: Reuters
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI](https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3ZlYXlWNllKZkZETDl2YUpGcXdKYnBpc01rZ2pMenZYcXJrcmVhbFdlUW5oQnFWeTZ1dlN2S2RwVFFUaVJIUWk0UVJsOHk4R25nSGt4NnlfYTZVNXZvTzlrcXU4V2ZGNUNQQTY1amMwcHZ3bC00aTFBMTRKcFExdThaQlY2Nmp4ek1qSXRDdVVuLUlOSWVPQWMtSHlqT0g3RmlCbQ?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVhqV2gyYlFPU1FIZlNHRkp4SGJHQVJmMzB3cHE0a29DRHpzS09Obzh5NmlQRFFQd25aaE90ZlVxMXJCaUI0Y1FsOEltc09rX0VRTlJZZ01oUlZXN05KV3NxRXpYclhwb0g1VFE4WFEwZ2tZNllMTkpjdFQ3RVBLeWZMTWVJN3B1OVQtWVM1NkNYbER5a2NwNm1HVmI3R1pjOHFoSzJOdzBucW8tZU53?oc=5)
+  Source: TechCrunch
+  Implication: Regulatory pressure is rising and could change shipping constraints.
+
+- [Beyond OpenAI and Anthropic: Where iCapital sees the next wave of AI winners](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSGlSUW9xU05xTXk1RzBQcmlaQ3V5QW91VmZxaURrT2FJd0x0XzJfd3NRcmxBendSSlp0dllHOFJMa1h2RzY4VkNmRlpNblFNUjRreV9fV2hoZmFZMUdvaFVPOUdabTl1MVNOZFNJRzREUU5wVGcxOXBtRjRRUHNXM1JLcjVVbm1hNVRndFlKZ2FGU0o3ZnJadnc1bktQbDI2b3RjVWZJMEE2QQ?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [The Anthropic-OpenAI Valuation Gap](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQmxKdGxGRzFhN2ZseTdPTmM1X3JVVTNjNmNtOGFOUzdGYTZYN2piUEZ1LWxiV0FWVHFTdWNTbVYwR1NMV2ZJeTVVRlpOQWUzdU1YVXl0OENFcmhNREFkX0hOSFc1TUZSbEtKXzhEQ2pTVUo4cElUUHBnZ0dHLXNxaUNtODQ0dC1oSThj?oc=5)
+  Source: The Information
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [RainFocus Launches Anthropic Connector for AI Agent Access to Event Data](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPa0ZBWDh4b2Zld1NPZy1WN3BkdTZOSlB6VkV4dmdPZjhKd1VmRWQxNFpOYlFuNXBxRENYWG1YTEhIZFlFQ19idmZUYVFhUUhxbm41VTREQlhJdXNBTHhyNUY2M2ZEbExHWkN5ek13V3kxVkk3R29NMlAtRlhzWFB5YWdWcm55ejFEUk5YSEF2N0RDaGlMTmF4UFlzcmprZWdRWnpidTRhcVpOaUh6UTFfU1dxc2RKdC1nYXNvQl8wM0ZGRVBPZlF6bk1iODZUN18tckJWWkJaTVRIUXZ6ZktXelNXNXAzWnV1dWRKNQ?oc=5)
+  Source: The Herald Journal
+  Implication: AI agents are becoming more practical for day-to-day workflows.
