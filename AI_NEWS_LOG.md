@@ -2831,3 +2831,33 @@ Daily AI watch entries will be appended here.
 - [RainFocus Launches Anthropic Connector for AI Agent Access to Event Data](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPa0ZBWDh4b2Zld1NPZy1WN3BkdTZOSlB6VkV4dmdPZjhKd1VmRWQxNFpOYlFuNXBxRENYWG1YTEhIZFlFQ19idmZUYVFhUUhxbm41VTREQlhJdXNBTHhyNUY2M2ZEbExHWkN5ek13V3kxVkk3R29NMlAtRlhzWFB5YWdWcm55ejFEUk5YSEF2N0RDaGlMTmF4UFlzcmprZWdRWnpidTRhcVpOaUh6UTFfU1dxc2RKdC1nYXNvQl8wM0ZGRVBPZlF6bk1iODZUN18tckJWWkJaTVRIUXZ6ZktXelNXNXAzWnV1dWRKNQ?oc=5)
   Source: The Herald Journal
   Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-11-12
+
+- [Ask HN: What models do you use for tasks Anthropic/OpenAI don't approve of?](https://news.ycombinator.com/item?id=50456394)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Can DeepSeek Challenge OpenAI, Anthropic in AI Agents](https://www.scmp.com/tech/big-tech/article/3373757/can-deepseek-challenge-openai-anthropic-ai-agents-harness-adoption-takes)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [TSMC to invest up to $1 billion in Anthropic, OpenAI](https://news.google.com/rss/articles/CBMikwFBVV95cUxPY2I3VHRfaEF6T19qN28tZEVhN0piNERjTFpJRVlDMFdTLXJUZTlNdGJXblVLTVpEY0QzUVdvay1IazlCNTBmbGFWQ3NlNkIxRzBZSTIwSEJGUnJKTjl2YkZrUVdLVzB3T1V2WkRhRVAzcmVCVFJ6RjRfUEJveDZnWTlFYTBRZl9sMFlIUGZZaXlibmc?oc=5)
+  Source: Reuters
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI](https://news.google.com/rss/articles/CBMinwFBVV95cUxNanhKZDVUckJDOTUyaHpuU1ozRV9Rc1I0czVKZmtueDFsM3pDTjRJZTFMQ0RDREhKcHRtTXIzQ2Zmdm1TWWNGbFN1RUE0dHBjWTNjV1VSR0lLTktuNVRrTnQxY0hfV0VXWUkzRnFyQ2otV0duQjdUVkdFcC1fWm9WQV9MN3k0Y3Y2YTY4d2w0dm56QUVyVlNaTlZmMi1QdTg?oc=5)
+  Source: Ars Technica
+  Implication: Compute access remains a strategic constraint in the AI stack.
+
+- [OpenAI, Anthropic Valuations Fuel VC Fears of Startup Correction](https://news.google.com/rss/articles/CBMitAFBVV95cUxNVzBRbmVLSUFUYS1uMjVUUVZVaTFQQmZhTmRGNklQRjhLc1B3MnJPWW1fNkNua014V3NzS2hWREJ2d3YtVElhTXc5VHBId1N2aTJ3M2MwdE5nWmtTT2ZSdDhXSzlyTzdta0RMOFVUTTJqV0ZPWndsc2ZBVHgzTFA0aWFPMnRrcVJHZ1Jmd0FNZHNzU0p5cTZDV050MzJPajlTdWVyMXIwQ2UybFdmNnVYMW5IVVE?oc=5)
+  Source: Bloomberg.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVhqV2gyYlFPU1FIZlNHRkp4SGJHQVJmMzB3cHE0a29DRHpzS09Obzh5NmlQRFFQd25aaE90ZlVxMXJCaUI0Y1FsOEltc09rX0VRTlJZZ01oUlZXN05KV3NxRXpYclhwb0g1VFE4WFEwZ2tZNllMTkpjdFQ3RVBLeWZMTWVJN3B1OVQtWVM1NkNYbER5a2NwNm1HVmI3R1pjOHFoSzJOdzBucW8tZU53?oc=5)
+  Source: TechCrunch
+  Implication: Regulatory pressure is rising and could change shipping constraints.
+
+- [TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI](https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3ZlYXlWNllKZkZETDl2YUpGcXdKYnBpc01rZ2pMenZYcXJrcmVhbFdlUW5oQnFWeTZ1dlN2S2RwVFFUaVJIUWk0UVJsOHk4R25nSGt4NnlfYTZVNXZvTzlrcXU4V2ZGNUNQQTY1amMwcHZ3bC00aTFBMTRKcFExdThaQlY2Nmp4ek1qSXRDdVVuLUlOSWVPQWMtSHlqT0g3RmlCbQ?oc=5)
+  Source: WSJ
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
