@@ -2891,3 +2891,33 @@ Daily AI watch entries will be appended here.
 - [TSMC to invest up to $1 billion in Anthropic, OpenAI](https://news.google.com/rss/articles/CBMikwFBVV95cUxPY2I3VHRfaEF6T19qN28tZEVhN0piNERjTFpJRVlDMFdTLXJUZTlNdGJXblVLTVpEY0QzUVdvay1IazlCNTBmbGFWQ3NlNkIxRzBZSTIwSEJGUnJKTjl2YkZrUVdLVzB3T1V2WkRhRVAzcmVCVFJ6RjRfUEJveDZnWTlFYTBRZl9sMFlIUGZZaXlibmc?oc=5)
   Source: Reuters
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-11-14
+
+- [Warning of interruptions as AI models by Anthropic, OpenAI and others evolve](https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5)
+  Source: The New York Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic, OpenAI sued for allegedly infringing inventors' neural network patents](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTRubERMSXBGblFuaGZHYzh2SDBfRkZCR0F4bnZmUjlXazJhamZaSkhRRzJPT0xuUmZDdlY5RlJQVFE0Rm1VZl9UeVRTVldVRE01VWZORE9NNGxCbjNNTHBrZmdNTXZNbVo1UVdsZ0JLYTlfWkJqa2diNTdCWHUzQ0lYVHNfYWtVNlhlbWh0LUtDNHFsZW5zQ254eHRXdDlkMlJNUnBXY0pLRkx3M1ZRQ3ZKcmZ3RlNYdUxLcWF3?oc=5)
+  Source: Reuters
+  Implication: Regulatory pressure is rising and could change shipping constraints.
+
+- [OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development](https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5)
+  Source: Reuters
+  Implication: Regulatory pressure is rising and could change shipping constraints.
+
+- [Anthropic, OpenAI and other AI developers can't control their own tech, new lawsuit alleges](https://news.google.com/rss/articles/CBMib0FVX3lxTE5Nd0pKdEtsZnJ6UWhKZlR1dUJNV2UwUDRLSHdfVExwQUhNb3hnLW1vYzFuRWRMNlM1dk53dHZyM3pqQXB6Uy1lNlhQc251N2gyVXdxdEFIMUN0X0hadFdZc0ZCMGNkRnVKYVJCMERNdw?oc=5)
+  Source: CBS News
+  Implication: Developer tooling keeps getting more automated and competitive.
+
+- [Billionaire investor Howard Marks says the speed of AI progress is a risk for Anthropic and OpenAI](https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWVTRUdBVmhpTWZFdjBZZnFuWmx2eExibHN5VWhkeTBwTGZ4Y1hRMFpkWkkxb0pkSXdwaDlhLVpaZ2ZaaTl5NGc0TWhjMDJOZWtFN250UFV0SjZhbE9DWGc3MEtLenpnbU01Yi1HcWR6ZkJUVFF5dm5TRzllYVQxazlLQnFFTkR3c0pwdjJJY1ZRclVURWhr?oc=5)
+  Source: Business Insider
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Ask HN: What models do you use for tasks Anthropic/OpenAI don't approve of?](https://news.ycombinator.com/item?id=50456394)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
