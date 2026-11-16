@@ -2951,3 +2951,33 @@ Daily AI watch entries will be appended here.
 - [OpenAI launches ChatGPT Wallet for AI agent purchases](https://news.google.com/rss/articles/CBMijgFBVV95cUxNV1VUenREMkI5ajg2ZThnT3FocGRnMkIySHYwLXBJT1QwTUZ4eUtOWG13MTRpNm1VN2ZRQ3dkVUxiTXZJZm83aXdWVVYyTmtiZURObV9kQ3hTNHBKZjVIbkFTMW1DOGx1NDQxYmwyN1hqcFZwQkVaUVJrOHl2U252bmY2dWxiMEh4dGEtOVZR?oc=5)
   Source: New Orleans CityBusiness
   Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-11-16
+
+- [Jensen Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI](https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVhYSlplNHZVVUFRTlRWc1BIbWFqTFFSWkRLR1NfMUhhazRKRjhLYjM4emVsYU9IRzBKMVlaUlVLZzRsRW40NkZwY3dhNjFwVjVsd29GVGNlcnVPanlOVUw4RWZBdjVWZ0JOb2pBQTJrb3VMZkRSS0tfNUkwN3ZrSThSdDg?oc=5)
+  Source: Financial Times
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Alibaba unveils Qwen3.8-Max AI model, challenging US rivals Anthropic, OpenAI](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZFdKOG5tbVJQbG43cVFoU24zS2JzMF9hVlh6MFBRZDJ1bzQ4QnAtdFVlQ0pZNHVIOVdPaXUxaUVQeDltTEU4QnNLcGpLdmNhdkR6R3A4a0xRaFBUYU05NTlMUjVtMnJqdU5qS2NzcUlQZGViSVZDZExyUE91YTJEVHB2b3dtWGhiWmN2VFBzV3ZEUm5QcjdqTFpkdDZfTXhQaWpoYg?oc=5)
+  Source: Crypto Briefing
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic’s giant IPO puts the heat on OpenAI](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTd6eHRac3JHWEQ5TElWUXZZUWRsMHdXckRQbjJ6X3ZvOFUtVHZDcjFBVWVqOE9LVnNPS3NWeDROZUtsRFdEdklzRzctYlpWbWszbElsMU94VWxtUm5OZ1ozdUxWWnVGRlpGM3ozYWxISG5fS1Y5QlB1bVQ0Z09sVGphWmgzMlpKMWduNkZYX0N1b1Br?oc=5)
+  Source: The Economist
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [More Pain For NVDA? Top Supply Chain Analyst Says New OpenAI, Anthropic Chip Orders Boost Google’s TPU Outlook](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEp4WnhDSTdVb19UMGN3OWkwVGFxcGdJS21Edkhya0ZFaGJvMVNpSGt5NjA0bXd5anlYR2lUOVVKTk9hcF9iU0hPWXBsQWhWeWp0a3VPdHhDLWZrQXUwZ2RSdXUwbVhGU1B4S1AtazVWYzM0dVhRMkNDNUg3bS0wbkxjUXZtc0FCcnktZlczbURVRXM?oc=5)
+  Source: Yahoo Finance
+  Implication: Compute access remains a strategic constraint in the AI stack.
+
+- [Amazon, Microsoft, OpenAI, Anthropic to be named AI ‘national champions’: WSJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOemJiejJ6X1h6blBrVnJsX0t2ZnlCblk0VEVaV19rWW1mMndaQjVHeVg4UkxFNUFtUUp6ZFJxX0otWEZxTFdmU3dzUUY2RGJDb2V1VmtvTHYxWU9ZVVFpUkRmUUUxQ1VlVmZMNl91cVZuZ0VPWGhMOHFXUGlIN3QtR29xTW1ZRVBwTjlTVGJ0UWctTmJtelFFZ3NBbW9GTWhR?oc=5)
+  Source: Crypto Briefing
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic and OpenAI want your money — but what should you get in return?](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbm9ROGJoaEpnVTJlSU9yQlhkVk5pUFhVazl6S2RERmNxLWVqbXZCZzRNRGtSQi1YR29yaHJ2cEw3UlNqc0xOMV9QMXlHMDlWak9PdFJtNXlENjgxYTFjbVR5dzhPVzR6RWJOZ1lseDNkcDZtWFFoOS1kc2d6QzF2RFJ1RF9rdGlkeGxUT0lPWDFUemlSX0hjeFRfMWJYNGRsYzFLWGRyQQ?oc=5)
+  Source: ABC News & Headlines – Australian Broadcasting Corporation
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [​Anthropic IPO: A defining test for the AI industry - Anthropic IPO: Inside the rise of OpenAI's biggest AI rival](https://news.google.com/rss/articles/CBMimwJBVV95cUxPMWxyUU1OS1h4UjdnLXNxY1pSdjVXR1drOGpINFNiSkpaUXVNdnphQVRORUtkZnBEVXFFc211SjJYeU03OW1QaDdLZ0tqQUJsTDRhdG9SbTdEam5YQV9OMG1xNkJuN2hnT09DSlFWZ3ZUOEs4TGxyZ3ZGU3RkVWcxSGVJeTFvcVhzVzlqZ1I5QUJWMUE3VWx4ei0teTY5WVlJYnVnOHlmZjBQa1JUZGZESDdwS3J2WFdRd3c0LXNFTk01dFVxdEFKSk85aEVkcGJBV1pCbS15ZTZHSElfZ3BOYWt0UGtKZzFta1ZWa0owS0xBRlBteUpSS1U4Ry1Sa2JvNjNRVGt5cEh1Rm1fRHNhbDNCQnVyY25KcDIw?oc=5)
+  Source: The Economic Times
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
