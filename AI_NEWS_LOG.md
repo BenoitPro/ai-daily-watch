@@ -2981,3 +2981,33 @@ Daily AI watch entries will be appended here.
 - [​Anthropic IPO: A defining test for the AI industry - Anthropic IPO: Inside the rise of OpenAI's biggest AI rival](https://news.google.com/rss/articles/CBMimwJBVV95cUxPMWxyUU1OS1h4UjdnLXNxY1pSdjVXR1drOGpINFNiSkpaUXVNdnphQVRORUtkZnBEVXFFc211SjJYeU03OW1QaDdLZ0tqQUJsTDRhdG9SbTdEam5YQV9OMG1xNkJuN2hnT09DSlFWZ3ZUOEs4TGxyZ3ZGU3RkVWcxSGVJeTFvcVhzVzlqZ1I5QUJWMUE3VWx4ei0teTY5WVlJYnVnOHlmZjBQa1JUZGZESDdwS3J2WFdRd3c0LXNFTk01dFVxdEFKSk85aEVkcGJBV1pCbS15ZTZHSElfZ3BOYWt0UGtKZzFta1ZWa0owS0xBRlBteUpSS1U4Ry1Sa2JvNjNRVGt5cEh1Rm1fRHNhbDNCQnVyY25KcDIw?oc=5)
   Source: The Economic Times
   Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+## 2026-11-17
+
+- [Anthropic’s giant IPO puts the heat on OpenAI](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTd6eHRac3JHWEQ5TElWUXZZUWRsMHdXckRQbjJ6X3ZvOFUtVHZDcjFBVWVqOE9LVnNPS3NWeDROZUtsRFdEdklzRzctYlpWbWszbElsMU94VWxtUm5OZ1ozdUxWWnVGRlpGM3ozYWxISG5fS1Y5QlB1bVQ0Z09sVGphWmgzMlpKMWduNkZYX0N1b1Br?oc=5)
+  Source: The Economist
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Warning of interruptions as AI models by Anthropic, OpenAI and others evolve](https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Can DeepSeek Challenge OpenAI, Anthropic in AI Agents](https://www.scmp.com/tech/big-tech/article/3373757/can-deepseek-challenge-openai-anthropic-ai-agents-harness-adoption-takes)
+  Source: Hacker News
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Ask HN: What models do you use for tasks Anthropic/OpenAI don't approve of?](https://news.ycombinator.com/item?id=50456394)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [California is suing OpenAI over its ‘rogue’ AI agent hack](https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1hnRVlLR3pOMWZFQkcxa1JFeXZMRUt3Z0NTdUZHYmVtLXJ2VmxvbTVXbENtLV9Nc2hxdG9tR1doOUdBTFBsY3RkcEF4dG5jQjJMRW11Z1IzNmpGY01FQzdXbzFXbmZsX3ZWb083TUpXSnlWSW1mR0JHMWJRdUN2VjhTTVVxZ2RpZEhOaFVuMXdmR19aWW1BREo1VTNLanJoQlE?oc=5)
+  Source: CalMatters
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [California sues OpenAI over safety concerns after rogue agent hacking](https://news.google.com/rss/articles/CBMinAFBVV95cUxQczl5QzNGZ2c2UWZ5U0ppNFFua3NXMVM2Y1dFdjNNNU1md3RCRWtjR0VzQVkyclNWbFNtT0VTUEFVZEhCWndwcE5pWllXOFB1UDlGckhTbWRNVHRKTHhLdmctX0lMTGZ6TWFZcnpRaVp5TXlXQWU0NzJhMlY2UG94VFBHYy1YSXRWLUxaX0Z1azAyZ3lYcHN0QnllM1U?oc=5)
+  Source: The Guardian
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Advancing computer-use agents for healthcare teams](https://news.google.com/rss/articles/CBMieEFVX3lxTE5PNjNyRDJGS1ZQWUhBQXUtMmx2MG1sY0Q1SnlSeHRHUkZJbnNmdzJLblJXalpCbENYTExwaDY4UkpaWEZQUk82Mkd0QUQtbE9PVlRsYmtqMTVNNnVxdm1RVWMtRUJUZWlWeWQ5aEJRNkZoUHN4LXZ5Ng?oc=5)
+  Source: OpenAI
+  Implication: AI agents are becoming more practical for day-to-day workflows.
