@@ -3011,3 +3011,33 @@ Daily AI watch entries will be appended here.
 - [Advancing computer-use agents for healthcare teams](https://news.google.com/rss/articles/CBMieEFVX3lxTE5PNjNyRDJGS1ZQWUhBQXUtMmx2MG1sY0Q1SnlSeHRHUkZJbnNmdzJLblJXalpCbENYTExwaDY4UkpaWEZQUk82Mkd0QUQtbE9PVlRsYmtqMTVNNnVxdm1RVWMtRUJUZWlWeWQ5aEJRNkZoUHN4LXZ5Ng?oc=5)
   Source: OpenAI
   Implication: AI agents are becoming more practical for day-to-day workflows.
+
+## 2026-11-18
+
+- [Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5)
+  Source: Reuters
+  Implication: Developer tooling keeps getting more automated and competitive.
+
+- [Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models](https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnpSWUhVX2NkMm9wR1R1dE92a2VBYVM5TUpKc19Ia3NsSlVmUmZfTjNfYVVuTnU4ZjJPMHJJWHNrclcxT3dSZGZ5ckdDYlM3M3BvcGVNNGtkb1ZKZk5KM2ZvOGJKdVhtLU5fQ3JtSDZsMW5rbGwwczhEX2R4TTY5Nm9n?oc=5)
+  Source: Axios
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Microsoft jabs at OpenAI and Anthropic, touting cheaper, customizable AI models of its own](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0pCVkNJTDc2MENyM3Y1Q0hJRzRyQkg3U2NxVGp1eXRzd2RsM1JNa1BlSkxQckZuSFVLZk1lMmZwdHJPN00xTWVQZi1rUURyTnQzNTlISXhVX1RMalNPMXhZLVpWVXc5eVQzcmZSYlVrY2psVERzN1MzMzY3TElCbUFNWkhBS1dSeklnOGVMVkdSSnVjeUxMUGxmbWFhOGlWWVN4SEtwQ2RhRUFUVG9mNF93UC1XQjczcnBR?oc=5)
+  Source: GeekWire
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Microsoft expands direct competition with OpenAI and Anthropic](https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [California sues OpenAI over artificial intelligence models](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSDA2UnNHbWo3NEptUzVqQzV1amFYVk1CREh3WjYyVW8yWkdKa21ucC1YOE9ISHRiVWpIRkc2T2NGVUpkc05IQUZDNDJla0pPQWtKaGFIWVNoS0J0THg5Yk9LZUZBRm1MUnV2UkVzRjlINndKRmd1X3lsTXljR09EZGtwWEpKWi16NGM0SHNZR0c0NG5CZHR3U0FlMG1HUDQ?oc=5)
+  Source: TahoeDailyTribune.com
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic’s giant IPO puts the heat on OpenAI](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTd6eHRac3JHWEQ5TElWUXZZUWRsMHdXckRQbjJ6X3ZvOFUtVHZDcjFBVWVqOE9LVnNPS3NWeDROZUtsRFdEdklzRzctYlpWbWszbElsMU94VWxtUm5OZ1ozdUxWWnVGRlpGM3ozYWxISG5fS1Y5QlB1bVQ0Z09sVGphWmgzMlpKMWduNkZYX0N1b1Br?oc=5)
+  Source: The Economist
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Warning of interruptions as AI models by Anthropic, OpenAI and others evolve](https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
