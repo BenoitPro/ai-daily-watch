@@ -3041,3 +3041,33 @@ Daily AI watch entries will be appended here.
 - [Warning of interruptions as AI models by Anthropic, OpenAI and others evolve](https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944)
   Source: Hacker News
   Implication: Model quality and capability shifts are worth watching for product planning.
+
+## 2026-11-19
+
+- [Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases](https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1ZjWGY0QTNQeDhqM2lfazJKT2FVWXRPNkk0VzIwRnJOWFdpQmJvdGRSU0I5WTRXblE2NVZIV1RlYVlZMnpvSFJOUzhvZEFhYlRRaXdCTUl1OWdyeFZIcjQzZU5yMmJQZXNXUFpDTkRNMlBEV19QR1NnRTU1OUppaG16LU8?oc=5)
+  Source: CalMatters
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Jensen Huang's fall hits 'open' models in boost to Anthropic and OpenAI](https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Nancy Tengler: I'd much rather own Anthropic over OpenAI](https://news.google.com/rss/articles/CBMingFBVV95cUxPNmZHZTVJYTl6WkZ2OEJDS0c0TGlaMi15RUtyUlh4bl9mZy1ienJtc05qdVI1WHdoN1Y4WTk3dlp5MDBRT0NscVRheFU3aWRwSTgweVl0UHRoMlVsZkNBdm5KUllTUlR2Xy1CLXoyYlVGU3pNN3k2eVYzV09ZNjdMLXlfRXp6cWtHQjZUNWFYUXpCNnVzYi1NX2pSV3Mzdw?oc=5)
+  Source: CNBC
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Microsoft Says Copilot Is Beating Anthropic, OpenAI on Price](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXV4cTU5RmZrd3lGNGRVS2RXYUZFU1prYmhYQzhrSnNWdkRHWmF6N2RjT3RkTkVTb0ZpQWhnZ3hXc3c4S1RzUXdsWGRJMFlVQkloZmlhSWhQcjkwNVFfWGxqR3NtbHNmLWdzRTBMb1dCdFVhUlV2SnhYSUYwZTlZZ2dMRjJadm1McGtYS29PcHhNdG9XSGlOVDFHY1FacGRDOWFuamRFdnEyLTVaWl9F?oc=5)
+  Source: Bloomberg.com
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Microsoft expands direct competition with OpenAI and Anthropic](https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Warning of interruptions as AI models by Anthropic, OpenAI and others evolve](https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Ask HN: What models do you use for tasks Anthropic/OpenAI don't approve of?](https://news.ycombinator.com/item?id=50456394)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
