@@ -3071,3 +3071,33 @@ Daily AI watch entries will be appended here.
 - [Ask HN: What models do you use for tasks Anthropic/OpenAI don't approve of?](https://news.ycombinator.com/item?id=50456394)
   Source: Hacker News
   Implication: Model quality and capability shifts are worth watching for product planning.
+
+## 2026-11-20
+
+- [Jensen Huang's fall hits 'open' models in boost to Anthropic and OpenAI](https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Anthropic Stock Slips After-Hours as Blockbuster IPO Does Little for AI Names: OpenAI-Backer SoftBank Crashes in Nikkei Meltdown](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXYwOC1KcGx4UExpcVBfNHQyT2RGOExkRS1tU094TEJXU3VfY3M1dDhsSFZVWTc5cEh0UzR2MUxPRGUySDlYcHBuS05fOXA3VTYzRFBZTmVDYWMyNU10VjFVTHNVY3NnbWZUQ3oxYkhwX0QtaHotRTJZM2hFMUkzNUQ0Tkh3UEtzMlRHY05idmg5b1c4d0ZYVnpxMnZIM1kzU1NaMmhQVQ?oc=5)
+  Source: Yahoo Finance
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Anthropic should give stock to Stack Overflow (and OpenAI too)](https://news.ycombinator.com/item?id=50566487)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Apple Takes On OpenAI and Meta by Building Its Own AI Agent for Coding, Web Browsing and App Control!](https://news.google.com/rss/articles/CBMif0FVX3lxTFB6VmdFUUxqRkc4eGtxdEpYSmgzSHBvbzdpcDFaSHBrVkYzLVBtdUNhN0xEWnpvLUlmNHlLSWxZdENNRV83TjgwZ3B0UVVTZXNvNEVQNDVSREJSYl9naEcwZ1FRYWtNZVp4Tm1SU3RLdlBmal9MQzJzMzQzQWp3NXM?oc=5)
+  Source: www.tmgm.com
+  Implication: AI agents are becoming more practical for day-to-day workflows.
+
+- [Microsoft expands direct competition with OpenAI and Anthropic](https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17)
+  Source: Hacker News
+  Implication: Worth tracking for tooling, product strategy, and workflow changes.
+
+- [Warning of interruptions as AI models by Anthropic, OpenAI and others evolve](https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
+
+- [Ask HN: What models do you use for tasks Anthropic/OpenAI don't approve of?](https://news.ycombinator.com/item?id=50456394)
+  Source: Hacker News
+  Implication: Model quality and capability shifts are worth watching for product planning.
